@@ -1,0 +1,1001 @@
+{"dota_id":1,"rang":" Crusader","winrate":29,"rampages":10,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":2,"rang":" Ancient","winrate":22,"rampages":20,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":3,"rang":" Ancient","winrate":42,"rampages":9,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":4,"rang":" Guardian","winrate":83,"rampages":14,"favrole":" Support","favhero":" Axe"}
+{"dota_id":5,"rang":" Herald","winrate":54,"rampages":12,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":6,"rang":" Herald","winrate":56,"rampages":5,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":7,"rang":" Legend","winrate":15,"rampages":17,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":8,"rang":" Legend","winrate":59,"rampages":4,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":9,"rang":" Legend","winrate":57,"rampages":22,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":10,"rang":" Crusader","winrate":73,"rampages":13,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":11,"rang":" Ancient","winrate":17,"rampages":18,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":12,"rang":" Crusader","winrate":53,"rampages":25,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":13,"rang":" Guardian","winrate":23,"rampages":14,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":14,"rang":" Guardian","winrate":72,"rampages":5,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":15,"rang":" Legend","winrate":34,"rampages":7,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":16,"rang":" Archon","winrate":27,"rampages":3,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":17,"rang":" Crusader","winrate":64,"rampages":13,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":18,"rang":" Herald","winrate":30,"rampages":29,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":19,"rang":" Legend","winrate":31,"rampages":15,"favrole":" Semi-support","favhero":" Axe"}
+{"dota_id":20,"rang":" Ancient","winrate":30,"rampages":5,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":21,"rang":" Archon","winrate":76,"rampages":22,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":22,"rang":" Archon","winrate":22,"rampages":11,"favrole":" Semi-support","favhero":" Axe"}
+{"dota_id":23,"rang":" Ancient","winrate":73,"rampages":29,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":24,"rang":" Crusader","winrate":69,"rampages":17,"favrole":" Support","favhero":" Techies"}
+{"dota_id":25,"rang":" Ancient","winrate":88,"rampages":26,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":26,"rang":" Legend","winrate":12,"rampages":12,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":27,"rang":" Ancient","winrate":42,"rampages":7,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":28,"rang":" Archon","winrate":24,"rampages":30,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":29,"rang":" Legend","winrate":37,"rampages":4,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":30,"rang":" Herald","winrate":28,"rampages":8,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":31,"rang":" Archon","winrate":36,"rampages":11,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":32,"rang":" Ancient","winrate":39,"rampages":25,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":33,"rang":" Ancient","winrate":75,"rampages":0,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":34,"rang":" Archon","winrate":49,"rampages":10,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":35,"rang":" Archon","winrate":89,"rampages":15,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":36,"rang":" Crusader","winrate":55,"rampages":20,"favrole":" Carry","favhero":" Warlock"}
+{"dota_id":37,"rang":" Guardian","winrate":17,"rampages":22,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":38,"rang":" Legend","winrate":74,"rampages":8,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":39,"rang":" Guardian","winrate":33,"rampages":21,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":40,"rang":" Herald","winrate":43,"rampages":12,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":41,"rang":" Ancient","winrate":77,"rampages":19,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":42,"rang":" Archon","winrate":14,"rampages":17,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":43,"rang":" Herald","winrate":46,"rampages":24,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":44,"rang":" Ancient","winrate":73,"rampages":16,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":45,"rang":" Ancient","winrate":85,"rampages":2,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":46,"rang":" Crusader","winrate":14,"rampages":21,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":47,"rang":" Legend","winrate":27,"rampages":3,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":48,"rang":" Guardian","winrate":43,"rampages":5,"favrole":" Mid","favhero":" Jakiro"}
+{"dota_id":49,"rang":" Legend","winrate":81,"rampages":25,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":50,"rang":" Ancient","winrate":79,"rampages":19,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":51,"rang":" Guardian","winrate":30,"rampages":26,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":52,"rang":" Archon","winrate":36,"rampages":12,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":53,"rang":" Ancient","winrate":85,"rampages":1,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":54,"rang":" Ancient","winrate":75,"rampages":10,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":55,"rang":" Ancient","winrate":72,"rampages":2,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":56,"rang":" Crusader","winrate":60,"rampages":16,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":57,"rang":" Archon","winrate":11,"rampages":29,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":58,"rang":" Ancient","winrate":51,"rampages":28,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":59,"rang":" Guardian","winrate":49,"rampages":7,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":60,"rang":" Crusader","winrate":63,"rampages":12,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":61,"rang":" Archon","winrate":21,"rampages":4,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":62,"rang":" Crusader","winrate":37,"rampages":13,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":63,"rang":" Guardian","winrate":85,"rampages":9,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":64,"rang":" Archon","winrate":85,"rampages":29,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":65,"rang":" Guardian","winrate":65,"rampages":29,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":66,"rang":" Guardian","winrate":44,"rampages":26,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":67,"rang":" Crusader","winrate":12,"rampages":26,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":68,"rang":" Archon","winrate":58,"rampages":28,"favrole":" Support","favhero":" Techies"}
+{"dota_id":69,"rang":" Archon","winrate":67,"rampages":14,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":70,"rang":" Herald","winrate":54,"rampages":17,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":71,"rang":" Archon","winrate":15,"rampages":17,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":72,"rang":" Ancient","winrate":68,"rampages":5,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":73,"rang":" Guardian","winrate":63,"rampages":2,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":74,"rang":" Archon","winrate":37,"rampages":7,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":75,"rang":" Herald","winrate":45,"rampages":7,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":76,"rang":" Ancient","winrate":39,"rampages":15,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":77,"rang":" Ancient","winrate":71,"rampages":7,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":78,"rang":" Archon","winrate":86,"rampages":29,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":79,"rang":" Archon","winrate":26,"rampages":27,"favrole":" Carry","favhero":" Witch doctor"}
+{"dota_id":80,"rang":" Archon","winrate":82,"rampages":30,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":81,"rang":" Guardian","winrate":51,"rampages":18,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":82,"rang":" Archon","winrate":83,"rampages":30,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":83,"rang":" Archon","winrate":35,"rampages":5,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":84,"rang":" Ancient","winrate":60,"rampages":0,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":85,"rang":" Archon","winrate":50,"rampages":14,"favrole":" Support","favhero":" Techies"}
+{"dota_id":86,"rang":" Herald","winrate":38,"rampages":5,"favrole":" Mid","favhero":" Jakiro"}
+{"dota_id":87,"rang":" Crusader","winrate":78,"rampages":13,"favrole":" Support","favhero":" Techies"}
+{"dota_id":88,"rang":" Legend","winrate":74,"rampages":27,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":89,"rang":" Herald","winrate":80,"rampages":23,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":90,"rang":" Guardian","winrate":76,"rampages":9,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":91,"rang":" Herald","winrate":10,"rampages":5,"favrole":" Mid","favhero":" Jakiro"}
+{"dota_id":92,"rang":" Legend","winrate":90,"rampages":15,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":93,"rang":" Ancient","winrate":70,"rampages":17,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":94,"rang":" Herald","winrate":31,"rampages":22,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":95,"rang":" Crusader","winrate":51,"rampages":27,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":96,"rang":" Legend","winrate":89,"rampages":0,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":97,"rang":" Legend","winrate":82,"rampages":20,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":98,"rang":" Ancient","winrate":10,"rampages":29,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":99,"rang":" Legend","winrate":44,"rampages":15,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":100,"rang":" Guardian","winrate":57,"rampages":2,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":101,"rang":" Crusader","winrate":35,"rampages":27,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":102,"rang":" Herald","winrate":41,"rampages":26,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":103,"rang":" Ancient","winrate":88,"rampages":17,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":104,"rang":" Guardian","winrate":14,"rampages":3,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":105,"rang":" Guardian","winrate":59,"rampages":15,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":106,"rang":" Archon","winrate":32,"rampages":28,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":107,"rang":" Ancient","winrate":87,"rampages":6,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":108,"rang":" Ancient","winrate":78,"rampages":25,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":109,"rang":" Archon","winrate":12,"rampages":21,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":110,"rang":" Crusader","winrate":60,"rampages":5,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":111,"rang":" Archon","winrate":41,"rampages":20,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":112,"rang":" Guardian","winrate":40,"rampages":27,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":113,"rang":" Legend","winrate":50,"rampages":15,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":114,"rang":" Guardian","winrate":66,"rampages":10,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":115,"rang":" Guardian","winrate":50,"rampages":10,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":116,"rang":" Crusader","winrate":11,"rampages":22,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":117,"rang":" Guardian","winrate":43,"rampages":26,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":118,"rang":" Archon","winrate":90,"rampages":25,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":119,"rang":" Archon","winrate":11,"rampages":9,"favrole":" Support","favhero":" Techies"}
+{"dota_id":120,"rang":" Legend","winrate":84,"rampages":13,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":121,"rang":" Crusader","winrate":30,"rampages":30,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":122,"rang":" Archon","winrate":36,"rampages":7,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":123,"rang":" Archon","winrate":23,"rampages":27,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":124,"rang":" Guardian","winrate":40,"rampages":0,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":125,"rang":" Crusader","winrate":42,"rampages":3,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":126,"rang":" Archon","winrate":18,"rampages":21,"favrole":" Carry","favhero":" Warlock"}
+{"dota_id":127,"rang":" Guardian","winrate":46,"rampages":21,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":128,"rang":" Ancient","winrate":30,"rampages":22,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":129,"rang":" Herald","winrate":63,"rampages":20,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":130,"rang":" Ancient","winrate":53,"rampages":16,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":131,"rang":" Archon","winrate":41,"rampages":29,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":132,"rang":" Guardian","winrate":68,"rampages":5,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":133,"rang":" Archon","winrate":16,"rampages":16,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":134,"rang":" Legend","winrate":90,"rampages":18,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":135,"rang":" Guardian","winrate":66,"rampages":2,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":136,"rang":" Crusader","winrate":42,"rampages":6,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":137,"rang":" Herald","winrate":28,"rampages":12,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":138,"rang":" Legend","winrate":35,"rampages":21,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":139,"rang":" Ancient","winrate":62,"rampages":24,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":140,"rang":" Guardian","winrate":70,"rampages":26,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":141,"rang":" Ancient","winrate":35,"rampages":13,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":142,"rang":" Legend","winrate":26,"rampages":28,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":143,"rang":" Ancient","winrate":83,"rampages":3,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":144,"rang":" Guardian","winrate":81,"rampages":7,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":145,"rang":" Herald","winrate":35,"rampages":21,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":146,"rang":" Herald","winrate":30,"rampages":5,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":147,"rang":" Legend","winrate":81,"rampages":1,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":148,"rang":" Herald","winrate":49,"rampages":20,"favrole":" Support","favhero":" Monkey king"}
+{"dota_id":149,"rang":" Guardian","winrate":43,"rampages":28,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":150,"rang":" Herald","winrate":52,"rampages":0,"favrole":" Support","favhero":" Axe"}
+{"dota_id":151,"rang":" Herald","winrate":34,"rampages":18,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":152,"rang":" Ancient","winrate":20,"rampages":4,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":153,"rang":" Ancient","winrate":44,"rampages":16,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":154,"rang":" Herald","winrate":61,"rampages":23,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":155,"rang":" Herald","winrate":10,"rampages":19,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":156,"rang":" Guardian","winrate":39,"rampages":7,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":157,"rang":" Guardian","winrate":18,"rampages":3,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":158,"rang":" Crusader","winrate":56,"rampages":23,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":159,"rang":" Herald","winrate":65,"rampages":24,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":160,"rang":" Legend","winrate":24,"rampages":9,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":161,"rang":" Guardian","winrate":17,"rampages":13,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":162,"rang":" Archon","winrate":29,"rampages":9,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":163,"rang":" Guardian","winrate":90,"rampages":6,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":164,"rang":" Herald","winrate":72,"rampages":4,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":165,"rang":" Herald","winrate":57,"rampages":12,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":166,"rang":" Herald","winrate":81,"rampages":27,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":167,"rang":" Ancient","winrate":38,"rampages":29,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":168,"rang":" Archon","winrate":68,"rampages":27,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":169,"rang":" Legend","winrate":27,"rampages":7,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":170,"rang":" Archon","winrate":40,"rampages":30,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":171,"rang":" Guardian","winrate":20,"rampages":8,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":172,"rang":" Ancient","winrate":25,"rampages":26,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":173,"rang":" Ancient","winrate":83,"rampages":1,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":174,"rang":" Crusader","winrate":77,"rampages":2,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":175,"rang":" Guardian","winrate":60,"rampages":11,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":176,"rang":" Crusader","winrate":89,"rampages":16,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":177,"rang":" Guardian","winrate":70,"rampages":17,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":178,"rang":" Herald","winrate":27,"rampages":23,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":179,"rang":" Ancient","winrate":75,"rampages":26,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":180,"rang":" Crusader","winrate":49,"rampages":28,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":181,"rang":" Archon","winrate":81,"rampages":5,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":182,"rang":" Herald","winrate":78,"rampages":2,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":183,"rang":" Guardian","winrate":27,"rampages":3,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":184,"rang":" Archon","winrate":57,"rampages":30,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":185,"rang":" Legend","winrate":34,"rampages":1,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":186,"rang":" Ancient","winrate":48,"rampages":19,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":187,"rang":" Ancient","winrate":67,"rampages":7,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":188,"rang":" Archon","winrate":65,"rampages":8,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":189,"rang":" Crusader","winrate":40,"rampages":30,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":190,"rang":" Guardian","winrate":11,"rampages":8,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":191,"rang":" Archon","winrate":34,"rampages":6,"favrole":" Semi-support","favhero":" Axe"}
+{"dota_id":192,"rang":" Ancient","winrate":66,"rampages":13,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":193,"rang":" Guardian","winrate":61,"rampages":25,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":194,"rang":" Archon","winrate":25,"rampages":7,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":195,"rang":" Herald","winrate":26,"rampages":19,"favrole":" Support","favhero":" Invoker"}
+{"dota_id":196,"rang":" Crusader","winrate":19,"rampages":6,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":197,"rang":" Guardian","winrate":86,"rampages":7,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":198,"rang":" Ancient","winrate":42,"rampages":18,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":199,"rang":" Ancient","winrate":60,"rampages":12,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":200,"rang":" Ancient","winrate":23,"rampages":16,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":201,"rang":" Crusader","winrate":76,"rampages":25,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":202,"rang":" Archon","winrate":56,"rampages":3,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":203,"rang":" Crusader","winrate":13,"rampages":0,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":204,"rang":" Herald","winrate":71,"rampages":5,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":205,"rang":" Archon","winrate":18,"rampages":8,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":206,"rang":" Archon","winrate":58,"rampages":25,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":207,"rang":" Ancient","winrate":18,"rampages":0,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":208,"rang":" Crusader","winrate":60,"rampages":13,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":209,"rang":" Archon","winrate":59,"rampages":19,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":210,"rang":" Crusader","winrate":41,"rampages":1,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":211,"rang":" Crusader","winrate":59,"rampages":5,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":212,"rang":" Legend","winrate":64,"rampages":6,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":213,"rang":" Herald","winrate":51,"rampages":9,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":214,"rang":" Guardian","winrate":72,"rampages":8,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":215,"rang":" Legend","winrate":75,"rampages":11,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":216,"rang":" Crusader","winrate":90,"rampages":2,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":217,"rang":" Crusader","winrate":59,"rampages":17,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":218,"rang":" Archon","winrate":20,"rampages":24,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":219,"rang":" Legend","winrate":73,"rampages":4,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":220,"rang":" Legend","winrate":35,"rampages":18,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":221,"rang":" Crusader","winrate":44,"rampages":8,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":222,"rang":" Archon","winrate":60,"rampages":23,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":223,"rang":" Crusader","winrate":87,"rampages":24,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":224,"rang":" Guardian","winrate":36,"rampages":23,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":225,"rang":" Archon","winrate":45,"rampages":9,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":226,"rang":" Crusader","winrate":44,"rampages":20,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":227,"rang":" Herald","winrate":21,"rampages":18,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":228,"rang":" Crusader","winrate":79,"rampages":29,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":229,"rang":" Legend","winrate":24,"rampages":8,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":230,"rang":" Archon","winrate":46,"rampages":2,"favrole":" Hardlane","favhero":" Jakiro"}
+{"dota_id":231,"rang":" Herald","winrate":22,"rampages":30,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":232,"rang":" Herald","winrate":43,"rampages":27,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":233,"rang":" Crusader","winrate":13,"rampages":22,"favrole":" Support","favhero":" Invoker"}
+{"dota_id":234,"rang":" Guardian","winrate":45,"rampages":24,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":235,"rang":" Guardian","winrate":61,"rampages":16,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":236,"rang":" Crusader","winrate":58,"rampages":9,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":237,"rang":" Guardian","winrate":33,"rampages":28,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":238,"rang":" Herald","winrate":16,"rampages":30,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":239,"rang":" Ancient","winrate":53,"rampages":6,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":240,"rang":" Guardian","winrate":48,"rampages":10,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":241,"rang":" Ancient","winrate":64,"rampages":4,"favrole":" Carry","favhero":" Witch doctor"}
+{"dota_id":242,"rang":" Archon","winrate":54,"rampages":28,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":243,"rang":" Ancient","winrate":31,"rampages":16,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":244,"rang":" Ancient","winrate":10,"rampages":24,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":245,"rang":" Herald","winrate":86,"rampages":24,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":246,"rang":" Crusader","winrate":75,"rampages":29,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":247,"rang":" Herald","winrate":73,"rampages":1,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":248,"rang":" Herald","winrate":71,"rampages":7,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":249,"rang":" Archon","winrate":66,"rampages":8,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":250,"rang":" Ancient","winrate":59,"rampages":12,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":251,"rang":" Archon","winrate":70,"rampages":1,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":252,"rang":" Herald","winrate":13,"rampages":22,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":253,"rang":" Guardian","winrate":32,"rampages":23,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":254,"rang":" Ancient","winrate":86,"rampages":26,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":255,"rang":" Crusader","winrate":42,"rampages":9,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":256,"rang":" Ancient","winrate":42,"rampages":3,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":257,"rang":" Herald","winrate":86,"rampages":3,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":258,"rang":" Herald","winrate":86,"rampages":19,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":259,"rang":" Archon","winrate":28,"rampages":30,"favrole":" Support","favhero":" Axe"}
+{"dota_id":260,"rang":" Archon","winrate":25,"rampages":11,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":261,"rang":" Archon","winrate":21,"rampages":28,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":262,"rang":" Herald","winrate":44,"rampages":11,"favrole":" Carry","favhero":" Warlock"}
+{"dota_id":263,"rang":" Archon","winrate":70,"rampages":22,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":264,"rang":" Legend","winrate":45,"rampages":24,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":265,"rang":" Ancient","winrate":36,"rampages":29,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":266,"rang":" Crusader","winrate":11,"rampages":18,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":267,"rang":" Legend","winrate":59,"rampages":23,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":268,"rang":" Ancient","winrate":18,"rampages":28,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":269,"rang":" Archon","winrate":70,"rampages":28,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":270,"rang":" Herald","winrate":22,"rampages":2,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":271,"rang":" Ancient","winrate":50,"rampages":25,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":272,"rang":" Legend","winrate":35,"rampages":15,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":273,"rang":" Crusader","winrate":70,"rampages":17,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":274,"rang":" Crusader","winrate":62,"rampages":7,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":275,"rang":" Guardian","winrate":63,"rampages":20,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":276,"rang":" Legend","winrate":77,"rampages":27,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":277,"rang":" Legend","winrate":70,"rampages":3,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":278,"rang":" Ancient","winrate":25,"rampages":24,"favrole":" Carry","favhero":" Witch doctor"}
+{"dota_id":279,"rang":" Ancient","winrate":48,"rampages":23,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":280,"rang":" Herald","winrate":53,"rampages":14,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":281,"rang":" Archon","winrate":88,"rampages":13,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":282,"rang":" Legend","winrate":18,"rampages":27,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":283,"rang":" Legend","winrate":13,"rampages":18,"favrole":" Carry","favhero":" Warlock"}
+{"dota_id":284,"rang":" Legend","winrate":22,"rampages":18,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":285,"rang":" Guardian","winrate":39,"rampages":1,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":286,"rang":" Herald","winrate":22,"rampages":3,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":287,"rang":" Ancient","winrate":43,"rampages":20,"favrole":" Support","favhero":" Techies"}
+{"dota_id":288,"rang":" Ancient","winrate":46,"rampages":12,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":289,"rang":" Crusader","winrate":30,"rampages":2,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":290,"rang":" Ancient","winrate":49,"rampages":30,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":291,"rang":" Ancient","winrate":12,"rampages":28,"favrole":" Semi-support","favhero":" Pudge"}
+{"dota_id":292,"rang":" Herald","winrate":41,"rampages":1,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":293,"rang":" Archon","winrate":51,"rampages":5,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":294,"rang":" Herald","winrate":13,"rampages":10,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":295,"rang":" Legend","winrate":63,"rampages":2,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":296,"rang":" Guardian","winrate":50,"rampages":3,"favrole":" Support","favhero":" Monkey king"}
+{"dota_id":297,"rang":" Ancient","winrate":76,"rampages":8,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":298,"rang":" Archon","winrate":20,"rampages":12,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":299,"rang":" Herald","winrate":21,"rampages":25,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":300,"rang":" Ancient","winrate":22,"rampages":15,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":301,"rang":" Ancient","winrate":25,"rampages":17,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":302,"rang":" Ancient","winrate":22,"rampages":12,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":303,"rang":" Guardian","winrate":65,"rampages":17,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":304,"rang":" Legend","winrate":38,"rampages":2,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":305,"rang":" Guardian","winrate":49,"rampages":19,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":306,"rang":" Guardian","winrate":13,"rampages":28,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":307,"rang":" Archon","winrate":20,"rampages":21,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":308,"rang":" Legend","winrate":24,"rampages":30,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":309,"rang":" Guardian","winrate":32,"rampages":27,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":310,"rang":" Herald","winrate":11,"rampages":29,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":311,"rang":" Herald","winrate":44,"rampages":4,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":312,"rang":" Legend","winrate":89,"rampages":8,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":313,"rang":" Guardian","winrate":28,"rampages":30,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":314,"rang":" Guardian","winrate":28,"rampages":14,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":315,"rang":" Legend","winrate":21,"rampages":13,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":316,"rang":" Guardian","winrate":69,"rampages":3,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":317,"rang":" Legend","winrate":34,"rampages":4,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":318,"rang":" Herald","winrate":35,"rampages":15,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":319,"rang":" Herald","winrate":66,"rampages":0,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":320,"rang":" Guardian","winrate":68,"rampages":26,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":321,"rang":" Archon","winrate":45,"rampages":12,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":322,"rang":" Legend","winrate":66,"rampages":29,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":323,"rang":" Guardian","winrate":64,"rampages":23,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":324,"rang":" Ancient","winrate":16,"rampages":11,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":325,"rang":" Ancient","winrate":82,"rampages":7,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":326,"rang":" Crusader","winrate":34,"rampages":16,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":327,"rang":" Ancient","winrate":42,"rampages":25,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":328,"rang":" Archon","winrate":30,"rampages":7,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":329,"rang":" Archon","winrate":73,"rampages":23,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":330,"rang":" Archon","winrate":29,"rampages":26,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":331,"rang":" Legend","winrate":66,"rampages":24,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":332,"rang":" Archon","winrate":12,"rampages":26,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":333,"rang":" Guardian","winrate":54,"rampages":15,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":334,"rang":" Legend","winrate":79,"rampages":24,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":335,"rang":" Guardian","winrate":59,"rampages":16,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":336,"rang":" Archon","winrate":83,"rampages":24,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":337,"rang":" Ancient","winrate":50,"rampages":19,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":338,"rang":" Ancient","winrate":41,"rampages":18,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":339,"rang":" Archon","winrate":45,"rampages":10,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":340,"rang":" Archon","winrate":80,"rampages":30,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":341,"rang":" Guardian","winrate":33,"rampages":4,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":342,"rang":" Legend","winrate":56,"rampages":23,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":343,"rang":" Crusader","winrate":79,"rampages":10,"favrole":" Semi-support","favhero":" Pudge"}
+{"dota_id":344,"rang":" Guardian","winrate":28,"rampages":0,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":345,"rang":" Ancient","winrate":13,"rampages":25,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":346,"rang":" Herald","winrate":28,"rampages":22,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":347,"rang":" Herald","winrate":63,"rampages":11,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":348,"rang":" Archon","winrate":36,"rampages":8,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":349,"rang":" Herald","winrate":20,"rampages":29,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":350,"rang":" Legend","winrate":33,"rampages":29,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":351,"rang":" Ancient","winrate":46,"rampages":22,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":352,"rang":" Ancient","winrate":30,"rampages":21,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":353,"rang":" Ancient","winrate":29,"rampages":23,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":354,"rang":" Crusader","winrate":37,"rampages":2,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":355,"rang":" Ancient","winrate":36,"rampages":29,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":356,"rang":" Ancient","winrate":49,"rampages":1,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":357,"rang":" Guardian","winrate":62,"rampages":26,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":358,"rang":" Ancient","winrate":80,"rampages":3,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":359,"rang":" Crusader","winrate":83,"rampages":3,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":360,"rang":" Herald","winrate":40,"rampages":15,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":361,"rang":" Archon","winrate":14,"rampages":12,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":362,"rang":" Crusader","winrate":68,"rampages":23,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":363,"rang":" Guardian","winrate":69,"rampages":17,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":364,"rang":" Archon","winrate":86,"rampages":28,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":365,"rang":" Guardian","winrate":29,"rampages":10,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":366,"rang":" Crusader","winrate":49,"rampages":9,"favrole":" Semi-support","favhero":" Pudge"}
+{"dota_id":367,"rang":" Legend","winrate":38,"rampages":12,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":368,"rang":" Legend","winrate":46,"rampages":20,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":369,"rang":" Ancient","winrate":86,"rampages":29,"favrole":" Support","favhero":" Invoker"}
+{"dota_id":370,"rang":" Ancient","winrate":82,"rampages":21,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":371,"rang":" Herald","winrate":10,"rampages":21,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":372,"rang":" Crusader","winrate":48,"rampages":5,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":373,"rang":" Legend","winrate":41,"rampages":9,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":374,"rang":" Herald","winrate":75,"rampages":1,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":375,"rang":" Ancient","winrate":48,"rampages":8,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":376,"rang":" Herald","winrate":39,"rampages":16,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":377,"rang":" Guardian","winrate":18,"rampages":18,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":378,"rang":" Herald","winrate":18,"rampages":26,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":379,"rang":" Crusader","winrate":28,"rampages":1,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":380,"rang":" Guardian","winrate":44,"rampages":8,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":381,"rang":" Guardian","winrate":38,"rampages":9,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":382,"rang":" Herald","winrate":71,"rampages":10,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":383,"rang":" Archon","winrate":45,"rampages":3,"favrole":" Support","favhero":" Techies"}
+{"dota_id":384,"rang":" Crusader","winrate":58,"rampages":0,"favrole":" Carry","favhero":" Witch doctor"}
+{"dota_id":385,"rang":" Crusader","winrate":19,"rampages":1,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":386,"rang":" Guardian","winrate":51,"rampages":4,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":387,"rang":" Legend","winrate":50,"rampages":6,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":388,"rang":" Guardian","winrate":84,"rampages":10,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":389,"rang":" Herald","winrate":87,"rampages":5,"favrole":" Semi-support","favhero":" Monkey king"}
+{"dota_id":390,"rang":" Archon","winrate":51,"rampages":28,"favrole":" Support","favhero":" Techies"}
+{"dota_id":391,"rang":" Crusader","winrate":48,"rampages":5,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":392,"rang":" Ancient","winrate":31,"rampages":19,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":393,"rang":" Ancient","winrate":16,"rampages":16,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":394,"rang":" Crusader","winrate":21,"rampages":8,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":395,"rang":" Herald","winrate":33,"rampages":6,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":396,"rang":" Ancient","winrate":64,"rampages":15,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":397,"rang":" Archon","winrate":12,"rampages":16,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":398,"rang":" Herald","winrate":88,"rampages":3,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":399,"rang":" Crusader","winrate":44,"rampages":3,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":400,"rang":" Archon","winrate":69,"rampages":0,"favrole":" Carry","favhero":" Warlock"}
+{"dota_id":401,"rang":" Legend","winrate":14,"rampages":0,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":402,"rang":" Ancient","winrate":67,"rampages":13,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":403,"rang":" Crusader","winrate":80,"rampages":17,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":404,"rang":" Ancient","winrate":14,"rampages":2,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":405,"rang":" Legend","winrate":23,"rampages":25,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":406,"rang":" Guardian","winrate":27,"rampages":11,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":407,"rang":" Herald","winrate":62,"rampages":6,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":408,"rang":" Crusader","winrate":78,"rampages":18,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":409,"rang":" Legend","winrate":41,"rampages":22,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":410,"rang":" Guardian","winrate":79,"rampages":24,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":411,"rang":" Crusader","winrate":63,"rampages":10,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":412,"rang":" Ancient","winrate":64,"rampages":8,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":413,"rang":" Crusader","winrate":83,"rampages":20,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":414,"rang":" Guardian","winrate":30,"rampages":15,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":415,"rang":" Legend","winrate":81,"rampages":25,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":416,"rang":" Archon","winrate":61,"rampages":1,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":417,"rang":" Crusader","winrate":69,"rampages":26,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":418,"rang":" Archon","winrate":52,"rampages":25,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":419,"rang":" Herald","winrate":67,"rampages":22,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":420,"rang":" Herald","winrate":13,"rampages":2,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":421,"rang":" Legend","winrate":60,"rampages":4,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":422,"rang":" Guardian","winrate":23,"rampages":27,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":423,"rang":" Herald","winrate":82,"rampages":11,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":424,"rang":" Crusader","winrate":37,"rampages":2,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":425,"rang":" Ancient","winrate":71,"rampages":5,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":426,"rang":" Herald","winrate":66,"rampages":26,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":427,"rang":" Legend","winrate":81,"rampages":12,"favrole":" Semi-support","favhero":" Pudge"}
+{"dota_id":428,"rang":" Ancient","winrate":84,"rampages":8,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":429,"rang":" Guardian","winrate":44,"rampages":15,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":430,"rang":" Ancient","winrate":86,"rampages":2,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":431,"rang":" Legend","winrate":21,"rampages":8,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":432,"rang":" Ancient","winrate":47,"rampages":20,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":433,"rang":" Legend","winrate":55,"rampages":16,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":434,"rang":" Ancient","winrate":31,"rampages":4,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":435,"rang":" Ancient","winrate":81,"rampages":24,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":436,"rang":" Legend","winrate":80,"rampages":27,"favrole":" Support","favhero":" Techies"}
+{"dota_id":437,"rang":" Archon","winrate":36,"rampages":17,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":438,"rang":" Legend","winrate":39,"rampages":10,"favrole":" Support","favhero":" Techies"}
+{"dota_id":439,"rang":" Guardian","winrate":68,"rampages":21,"favrole":" Support","favhero":" Invoker"}
+{"dota_id":440,"rang":" Crusader","winrate":50,"rampages":28,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":441,"rang":" Guardian","winrate":90,"rampages":19,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":442,"rang":" Archon","winrate":85,"rampages":26,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":443,"rang":" Archon","winrate":35,"rampages":21,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":444,"rang":" Ancient","winrate":20,"rampages":4,"favrole":" Support","favhero":" Techies"}
+{"dota_id":445,"rang":" Crusader","winrate":14,"rampages":8,"favrole":" Semi-support","favhero":" Monkey king"}
+{"dota_id":446,"rang":" Crusader","winrate":15,"rampages":10,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":447,"rang":" Legend","winrate":81,"rampages":19,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":448,"rang":" Ancient","winrate":49,"rampages":22,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":449,"rang":" Crusader","winrate":38,"rampages":10,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":450,"rang":" Crusader","winrate":13,"rampages":11,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":451,"rang":" Herald","winrate":80,"rampages":19,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":452,"rang":" Ancient","winrate":43,"rampages":30,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":453,"rang":" Archon","winrate":90,"rampages":29,"favrole":" Support","favhero":" Monkey king"}
+{"dota_id":454,"rang":" Legend","winrate":61,"rampages":17,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":455,"rang":" Archon","winrate":42,"rampages":28,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":456,"rang":" Crusader","winrate":75,"rampages":15,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":457,"rang":" Guardian","winrate":29,"rampages":25,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":458,"rang":" Ancient","winrate":60,"rampages":0,"favrole":" Support","favhero":" Techies"}
+{"dota_id":459,"rang":" Legend","winrate":81,"rampages":6,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":460,"rang":" Archon","winrate":37,"rampages":22,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":461,"rang":" Guardian","winrate":60,"rampages":19,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":462,"rang":" Archon","winrate":38,"rampages":29,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":463,"rang":" Herald","winrate":87,"rampages":13,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":464,"rang":" Crusader","winrate":74,"rampages":0,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":465,"rang":" Ancient","winrate":43,"rampages":25,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":466,"rang":" Guardian","winrate":64,"rampages":13,"favrole":" Support","favhero":" Techies"}
+{"dota_id":467,"rang":" Crusader","winrate":74,"rampages":6,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":468,"rang":" Legend","winrate":29,"rampages":12,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":469,"rang":" Guardian","winrate":19,"rampages":22,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":470,"rang":" Archon","winrate":70,"rampages":8,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":471,"rang":" Herald","winrate":38,"rampages":25,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":472,"rang":" Ancient","winrate":55,"rampages":29,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":473,"rang":" Herald","winrate":51,"rampages":2,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":474,"rang":" Guardian","winrate":86,"rampages":18,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":475,"rang":" Archon","winrate":67,"rampages":12,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":476,"rang":" Legend","winrate":75,"rampages":1,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":477,"rang":" Guardian","winrate":62,"rampages":28,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":478,"rang":" Legend","winrate":71,"rampages":26,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":479,"rang":" Legend","winrate":29,"rampages":16,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":480,"rang":" Ancient","winrate":35,"rampages":28,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":481,"rang":" Ancient","winrate":32,"rampages":8,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":482,"rang":" Crusader","winrate":77,"rampages":13,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":483,"rang":" Ancient","winrate":34,"rampages":16,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":484,"rang":" Guardian","winrate":53,"rampages":24,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":485,"rang":" Guardian","winrate":73,"rampages":9,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":486,"rang":" Ancient","winrate":71,"rampages":27,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":487,"rang":" Herald","winrate":14,"rampages":17,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":488,"rang":" Ancient","winrate":16,"rampages":0,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":489,"rang":" Archon","winrate":56,"rampages":25,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":490,"rang":" Ancient","winrate":53,"rampages":15,"favrole":" Mid","favhero":" Jakiro"}
+{"dota_id":491,"rang":" Crusader","winrate":16,"rampages":21,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":492,"rang":" Crusader","winrate":51,"rampages":13,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":493,"rang":" Ancient","winrate":18,"rampages":24,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":494,"rang":" Guardian","winrate":40,"rampages":26,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":495,"rang":" Archon","winrate":23,"rampages":11,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":496,"rang":" Herald","winrate":31,"rampages":4,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":497,"rang":" Legend","winrate":29,"rampages":17,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":498,"rang":" Archon","winrate":75,"rampages":26,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":499,"rang":" Legend","winrate":11,"rampages":17,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":500,"rang":" Legend","winrate":85,"rampages":5,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":501,"rang":" Archon","winrate":41,"rampages":19,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":502,"rang":" Archon","winrate":24,"rampages":3,"favrole":" Semi-support","favhero":" Pudge"}
+{"dota_id":503,"rang":" Herald","winrate":84,"rampages":21,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":504,"rang":" Herald","winrate":19,"rampages":21,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":505,"rang":" Crusader","winrate":22,"rampages":23,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":506,"rang":" Ancient","winrate":44,"rampages":16,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":507,"rang":" Guardian","winrate":54,"rampages":9,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":508,"rang":" Crusader","winrate":85,"rampages":25,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":509,"rang":" Archon","winrate":40,"rampages":16,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":510,"rang":" Legend","winrate":82,"rampages":25,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":511,"rang":" Guardian","winrate":39,"rampages":11,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":512,"rang":" Archon","winrate":17,"rampages":7,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":513,"rang":" Guardian","winrate":33,"rampages":0,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":514,"rang":" Legend","winrate":28,"rampages":15,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":515,"rang":" Legend","winrate":28,"rampages":22,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":516,"rang":" Archon","winrate":63,"rampages":17,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":517,"rang":" Herald","winrate":22,"rampages":15,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":518,"rang":" Herald","winrate":73,"rampages":20,"favrole":" Support","favhero":" Techies"}
+{"dota_id":519,"rang":" Guardian","winrate":71,"rampages":2,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":520,"rang":" Crusader","winrate":22,"rampages":28,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":521,"rang":" Crusader","winrate":45,"rampages":26,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":522,"rang":" Archon","winrate":23,"rampages":13,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":523,"rang":" Guardian","winrate":43,"rampages":26,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":524,"rang":" Legend","winrate":66,"rampages":28,"favrole":" Support","favhero":" Techies"}
+{"dota_id":525,"rang":" Ancient","winrate":13,"rampages":27,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":526,"rang":" Archon","winrate":31,"rampages":4,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":527,"rang":" Archon","winrate":29,"rampages":1,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":528,"rang":" Archon","winrate":57,"rampages":29,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":529,"rang":" Legend","winrate":37,"rampages":16,"favrole":" Support","favhero":" Invoker"}
+{"dota_id":530,"rang":" Crusader","winrate":76,"rampages":12,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":531,"rang":" Guardian","winrate":61,"rampages":3,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":532,"rang":" Herald","winrate":75,"rampages":4,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":533,"rang":" Herald","winrate":67,"rampages":9,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":534,"rang":" Guardian","winrate":12,"rampages":19,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":535,"rang":" Ancient","winrate":46,"rampages":24,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":536,"rang":" Legend","winrate":88,"rampages":27,"favrole":" Semi-support","favhero":" Monkey king"}
+{"dota_id":537,"rang":" Legend","winrate":73,"rampages":1,"favrole":" Support","favhero":" Monkey king"}
+{"dota_id":538,"rang":" Herald","winrate":54,"rampages":19,"favrole":" Semi-support","favhero":" Axe"}
+{"dota_id":539,"rang":" Guardian","winrate":42,"rampages":15,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":540,"rang":" Ancient","winrate":72,"rampages":20,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":541,"rang":" Archon","winrate":76,"rampages":27,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":542,"rang":" Crusader","winrate":87,"rampages":18,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":543,"rang":" Archon","winrate":20,"rampages":18,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":544,"rang":" Guardian","winrate":67,"rampages":30,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":545,"rang":" Guardian","winrate":37,"rampages":28,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":546,"rang":" Archon","winrate":38,"rampages":10,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":547,"rang":" Guardian","winrate":84,"rampages":16,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":548,"rang":" Herald","winrate":52,"rampages":2,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":549,"rang":" Crusader","winrate":62,"rampages":15,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":550,"rang":" Legend","winrate":61,"rampages":26,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":551,"rang":" Legend","winrate":26,"rampages":17,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":552,"rang":" Archon","winrate":31,"rampages":30,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":553,"rang":" Herald","winrate":51,"rampages":8,"favrole":" Semi-support","favhero":" Axe"}
+{"dota_id":554,"rang":" Herald","winrate":38,"rampages":0,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":555,"rang":" Crusader","winrate":73,"rampages":11,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":556,"rang":" Crusader","winrate":63,"rampages":9,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":557,"rang":" Crusader","winrate":87,"rampages":2,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":558,"rang":" Legend","winrate":63,"rampages":17,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":559,"rang":" Legend","winrate":56,"rampages":30,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":560,"rang":" Legend","winrate":25,"rampages":13,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":561,"rang":" Herald","winrate":74,"rampages":27,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":562,"rang":" Herald","winrate":61,"rampages":14,"favrole":" Carry","favhero":" Warlock"}
+{"dota_id":563,"rang":" Crusader","winrate":58,"rampages":14,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":564,"rang":" Archon","winrate":89,"rampages":26,"favrole":" Semi-support","favhero":" Pudge"}
+{"dota_id":565,"rang":" Crusader","winrate":36,"rampages":16,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":566,"rang":" Crusader","winrate":76,"rampages":11,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":567,"rang":" Legend","winrate":23,"rampages":0,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":568,"rang":" Herald","winrate":24,"rampages":12,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":569,"rang":" Archon","winrate":15,"rampages":7,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":570,"rang":" Ancient","winrate":83,"rampages":6,"favrole":" Semi-support","favhero":" Monkey king"}
+{"dota_id":571,"rang":" Guardian","winrate":82,"rampages":13,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":572,"rang":" Herald","winrate":17,"rampages":1,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":573,"rang":" Guardian","winrate":28,"rampages":17,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":574,"rang":" Ancient","winrate":14,"rampages":17,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":575,"rang":" Crusader","winrate":60,"rampages":14,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":576,"rang":" Crusader","winrate":23,"rampages":26,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":577,"rang":" Herald","winrate":89,"rampages":18,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":578,"rang":" Crusader","winrate":43,"rampages":21,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":579,"rang":" Guardian","winrate":63,"rampages":15,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":580,"rang":" Herald","winrate":89,"rampages":18,"favrole":" Support","favhero":" Monkey king"}
+{"dota_id":581,"rang":" Crusader","winrate":57,"rampages":7,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":582,"rang":" Herald","winrate":47,"rampages":13,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":583,"rang":" Ancient","winrate":84,"rampages":6,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":584,"rang":" Legend","winrate":56,"rampages":26,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":585,"rang":" Crusader","winrate":65,"rampages":19,"favrole":" Hardlane","favhero":" Jakiro"}
+{"dota_id":586,"rang":" Guardian","winrate":53,"rampages":2,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":587,"rang":" Herald","winrate":27,"rampages":9,"favrole":" Mid","favhero":" Jakiro"}
+{"dota_id":588,"rang":" Crusader","winrate":43,"rampages":3,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":589,"rang":" Ancient","winrate":34,"rampages":28,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":590,"rang":" Legend","winrate":44,"rampages":13,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":591,"rang":" Herald","winrate":19,"rampages":15,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":592,"rang":" Ancient","winrate":23,"rampages":18,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":593,"rang":" Herald","winrate":64,"rampages":27,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":594,"rang":" Crusader","winrate":69,"rampages":16,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":595,"rang":" Ancient","winrate":18,"rampages":9,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":596,"rang":" Ancient","winrate":51,"rampages":7,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":597,"rang":" Legend","winrate":59,"rampages":5,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":598,"rang":" Herald","winrate":19,"rampages":8,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":599,"rang":" Ancient","winrate":49,"rampages":11,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":600,"rang":" Herald","winrate":74,"rampages":26,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":601,"rang":" Guardian","winrate":38,"rampages":30,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":602,"rang":" Guardian","winrate":54,"rampages":30,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":603,"rang":" Archon","winrate":32,"rampages":28,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":604,"rang":" Archon","winrate":66,"rampages":2,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":605,"rang":" Crusader","winrate":22,"rampages":24,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":606,"rang":" Archon","winrate":69,"rampages":25,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":607,"rang":" Herald","winrate":27,"rampages":5,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":608,"rang":" Ancient","winrate":31,"rampages":4,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":609,"rang":" Archon","winrate":14,"rampages":29,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":610,"rang":" Crusader","winrate":85,"rampages":21,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":611,"rang":" Ancient","winrate":51,"rampages":0,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":612,"rang":" Ancient","winrate":25,"rampages":7,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":613,"rang":" Herald","winrate":84,"rampages":18,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":614,"rang":" Guardian","winrate":18,"rampages":6,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":615,"rang":" Ancient","winrate":67,"rampages":2,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":616,"rang":" Archon","winrate":25,"rampages":16,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":617,"rang":" Ancient","winrate":10,"rampages":18,"favrole":" Carry","favhero":" Witch doctor"}
+{"dota_id":618,"rang":" Ancient","winrate":84,"rampages":23,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":619,"rang":" Legend","winrate":17,"rampages":20,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":620,"rang":" Legend","winrate":50,"rampages":28,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":621,"rang":" Archon","winrate":58,"rampages":0,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":622,"rang":" Guardian","winrate":16,"rampages":5,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":623,"rang":" Herald","winrate":66,"rampages":24,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":624,"rang":" Ancient","winrate":19,"rampages":15,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":625,"rang":" Guardian","winrate":39,"rampages":26,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":626,"rang":" Guardian","winrate":65,"rampages":30,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":627,"rang":" Legend","winrate":64,"rampages":7,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":628,"rang":" Ancient","winrate":72,"rampages":22,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":629,"rang":" Herald","winrate":77,"rampages":17,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":630,"rang":" Guardian","winrate":41,"rampages":19,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":631,"rang":" Crusader","winrate":76,"rampages":25,"favrole":" Carry","favhero":" Witch doctor"}
+{"dota_id":632,"rang":" Legend","winrate":33,"rampages":30,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":633,"rang":" Legend","winrate":47,"rampages":27,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":634,"rang":" Ancient","winrate":48,"rampages":4,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":635,"rang":" Guardian","winrate":15,"rampages":8,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":636,"rang":" Archon","winrate":37,"rampages":27,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":637,"rang":" Archon","winrate":32,"rampages":9,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":638,"rang":" Archon","winrate":16,"rampages":11,"favrole":" Semi-support","favhero":" Axe"}
+{"dota_id":639,"rang":" Herald","winrate":85,"rampages":29,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":640,"rang":" Archon","winrate":12,"rampages":19,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":641,"rang":" Legend","winrate":45,"rampages":16,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":642,"rang":" Guardian","winrate":59,"rampages":8,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":643,"rang":" Guardian","winrate":49,"rampages":23,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":644,"rang":" Ancient","winrate":90,"rampages":3,"favrole":" Support","favhero":" Axe"}
+{"dota_id":645,"rang":" Ancient","winrate":43,"rampages":20,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":646,"rang":" Ancient","winrate":43,"rampages":23,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":647,"rang":" Herald","winrate":21,"rampages":18,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":648,"rang":" Herald","winrate":79,"rampages":4,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":649,"rang":" Guardian","winrate":72,"rampages":30,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":650,"rang":" Legend","winrate":89,"rampages":2,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":651,"rang":" Archon","winrate":80,"rampages":20,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":652,"rang":" Herald","winrate":41,"rampages":29,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":653,"rang":" Herald","winrate":14,"rampages":11,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":654,"rang":" Herald","winrate":29,"rampages":11,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":655,"rang":" Archon","winrate":48,"rampages":24,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":656,"rang":" Ancient","winrate":52,"rampages":15,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":657,"rang":" Legend","winrate":38,"rampages":29,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":658,"rang":" Herald","winrate":72,"rampages":26,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":659,"rang":" Guardian","winrate":63,"rampages":6,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":660,"rang":" Ancient","winrate":77,"rampages":21,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":661,"rang":" Guardian","winrate":27,"rampages":20,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":662,"rang":" Crusader","winrate":41,"rampages":6,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":663,"rang":" Crusader","winrate":29,"rampages":13,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":664,"rang":" Crusader","winrate":11,"rampages":4,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":665,"rang":" Ancient","winrate":59,"rampages":13,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":666,"rang":" Crusader","winrate":70,"rampages":14,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":667,"rang":" Archon","winrate":43,"rampages":19,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":668,"rang":" Legend","winrate":85,"rampages":15,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":669,"rang":" Herald","winrate":26,"rampages":0,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":670,"rang":" Herald","winrate":46,"rampages":2,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":671,"rang":" Archon","winrate":63,"rampages":22,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":672,"rang":" Ancient","winrate":72,"rampages":25,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":673,"rang":" Herald","winrate":34,"rampages":28,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":674,"rang":" Legend","winrate":27,"rampages":24,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":675,"rang":" Guardian","winrate":88,"rampages":25,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":676,"rang":" Archon","winrate":85,"rampages":22,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":677,"rang":" Guardian","winrate":59,"rampages":0,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":678,"rang":" Legend","winrate":33,"rampages":20,"favrole":" Hardlane","favhero":" Jakiro"}
+{"dota_id":679,"rang":" Guardian","winrate":78,"rampages":1,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":680,"rang":" Herald","winrate":71,"rampages":11,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":681,"rang":" Herald","winrate":68,"rampages":3,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":682,"rang":" Legend","winrate":24,"rampages":19,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":683,"rang":" Legend","winrate":77,"rampages":18,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":684,"rang":" Herald","winrate":87,"rampages":17,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":685,"rang":" Ancient","winrate":44,"rampages":5,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":686,"rang":" Guardian","winrate":71,"rampages":6,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":687,"rang":" Guardian","winrate":81,"rampages":11,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":688,"rang":" Ancient","winrate":16,"rampages":18,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":689,"rang":" Ancient","winrate":31,"rampages":4,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":690,"rang":" Legend","winrate":32,"rampages":30,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":691,"rang":" Herald","winrate":15,"rampages":23,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":692,"rang":" Herald","winrate":43,"rampages":21,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":693,"rang":" Herald","winrate":18,"rampages":22,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":694,"rang":" Archon","winrate":27,"rampages":11,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":695,"rang":" Guardian","winrate":44,"rampages":26,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":696,"rang":" Herald","winrate":25,"rampages":30,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":697,"rang":" Legend","winrate":42,"rampages":9,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":698,"rang":" Guardian","winrate":27,"rampages":16,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":699,"rang":" Herald","winrate":35,"rampages":0,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":700,"rang":" Herald","winrate":85,"rampages":30,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":701,"rang":" Herald","winrate":20,"rampages":6,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":702,"rang":" Guardian","winrate":84,"rampages":19,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":703,"rang":" Guardian","winrate":14,"rampages":2,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":704,"rang":" Legend","winrate":12,"rampages":20,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":705,"rang":" Herald","winrate":22,"rampages":5,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":706,"rang":" Crusader","winrate":43,"rampages":15,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":707,"rang":" Legend","winrate":58,"rampages":13,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":708,"rang":" Ancient","winrate":14,"rampages":21,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":709,"rang":" Herald","winrate":10,"rampages":14,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":710,"rang":" Legend","winrate":27,"rampages":29,"favrole":" Support","favhero":" Invoker"}
+{"dota_id":711,"rang":" Herald","winrate":70,"rampages":5,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":712,"rang":" Guardian","winrate":69,"rampages":28,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":713,"rang":" Crusader","winrate":45,"rampages":6,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":714,"rang":" Guardian","winrate":59,"rampages":29,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":715,"rang":" Crusader","winrate":44,"rampages":6,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":716,"rang":" Crusader","winrate":68,"rampages":28,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":717,"rang":" Guardian","winrate":16,"rampages":11,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":718,"rang":" Archon","winrate":16,"rampages":7,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":719,"rang":" Archon","winrate":22,"rampages":21,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":720,"rang":" Guardian","winrate":19,"rampages":4,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":721,"rang":" Legend","winrate":65,"rampages":5,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":722,"rang":" Herald","winrate":85,"rampages":3,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":723,"rang":" Archon","winrate":89,"rampages":12,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":724,"rang":" Guardian","winrate":20,"rampages":18,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":725,"rang":" Crusader","winrate":55,"rampages":13,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":726,"rang":" Legend","winrate":81,"rampages":12,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":727,"rang":" Crusader","winrate":21,"rampages":6,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":728,"rang":" Ancient","winrate":42,"rampages":7,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":729,"rang":" Herald","winrate":90,"rampages":27,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":730,"rang":" Legend","winrate":29,"rampages":21,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":731,"rang":" Herald","winrate":53,"rampages":17,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":732,"rang":" Guardian","winrate":49,"rampages":30,"favrole":" Support","favhero":" Invoker"}
+{"dota_id":733,"rang":" Guardian","winrate":35,"rampages":7,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":734,"rang":" Herald","winrate":69,"rampages":15,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":735,"rang":" Legend","winrate":48,"rampages":5,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":736,"rang":" Herald","winrate":14,"rampages":20,"favrole":" Hardlane","favhero":" Jakiro"}
+{"dota_id":737,"rang":" Ancient","winrate":35,"rampages":25,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":738,"rang":" Herald","winrate":90,"rampages":5,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":739,"rang":" Guardian","winrate":90,"rampages":26,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":740,"rang":" Legend","winrate":49,"rampages":15,"favrole":" Hardlane","favhero":" Jakiro"}
+{"dota_id":741,"rang":" Guardian","winrate":43,"rampages":5,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":742,"rang":" Ancient","winrate":61,"rampages":8,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":743,"rang":" Ancient","winrate":17,"rampages":28,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":744,"rang":" Archon","winrate":74,"rampages":2,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":745,"rang":" Herald","winrate":15,"rampages":30,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":746,"rang":" Legend","winrate":58,"rampages":3,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":747,"rang":" Guardian","winrate":47,"rampages":30,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":748,"rang":" Herald","winrate":84,"rampages":4,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":749,"rang":" Crusader","winrate":90,"rampages":16,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":750,"rang":" Legend","winrate":16,"rampages":4,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":751,"rang":" Crusader","winrate":34,"rampages":12,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":752,"rang":" Herald","winrate":17,"rampages":24,"favrole":" Semi-support","favhero":" Monkey king"}
+{"dota_id":753,"rang":" Archon","winrate":15,"rampages":10,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":754,"rang":" Guardian","winrate":46,"rampages":4,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":755,"rang":" Crusader","winrate":15,"rampages":29,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":756,"rang":" Archon","winrate":76,"rampages":21,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":757,"rang":" Herald","winrate":85,"rampages":25,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":758,"rang":" Archon","winrate":43,"rampages":6,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":759,"rang":" Ancient","winrate":17,"rampages":8,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":760,"rang":" Legend","winrate":41,"rampages":6,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":761,"rang":" Ancient","winrate":11,"rampages":9,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":762,"rang":" Herald","winrate":58,"rampages":27,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":763,"rang":" Archon","winrate":16,"rampages":24,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":764,"rang":" Crusader","winrate":20,"rampages":10,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":765,"rang":" Legend","winrate":38,"rampages":18,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":766,"rang":" Ancient","winrate":45,"rampages":22,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":767,"rang":" Crusader","winrate":27,"rampages":22,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":768,"rang":" Guardian","winrate":71,"rampages":28,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":769,"rang":" Guardian","winrate":59,"rampages":19,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":770,"rang":" Ancient","winrate":61,"rampages":8,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":771,"rang":" Herald","winrate":43,"rampages":14,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":772,"rang":" Archon","winrate":43,"rampages":18,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":773,"rang":" Ancient","winrate":56,"rampages":21,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":774,"rang":" Crusader","winrate":56,"rampages":30,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":775,"rang":" Archon","winrate":89,"rampages":20,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":776,"rang":" Archon","winrate":36,"rampages":19,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":777,"rang":" Crusader","winrate":73,"rampages":19,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":778,"rang":" Herald","winrate":33,"rampages":21,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":779,"rang":" Guardian","winrate":26,"rampages":9,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":780,"rang":" Ancient","winrate":21,"rampages":29,"favrole":" Support","favhero":" Invoker"}
+{"dota_id":781,"rang":" Crusader","winrate":90,"rampages":18,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":782,"rang":" Archon","winrate":90,"rampages":20,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":783,"rang":" Legend","winrate":42,"rampages":5,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":784,"rang":" Ancient","winrate":85,"rampages":22,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":785,"rang":" Ancient","winrate":61,"rampages":10,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":786,"rang":" Herald","winrate":62,"rampages":16,"favrole":" Semi-support","favhero":" Pudge"}
+{"dota_id":787,"rang":" Herald","winrate":62,"rampages":5,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":788,"rang":" Guardian","winrate":60,"rampages":3,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":789,"rang":" Herald","winrate":66,"rampages":8,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":790,"rang":" Guardian","winrate":88,"rampages":29,"favrole":" Support","favhero":" Wraith king"}
+{"dota_id":791,"rang":" Crusader","winrate":27,"rampages":7,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":792,"rang":" Legend","winrate":49,"rampages":19,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":793,"rang":" Guardian","winrate":74,"rampages":18,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":794,"rang":" Ancient","winrate":86,"rampages":26,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":795,"rang":" Guardian","winrate":42,"rampages":28,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":796,"rang":" Guardian","winrate":69,"rampages":5,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":797,"rang":" Herald","winrate":16,"rampages":2,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":798,"rang":" Crusader","winrate":15,"rampages":18,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":799,"rang":" Legend","winrate":27,"rampages":14,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":800,"rang":" Guardian","winrate":75,"rampages":16,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":801,"rang":" Guardian","winrate":32,"rampages":7,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":802,"rang":" Herald","winrate":11,"rampages":21,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":803,"rang":" Guardian","winrate":65,"rampages":15,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":804,"rang":" Guardian","winrate":84,"rampages":1,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":805,"rang":" Guardian","winrate":58,"rampages":5,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":806,"rang":" Herald","winrate":61,"rampages":0,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":807,"rang":" Legend","winrate":85,"rampages":18,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":808,"rang":" Ancient","winrate":80,"rampages":0,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":809,"rang":" Archon","winrate":17,"rampages":1,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":810,"rang":" Herald","winrate":26,"rampages":16,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":811,"rang":" Ancient","winrate":67,"rampages":12,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":812,"rang":" Guardian","winrate":12,"rampages":8,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":813,"rang":" Herald","winrate":41,"rampages":6,"favrole":" Hardlane","favhero":" Rikki"}
+{"dota_id":814,"rang":" Ancient","winrate":12,"rampages":25,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":815,"rang":" Herald","winrate":82,"rampages":1,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":816,"rang":" Ancient","winrate":23,"rampages":13,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":817,"rang":" Guardian","winrate":87,"rampages":11,"favrole":" Hardlane","favhero":" Bristleback"}
+{"dota_id":818,"rang":" Ancient","winrate":14,"rampages":8,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":819,"rang":" Crusader","winrate":42,"rampages":23,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":820,"rang":" Guardian","winrate":47,"rampages":22,"favrole":" Mid","favhero":" Jakiro"}
+{"dota_id":821,"rang":" Crusader","winrate":32,"rampages":23,"favrole":" Support","favhero":" Techies"}
+{"dota_id":822,"rang":" Legend","winrate":70,"rampages":25,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":823,"rang":" Legend","winrate":84,"rampages":7,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":824,"rang":" Guardian","winrate":21,"rampages":10,"favrole":" Support","favhero":" Axe"}
+{"dota_id":825,"rang":" Herald","winrate":24,"rampages":16,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":826,"rang":" Ancient","winrate":89,"rampages":20,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":827,"rang":" Crusader","winrate":66,"rampages":9,"favrole":" Support","favhero":" Axe"}
+{"dota_id":828,"rang":" Crusader","winrate":57,"rampages":3,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":829,"rang":" Guardian","winrate":46,"rampages":25,"favrole":" Support","favhero":" Techies"}
+{"dota_id":830,"rang":" Legend","winrate":70,"rampages":21,"favrole":" Support","favhero":" Monkey king"}
+{"dota_id":831,"rang":" Ancient","winrate":63,"rampages":20,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":832,"rang":" Herald","winrate":84,"rampages":9,"favrole":" Support","favhero":" Axe"}
+{"dota_id":833,"rang":" Crusader","winrate":79,"rampages":9,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":834,"rang":" Herald","winrate":64,"rampages":14,"favrole":" Support","favhero":" Techies"}
+{"dota_id":835,"rang":" Herald","winrate":21,"rampages":7,"favrole":" Support","favhero":" Monkey king"}
+{"dota_id":836,"rang":" Ancient","winrate":48,"rampages":1,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":837,"rang":" Guardian","winrate":36,"rampages":27,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":838,"rang":" Ancient","winrate":21,"rampages":6,"favrole":" Semi-support","favhero":" Monkey king"}
+{"dota_id":839,"rang":" Guardian","winrate":84,"rampages":6,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":840,"rang":" Legend","winrate":22,"rampages":7,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":841,"rang":" Archon","winrate":50,"rampages":28,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":842,"rang":" Crusader","winrate":19,"rampages":12,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":843,"rang":" Legend","winrate":77,"rampages":10,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":844,"rang":" Legend","winrate":27,"rampages":10,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":845,"rang":" Crusader","winrate":55,"rampages":20,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":846,"rang":" Legend","winrate":52,"rampages":17,"favrole":" Carry","favhero":" Witch doctor"}
+{"dota_id":847,"rang":" Guardian","winrate":60,"rampages":21,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":848,"rang":" Guardian","winrate":16,"rampages":2,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":849,"rang":" Legend","winrate":20,"rampages":26,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":850,"rang":" Archon","winrate":13,"rampages":13,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":851,"rang":" Legend","winrate":71,"rampages":2,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":852,"rang":" Archon","winrate":88,"rampages":22,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":853,"rang":" Herald","winrate":27,"rampages":15,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":854,"rang":" Archon","winrate":28,"rampages":4,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":855,"rang":" Archon","winrate":28,"rampages":1,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":856,"rang":" Guardian","winrate":25,"rampages":18,"favrole":" Mid","favhero":" Jakiro"}
+{"dota_id":857,"rang":" Legend","winrate":45,"rampages":12,"favrole":" Mid","favhero":" Jakiro"}
+{"dota_id":858,"rang":" Crusader","winrate":30,"rampages":16,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":859,"rang":" Herald","winrate":16,"rampages":1,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":860,"rang":" Crusader","winrate":34,"rampages":13,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":861,"rang":" Crusader","winrate":86,"rampages":19,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":862,"rang":" Legend","winrate":30,"rampages":23,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":863,"rang":" Archon","winrate":26,"rampages":30,"favrole":" Hardlane","favhero":" Jakiro"}
+{"dota_id":864,"rang":" Archon","winrate":66,"rampages":15,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":865,"rang":" Crusader","winrate":65,"rampages":30,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":866,"rang":" Crusader","winrate":46,"rampages":4,"favrole":" Semi-support","favhero":" Axe"}
+{"dota_id":867,"rang":" Crusader","winrate":87,"rampages":23,"favrole":" Semi-support","favhero":" Monkey king"}
+{"dota_id":868,"rang":" Guardian","winrate":15,"rampages":20,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":869,"rang":" Crusader","winrate":50,"rampages":18,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":870,"rang":" Ancient","winrate":19,"rampages":26,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":871,"rang":" Guardian","winrate":54,"rampages":14,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":872,"rang":" Guardian","winrate":21,"rampages":12,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":873,"rang":" Guardian","winrate":25,"rampages":10,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":874,"rang":" Crusader","winrate":14,"rampages":7,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":875,"rang":" Crusader","winrate":90,"rampages":22,"favrole":" Carry","favhero":" Techies"}
+{"dota_id":876,"rang":" Guardian","winrate":74,"rampages":30,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":877,"rang":" Ancient","winrate":27,"rampages":12,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":878,"rang":" Ancient","winrate":41,"rampages":8,"favrole":" Support","favhero":" Axe"}
+{"dota_id":879,"rang":" Legend","winrate":34,"rampages":3,"favrole":" Carry","favhero":" Warlock"}
+{"dota_id":880,"rang":" Ancient","winrate":24,"rampages":2,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":881,"rang":" Guardian","winrate":28,"rampages":16,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":882,"rang":" Herald","winrate":28,"rampages":14,"favrole":" Hardlane","favhero":" Techies"}
+{"dota_id":883,"rang":" Legend","winrate":84,"rampages":17,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":884,"rang":" Archon","winrate":13,"rampages":22,"favrole":" Mid","favhero":" Rikki"}
+{"dota_id":885,"rang":" Legend","winrate":57,"rampages":12,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":886,"rang":" Archon","winrate":56,"rampages":5,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":887,"rang":" Legend","winrate":80,"rampages":15,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":888,"rang":" Ancient","winrate":60,"rampages":2,"favrole":" Carry","favhero":" Arc warden"}
+{"dota_id":889,"rang":" Ancient","winrate":56,"rampages":0,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":890,"rang":" Archon","winrate":16,"rampages":27,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":891,"rang":" Guardian","winrate":65,"rampages":29,"favrole":" Hardlane","favhero":" Jakiro"}
+{"dota_id":892,"rang":" Herald","winrate":22,"rampages":17,"favrole":" Hardlane","favhero":" Witch doctor"}
+{"dota_id":893,"rang":" Guardian","winrate":52,"rampages":2,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":894,"rang":" Archon","winrate":42,"rampages":29,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":895,"rang":" Ancient","winrate":18,"rampages":19,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":896,"rang":" Herald","winrate":30,"rampages":7,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":897,"rang":" Herald","winrate":88,"rampages":10,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":898,"rang":" Guardian","winrate":74,"rampages":12,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":899,"rang":" Crusader","winrate":48,"rampages":3,"favrole":" Semi-support","favhero":" Witch doctor"}
+{"dota_id":900,"rang":" Legend","winrate":70,"rampages":0,"favrole":" Mid","favhero":" Phantom lancer"}
+{"dota_id":901,"rang":" Guardian","winrate":53,"rampages":27,"favrole":" Mid","favhero":" Crystall maiden"}
+{"dota_id":902,"rang":" Legend","winrate":85,"rampages":8,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":903,"rang":" Legend","winrate":39,"rampages":23,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":904,"rang":" Archon","winrate":15,"rampages":2,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":905,"rang":" Legend","winrate":26,"rampages":6,"favrole":" Support","favhero":" Warlock"}
+{"dota_id":906,"rang":" Legend","winrate":22,"rampages":13,"favrole":" Support","favhero":" Bristleback"}
+{"dota_id":907,"rang":" Herald","winrate":45,"rampages":17,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":908,"rang":" Guardian","winrate":25,"rampages":15,"favrole":" Hardlane","favhero":" Jakiro"}
+{"dota_id":909,"rang":" Ancient","winrate":16,"rampages":7,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":910,"rang":" Herald","winrate":42,"rampages":20,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":911,"rang":" Crusader","winrate":69,"rampages":9,"favrole":" Carry","favhero":" Weaver"}
+{"dota_id":912,"rang":" Guardian","winrate":75,"rampages":2,"favrole":" Mid","favhero":" Wraith king"}
+{"dota_id":913,"rang":" Herald","winrate":12,"rampages":18,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":914,"rang":" Legend","winrate":82,"rampages":6,"favrole":" Carry","favhero":" Crystall maiden"}
+{"dota_id":915,"rang":" Legend","winrate":40,"rampages":28,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":916,"rang":" Archon","winrate":24,"rampages":5,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":917,"rang":" Herald","winrate":21,"rampages":8,"favrole":" Carry","favhero":" Monkey king"}
+{"dota_id":918,"rang":" Legend","winrate":57,"rampages":24,"favrole":" Support","favhero":" Pudge"}
+{"dota_id":919,"rang":" Crusader","winrate":61,"rampages":0,"favrole":" Carry","favhero":" Jakiro"}
+{"dota_id":920,"rang":" Crusader","winrate":12,"rampages":24,"favrole":" Carry","favhero":" Bristleback"}
+{"dota_id":921,"rang":" Legend","winrate":41,"rampages":10,"favrole":" Carry","favhero":" Rikki"}
+{"dota_id":922,"rang":" Archon","winrate":15,"rampages":26,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":923,"rang":" Guardian","winrate":34,"rampages":15,"favrole":" Hardlane","favhero":" Monkey king"}
+{"dota_id":924,"rang":" Herald","winrate":14,"rampages":25,"favrole":" Carry","favhero":" Invoker"}
+{"dota_id":925,"rang":" Guardian","winrate":77,"rampages":25,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":926,"rang":" Ancient","winrate":73,"rampages":16,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":927,"rang":" Legend","winrate":32,"rampages":0,"favrole":" Carry","favhero":" Witch doctor"}
+{"dota_id":928,"rang":" Legend","winrate":37,"rampages":26,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":929,"rang":" Archon","winrate":38,"rampages":12,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":930,"rang":" Legend","winrate":32,"rampages":30,"favrole":" Carry","favhero":" Warlock"}
+{"dota_id":931,"rang":" Ancient","winrate":78,"rampages":24,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":932,"rang":" Archon","winrate":32,"rampages":10,"favrole":" Hardlane","favhero":" Warlock"}
+{"dota_id":933,"rang":" Guardian","winrate":52,"rampages":2,"favrole":" Hardlane","favhero":" Crystall maiden"}
+{"dota_id":934,"rang":" Archon","winrate":59,"rampages":23,"favrole":" Semi-support","favhero":" Rikki"}
+{"dota_id":935,"rang":" Archon","winrate":28,"rampages":18,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":936,"rang":" Guardian","winrate":73,"rampages":5,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":937,"rang":" Crusader","winrate":35,"rampages":2,"favrole":" Semi-support","favhero":" Jakiro"}
+{"dota_id":938,"rang":" Archon","winrate":12,"rampages":23,"favrole":" Semi-support","favhero":" Crystall maiden"}
+{"dota_id":939,"rang":" Ancient","winrate":24,"rampages":14,"favrole":" Support","favhero":" Arc warden"}
+{"dota_id":940,"rang":" Crusader","winrate":55,"rampages":29,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":941,"rang":" Legend","winrate":43,"rampages":10,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":942,"rang":" Ancient","winrate":41,"rampages":14,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":943,"rang":" Legend","winrate":22,"rampages":3,"favrole":" Semi-support","favhero":" Arc warden"}
+{"dota_id":944,"rang":" Ancient","winrate":25,"rampages":19,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":945,"rang":" Herald","winrate":84,"rampages":17,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":946,"rang":" Ancient","winrate":56,"rampages":8,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":947,"rang":" Ancient","winrate":33,"rampages":24,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":948,"rang":" Crusader","winrate":15,"rampages":9,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":949,"rang":" Legend","winrate":46,"rampages":25,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":950,"rang":" Guardian","winrate":85,"rampages":16,"favrole":" Mid","favhero":" Axe"}
+{"dota_id":951,"rang":" Legend","winrate":83,"rampages":23,"favrole":" Semi-support","favhero":" Warlock"}
+{"dota_id":952,"rang":" Ancient","winrate":74,"rampages":20,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":953,"rang":" Guardian","winrate":53,"rampages":18,"favrole":" Carry","favhero":" Axe"}
+{"dota_id":954,"rang":" Ancient","winrate":84,"rampages":11,"favrole":" Hardlane","favhero":" Invoker"}
+{"dota_id":955,"rang":" Guardian","winrate":33,"rampages":14,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":956,"rang":" Crusader","winrate":74,"rampages":2,"favrole":" Hardlane","favhero":" Jakiro"}
+{"dota_id":957,"rang":" Crusader","winrate":85,"rampages":20,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":958,"rang":" Ancient","winrate":83,"rampages":15,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":959,"rang":" Crusader","winrate":71,"rampages":0,"favrole":" Hardlane","favhero":" Phantom lancer"}
+{"dota_id":960,"rang":" Guardian","winrate":51,"rampages":16,"favrole":" Mid","favhero":" Invoker"}
+{"dota_id":961,"rang":" Archon","winrate":49,"rampages":29,"favrole":" Semi-support","favhero":" Axe"}
+{"dota_id":962,"rang":" Crusader","winrate":71,"rampages":8,"favrole":" Semi-support","favhero":" Invoker"}
+{"dota_id":963,"rang":" Herald","winrate":50,"rampages":12,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":964,"rang":" Crusader","winrate":25,"rampages":23,"favrole":" Mid","favhero":" Pudge"}
+{"dota_id":965,"rang":" Guardian","winrate":52,"rampages":12,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":966,"rang":" Herald","winrate":72,"rampages":21,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":967,"rang":" Guardian","winrate":89,"rampages":8,"favrole":" Carry","favhero":" Pudge"}
+{"dota_id":968,"rang":" Guardian","winrate":86,"rampages":11,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":969,"rang":" Archon","winrate":54,"rampages":5,"favrole":" Semi-support","favhero":" Weaver"}
+{"dota_id":970,"rang":" Herald","winrate":30,"rampages":5,"favrole":" Support","favhero":" Witch doctor"}
+{"dota_id":971,"rang":" Archon","winrate":90,"rampages":11,"favrole":" Hardlane","favhero":" Wraith king"}
+{"dota_id":972,"rang":" Crusader","winrate":23,"rampages":17,"favrole":" Semi-support","favhero":" Axe"}
+{"dota_id":973,"rang":" Ancient","winrate":15,"rampages":0,"favrole":" Semi-support","favhero":" Bristleback"}
+{"dota_id":974,"rang":" Legend","winrate":76,"rampages":28,"favrole":" Support","favhero":" Monkey king"}
+{"dota_id":975,"rang":" Herald","winrate":50,"rampages":3,"favrole":" Mid","favhero":" Weaver"}
+{"dota_id":976,"rang":" Crusader","winrate":20,"rampages":7,"favrole":" Mid","favhero":" Warlock"}
+{"dota_id":977,"rang":" Herald","winrate":25,"rampages":8,"favrole":" Support","favhero":" Crystall maiden"}
+{"dota_id":978,"rang":" Legend","winrate":34,"rampages":14,"favrole":" Support","favhero":" Jakiro"}
+{"dota_id":979,"rang":" Ancient","winrate":66,"rampages":12,"favrole":" Support","favhero":" Invoker"}
+{"dota_id":980,"rang":" Ancient","winrate":75,"rampages":15,"favrole":" Semi-support","favhero":" Techies"}
+{"dota_id":981,"rang":" Legend","winrate":77,"rampages":2,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":982,"rang":" Legend","winrate":42,"rampages":4,"favrole":" Semi-support","favhero":" Phantom lancer"}
+{"dota_id":983,"rang":" Herald","winrate":58,"rampages":13,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":984,"rang":" Archon","winrate":16,"rampages":2,"favrole":" Support","favhero":" Phantom lancer"}
+{"dota_id":985,"rang":" Guardian","winrate":23,"rampages":22,"favrole":" Semi-support","favhero":" Wraith king"}
+{"dota_id":986,"rang":" Archon","winrate":54,"rampages":22,"favrole":" Hardlane","favhero":" Arc warden"}
+{"dota_id":987,"rang":" Legend","winrate":37,"rampages":17,"favrole":" Hardlane","favhero":" Axe"}
+{"dota_id":988,"rang":" Legend","winrate":50,"rampages":12,"favrole":" Mid","favhero":" Arc warden"}
+{"dota_id":989,"rang":" Crusader","winrate":66,"rampages":14,"favrole":" Support","favhero":" Techies"}
+{"dota_id":990,"rang":" Crusader","winrate":37,"rampages":20,"favrole":" Carry","favhero":" Wraith king"}
+{"dota_id":991,"rang":" Ancient","winrate":19,"rampages":24,"favrole":" Mid","favhero":" Monkey king"}
+{"dota_id":992,"rang":" Herald","winrate":62,"rampages":29,"favrole":" Carry","favhero":" Phantom lancer"}
+{"dota_id":993,"rang":" Guardian","winrate":89,"rampages":7,"favrole":" Mid","favhero":" Techies"}
+{"dota_id":994,"rang":" Legend","winrate":32,"rampages":29,"favrole":" Hardlane","favhero":" Weaver"}
+{"dota_id":995,"rang":" Archon","winrate":84,"rampages":2,"favrole":" Mid","favhero":" Bristleback"}
+{"dota_id":996,"rang":" Ancient","winrate":58,"rampages":4,"favrole":" Support","favhero":" Rikki"}
+{"dota_id":997,"rang":" Herald","winrate":63,"rampages":19,"favrole":" Support","favhero":" Weaver"}
+{"dota_id":998,"rang":" Crusader","winrate":78,"rampages":18,"favrole":" Semi-support","favhero":" Pudge"}
+{"dota_id":999,"rang":" Crusader","winrate":38,"rampages":18,"favrole":" Hardlane","favhero":" Pudge"}
+{"dota_id":1000,"rang":" Archon","winrate":80,"rampages":3,"favrole":" Mid","favhero":" Witch doctor"}
+{"dota_id":1001,"rang":"Crusader","winrate":30,"rampages":10,"favrole":"Mid","favhero":"Sniper"}

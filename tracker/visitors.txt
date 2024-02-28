@@ -1,0 +1,10 @@
+1;MPV;2003;moscow;asd@
+2;FGF;2006;ufa;kkk@
+3;ERR;2007;moscow;dfgdhf@
+4;KOL;2006;kazan;gdhdf@
+5;ASD;2005;ufa;kkk@
+6;NPC;2003;moscow;loknjdg@
+7;ERA;2004;samara;fdhfg@
+8;LLL;2009;saratov;dvsgd@
+9;PVV;2001;sochi;dsfev@
+10;MDM;2007;samara;127fgg@

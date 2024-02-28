@@ -1,0 +1,12 @@
+1;Dance;2003;good dance;2
+2;Footbal;2009;Spartak fc;5
+3;Basketball;2018;Spartak bsb;1
+4;Voleyball;2019;Spartak vc;2
+5;Tennis;2016;best tennis;9
+6;Reading;2006;best readers;3
+7;Swimming;2022;more records;4
+8;Singing;2020;omg;6
+9;Math;2019;5+5;7
+10;Informatics;2019;ez python;8
+11;CS;2022;global way;10
+12;Dota;2021; ez int;5

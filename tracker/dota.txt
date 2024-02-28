@@ -1,0 +1,1000 @@
+1; Crusader; 29; 10; Mid; Rikki
+2; Ancient; 22; 20; Support; Rikki
+3; Ancient; 42; 9; Semi-support; Weaver
+4; Guardian; 83; 14; Support; Axe
+5; Herald; 54; 12; Semi-support; Wraith king
+6; Herald; 56; 5; Mid; Techies
+7; Legend; 15; 17; Support; Wraith king
+8; Legend; 59; 4; Support; Rikki
+9; Legend; 57; 22; Hardlane; Techies
+10; Crusader; 73; 13; Hardlane; Rikki
+11; Ancient; 17; 18; Carry; Pudge
+12; Crusader; 53; 25; Hardlane; Monkey king
+13; Guardian; 23; 14; Mid; Weaver
+14; Guardian; 72; 5; Semi-support; Jakiro
+15; Legend; 34; 7; Hardlane; Phantom lancer
+16; Archon; 27; 3; Carry; Axe
+17; Crusader; 64; 13; Support; Weaver
+18; Herald; 30; 29; Support; Warlock
+19; Legend; 31; 15; Semi-support; Axe
+20; Ancient; 30; 5; Hardlane; Axe
+21; Archon; 76; 22; Carry; Monkey king
+22; Archon; 22; 11; Semi-support; Axe
+23; Ancient; 73; 29; Hardlane; Pudge
+24; Crusader; 69; 17; Support; Techies
+25; Ancient; 88; 26; Hardlane; Phantom lancer
+26; Legend; 12; 12; Semi-support; Arc warden
+27; Ancient; 42; 7; Mid; Bristleback
+28; Archon; 24; 30; Hardlane; Axe
+29; Legend; 37; 4; Semi-support; Rikki
+30; Herald; 28; 8; Hardlane; Crystall maiden
+31; Archon; 36; 11; Hardlane; Wraith king
+32; Ancient; 39; 25; Hardlane; Arc warden
+33; Ancient; 75; 0; Hardlane; Witch doctor
+34; Archon; 49; 10; Carry; Bristleback
+35; Archon; 89; 15; Semi-support; Wraith king
+36; Crusader; 55; 20; Carry; Warlock
+37; Guardian; 17; 22; Support; Pudge
+38; Legend; 74; 8; Hardlane; Arc warden
+39; Guardian; 33; 21; Support; Jakiro
+40; Herald; 43; 12; Hardlane; Crystall maiden
+41; Ancient; 77; 19; Carry; Crystall maiden
+42; Archon; 14; 17; Semi-support; Warlock
+43; Herald; 46; 24; Hardlane; Crystall maiden
+44; Ancient; 73; 16; Hardlane; Invoker
+45; Ancient; 85; 2; Semi-support; Witch doctor
+46; Crusader; 14; 21; Mid; Rikki
+47; Legend; 27; 3; Carry; Axe
+48; Guardian; 43; 5; Mid; Jakiro
+49; Legend; 81; 25; Support; Jakiro
+50; Ancient; 79; 19; Semi-support; Techies
+51; Guardian; 30; 26; Mid; Axe
+52; Archon; 36; 12; Carry; Jakiro
+53; Ancient; 85; 1; Semi-support; Techies
+54; Ancient; 75; 10; Mid; Warlock
+55; Ancient; 72; 2; Carry; Axe
+56; Crusader; 60; 16; Carry; Invoker
+57; Archon; 11; 29; Semi-support; Warlock
+58; Ancient; 51; 28; Hardlane; Invoker
+59; Guardian; 49; 7; Support; Bristleback
+60; Crusader; 63; 12; Support; Crystall maiden
+61; Archon; 21; 4; Semi-support; Jakiro
+62; Crusader; 37; 13; Support; Crystall maiden
+63; Guardian; 85; 9; Support; Bristleback
+64; Archon; 85; 29; Carry; Pudge
+65; Guardian; 65; 29; Hardlane; Axe
+66; Guardian; 44; 26; Support; Witch doctor
+67; Crusader; 12; 26; Mid; Witch doctor
+68; Archon; 58; 28; Support; Techies
+69; Archon; 67; 14; Carry; Jakiro
+70; Herald; 54; 17; Mid; Techies
+71; Archon; 15; 17; Carry; Arc warden
+72; Ancient; 68; 5; Hardlane; Techies
+73; Guardian; 63; 2; Support; Jakiro
+74; Archon; 37; 7; Carry; Techies
+75; Herald; 45; 7; Hardlane; Arc warden
+76; Ancient; 39; 15; Hardlane; Rikki
+77; Ancient; 71; 7; Carry; Arc warden
+78; Archon; 86; 29; Semi-support; Bristleback
+79; Archon; 26; 27; Carry; Witch doctor
+80; Archon; 82; 30; Mid; Invoker
+81; Guardian; 51; 18; Carry; Invoker
+82; Archon; 83; 30; Carry; Crystall maiden
+83; Archon; 35; 5; Semi-support; Witch doctor
+84; Ancient; 60; 0; Hardlane; Pudge
+85; Archon; 50; 14; Support; Techies
+86; Herald; 38; 5; Mid; Jakiro
+87; Crusader; 78; 13; Support; Techies
+88; Legend; 74; 27; Carry; Rikki
+89; Herald; 80; 23; Semi-support; Bristleback
+90; Guardian; 76; 9; Hardlane; Axe
+91; Herald; 10; 5; Mid; Jakiro
+92; Legend; 90; 15; Mid; Pudge
+93; Ancient; 70; 17; Support; Jakiro
+94; Herald; 31; 22; Mid; Bristleback
+95; Crusader; 51; 27; Mid; Axe
+96; Legend; 89; 0; Mid; Techies
+97; Legend; 82; 20; Semi-support; Invoker
+98; Ancient; 10; 29; Carry; Pudge
+99; Legend; 44; 15; Semi-support; Wraith king
+100; Guardian; 57; 2; Mid; Monkey king
+101; Crusader; 35; 27; Carry; Invoker
+102; Herald; 41; 26; Hardlane; Warlock
+103; Ancient; 88; 17; Mid; Weaver
+104; Guardian; 14; 3; Mid; Arc warden
+105; Guardian; 59; 15; Mid; Monkey king
+106; Archon; 32; 28; Hardlane; Invoker
+107; Ancient; 87; 6; Mid; Invoker
+108; Ancient; 78; 25; Carry; Weaver
+109; Archon; 12; 21; Mid; Wraith king
+110; Crusader; 60; 5; Mid; Invoker
+111; Archon; 41; 20; Support; Bristleback
+112; Guardian; 40; 27; Mid; Witch doctor
+113; Legend; 50; 15; Carry; Pudge
+114; Guardian; 66; 10; Carry; Jakiro
+115; Guardian; 50; 10; Mid; Warlock
+116; Crusader; 11; 22; Support; Weaver
+117; Guardian; 43; 26; Support; Crystall maiden
+118; Archon; 90; 25; Mid; Arc warden
+119; Archon; 11; 9; Support; Techies
+120; Legend; 84; 13; Hardlane; Rikki
+121; Crusader; 30; 30; Mid; Weaver
+122; Archon; 36; 7; Semi-support; Phantom lancer
+123; Archon; 23; 27; Mid; Pudge
+124; Guardian; 40; 0; Carry; Monkey king
+125; Crusader; 42; 3; Hardlane; Bristleback
+126; Archon; 18; 21; Carry; Warlock
+127; Guardian; 46; 21; Semi-support; Bristleback
+128; Ancient; 30; 22; Mid; Monkey king
+129; Herald; 63; 20; Mid; Monkey king
+130; Ancient; 53; 16; Semi-support; Invoker
+131; Archon; 41; 29; Support; Jakiro
+132; Guardian; 68; 5; Mid; Phantom lancer
+133; Archon; 16; 16; Support; Rikki
+134; Legend; 90; 18; Support; Phantom lancer
+135; Guardian; 66; 2; Carry; Jakiro
+136; Crusader; 42; 6; Hardlane; Pudge
+137; Herald; 28; 12; Mid; Rikki
+138; Legend; 35; 21; Semi-support; Phantom lancer
+139; Ancient; 62; 24; Mid; Invoker
+140; Guardian; 70; 26; Mid; Invoker
+141; Ancient; 35; 13; Carry; Weaver
+142; Legend; 26; 28; Semi-support; Phantom lancer
+143; Ancient; 83; 3; Support; Wraith king
+144; Guardian; 81; 7; Support; Rikki
+145; Herald; 35; 21; Mid; Phantom lancer
+146; Herald; 30; 5; Semi-support; Witch doctor
+147; Legend; 81; 1; Semi-support; Invoker
+148; Herald; 49; 20; Support; Monkey king
+149; Guardian; 43; 28; Semi-support; Phantom lancer
+150; Herald; 52; 0; Support; Axe
+151; Herald; 34; 18; Mid; Pudge
+152; Ancient; 20; 4; Hardlane; Phantom lancer
+153; Ancient; 44; 16; Semi-support; Crystall maiden
+154; Herald; 61; 23; Carry; Techies
+155; Herald; 10; 19; Support; Witch doctor
+156; Guardian; 39; 7; Mid; Arc warden
+157; Guardian; 18; 3; Semi-support; Rikki
+158; Crusader; 56; 23; Semi-support; Invoker
+159; Herald; 65; 24; Support; Crystall maiden
+160; Legend; 24; 9; Semi-support; Warlock
+161; Guardian; 17; 13; Mid; Weaver
+162; Archon; 29; 9; Support; Pudge
+163; Guardian; 90; 6; Mid; Witch doctor
+164; Herald; 72; 4; Semi-support; Jakiro
+165; Herald; 57; 12; Hardlane; Warlock
+166; Herald; 81; 27; Mid; Monkey king
+167; Ancient; 38; 29; Hardlane; Axe
+168; Archon; 68; 27; Semi-support; Weaver
+169; Legend; 27; 7; Carry; Pudge
+170; Archon; 40; 30; Mid; Warlock
+171; Guardian; 20; 8; Hardlane; Axe
+172; Ancient; 25; 26; Hardlane; Techies
+173; Ancient; 83; 1; Hardlane; Invoker
+174; Crusader; 77; 2; Hardlane; Techies
+175; Guardian; 60; 11; Carry; Jakiro
+176; Crusader; 89; 16; Hardlane; Warlock
+177; Guardian; 70; 17; Mid; Techies
+178; Herald; 27; 23; Hardlane; Warlock
+179; Ancient; 75; 26; Hardlane; Weaver
+180; Crusader; 49; 28; Carry; Crystall maiden
+181; Archon; 81; 5; Carry; Arc warden
+182; Herald; 78; 2; Support; Crystall maiden
+183; Guardian; 27; 3; Semi-support; Arc warden
+184; Archon; 57; 30; Mid; Invoker
+185; Legend; 34; 1; Hardlane; Wraith king
+186; Ancient; 48; 19; Carry; Rikki
+187; Ancient; 67; 7; Semi-support; Weaver
+188; Archon; 65; 8; Semi-support; Phantom lancer
+189; Crusader; 40; 30; Carry; Axe
+190; Guardian; 11; 8; Semi-support; Weaver
+191; Archon; 34; 6; Semi-support; Axe
+192; Ancient; 66; 13; Support; Crystall maiden
+193; Guardian; 61; 25; Carry; Bristleback
+194; Archon; 25; 7; Hardlane; Bristleback
+195; Herald; 26; 19; Support; Invoker
+196; Crusader; 19; 6; Support; Bristleback
+197; Guardian; 86; 7; Hardlane; Crystall maiden
+198; Ancient; 42; 18; Semi-support; Techies
+199; Ancient; 60; 12; Hardlane; Bristleback
+200; Ancient; 23; 16; Semi-support; Rikki
+201; Crusader; 76; 25; Hardlane; Phantom lancer
+202; Archon; 56; 3; Carry; Pudge
+203; Crusader; 13; 0; Support; Warlock
+204; Herald; 71; 5; Support; Weaver
+205; Archon; 18; 8; Mid; Crystall maiden
+206; Archon; 58; 25; Hardlane; Warlock
+207; Ancient; 18; 0; Semi-support; Jakiro
+208; Crusader; 60; 13; Mid; Rikki
+209; Archon; 59; 19; Semi-support; Phantom lancer
+210; Crusader; 41; 1; Mid; Axe
+211; Crusader; 59; 5; Support; Jakiro
+212; Legend; 64; 6; Mid; Monkey king
+213; Herald; 51; 9; Hardlane; Crystall maiden
+214; Guardian; 72; 8; Hardlane; Monkey king
+215; Legend; 75; 11; Carry; Pudge
+216; Crusader; 90; 2; Hardlane; Invoker
+217; Crusader; 59; 17; Carry; Pudge
+218; Archon; 20; 24; Mid; Invoker
+219; Legend; 73; 4; Semi-support; Invoker
+220; Legend; 35; 18; Hardlane; Warlock
+221; Crusader; 44; 8; Carry; Arc warden
+222; Archon; 60; 23; Semi-support; Phantom lancer
+223; Crusader; 87; 24; Mid; Witch doctor
+224; Guardian; 36; 23; Semi-support; Invoker
+225; Archon; 45; 9; Semi-support; Bristleback
+226; Crusader; 44; 20; Semi-support; Crystall maiden
+227; Herald; 21; 18; Hardlane; Pudge
+228; Crusader; 79; 29; Mid; Rikki
+229; Legend; 24; 8; Support; Witch doctor
+230; Archon; 46; 2; Hardlane; Jakiro
+231; Herald; 22; 30; Hardlane; Techies
+232; Herald; 43; 27; Semi-support; Techies
+233; Crusader; 13; 22; Support; Invoker
+234; Guardian; 45; 24; Support; Arc warden
+235; Guardian; 61; 16; Semi-support; Jakiro
+236; Crusader; 58; 9; Carry; Axe
+237; Guardian; 33; 28; Semi-support; Witch doctor
+238; Herald; 16; 30; Support; Pudge
+239; Ancient; 53; 6; Hardlane; Weaver
+240; Guardian; 48; 10; Mid; Techies
+241; Ancient; 64; 4; Carry; Witch doctor
+242; Archon; 54; 28; Carry; Axe
+243; Ancient; 31; 16; Mid; Invoker
+244; Ancient; 10; 24; Carry; Arc warden
+245; Herald; 86; 24; Carry; Rikki
+246; Crusader; 75; 29; Mid; Arc warden
+247; Herald; 73; 1; Carry; Rikki
+248; Herald; 71; 7; Hardlane; Weaver
+249; Archon; 66; 8; Mid; Invoker
+250; Ancient; 59; 12; Mid; Techies
+251; Archon; 70; 1; Semi-support; Rikki
+252; Herald; 13; 22; Mid; Techies
+253; Guardian; 32; 23; Mid; Phantom lancer
+254; Ancient; 86; 26; Support; Arc warden
+255; Crusader; 42; 9; Mid; Bristleback
+256; Ancient; 42; 3; Mid; Wraith king
+257; Herald; 86; 3; Support; Wraith king
+258; Herald; 86; 19; Mid; Bristleback
+259; Archon; 28; 30; Support; Axe
+260; Archon; 25; 11; Hardlane; Bristleback
+261; Archon; 21; 28; Support; Jakiro
+262; Herald; 44; 11; Carry; Warlock
+263; Archon; 70; 22; Mid; Rikki
+264; Legend; 45; 24; Support; Warlock
+265; Ancient; 36; 29; Hardlane; Witch doctor
+266; Crusader; 11; 18; Hardlane; Bristleback
+267; Legend; 59; 23; Hardlane; Witch doctor
+268; Ancient; 18; 28; Hardlane; Monkey king
+269; Archon; 70; 28; Carry; Bristleback
+270; Herald; 22; 2; Mid; Warlock
+271; Ancient; 50; 25; Mid; Witch doctor
+272; Legend; 35; 15; Hardlane; Wraith king
+273; Crusader; 70; 17; Hardlane; Pudge
+274; Crusader; 62; 7; Hardlane; Axe
+275; Guardian; 63; 20; Hardlane; Phantom lancer
+276; Legend; 77; 27; Mid; Crystall maiden
+277; Legend; 70; 3; Support; Phantom lancer
+278; Ancient; 25; 24; Carry; Witch doctor
+279; Ancient; 48; 23; Semi-support; Wraith king
+280; Herald; 53; 14; Support; Jakiro
+281; Archon; 88; 13; Hardlane; Witch doctor
+282; Legend; 18; 27; Hardlane; Monkey king
+283; Legend; 13; 18; Carry; Warlock
+284; Legend; 22; 18; Mid; Axe
+285; Guardian; 39; 1; Carry; Rikki
+286; Herald; 22; 3; Carry; Wraith king
+287; Ancient; 43; 20; Support; Techies
+288; Ancient; 46; 12; Semi-support; Rikki
+289; Crusader; 30; 2; Carry; Jakiro
+290; Ancient; 49; 30; Support; Rikki
+291; Ancient; 12; 28; Semi-support; Pudge
+292; Herald; 41; 1; Mid; Rikki
+293; Archon; 51; 5; Hardlane; Warlock
+294; Herald; 13; 10; Semi-support; Invoker
+295; Legend; 63; 2; Hardlane; Arc warden
+296; Guardian; 50; 3; Support; Monkey king
+297; Ancient; 76; 8; Support; Witch doctor
+298; Archon; 20; 12; Carry; Weaver
+299; Herald; 21; 25; Hardlane; Witch doctor
+300; Ancient; 22; 15; Carry; Phantom lancer
+301; Ancient; 25; 17; Semi-support; Rikki
+302; Ancient; 22; 12; Support; Bristleback
+303; Guardian; 65; 17; Carry; Invoker
+304; Legend; 38; 2; Support; Weaver
+305; Guardian; 49; 19; Semi-support; Crystall maiden
+306; Guardian; 13; 28; Carry; Weaver
+307; Archon; 20; 21; Hardlane; Weaver
+308; Legend; 24; 30; Support; Jakiro
+309; Guardian; 32; 27; Semi-support; Witch doctor
+310; Herald; 11; 29; Carry; Techies
+311; Herald; 44; 4; Hardlane; Warlock
+312; Legend; 89; 8; Hardlane; Axe
+313; Guardian; 28; 30; Support; Rikki
+314; Guardian; 28; 14; Support; Pudge
+315; Legend; 21; 13; Support; Phantom lancer
+316; Guardian; 69; 3; Hardlane; Techies
+317; Legend; 34; 4; Hardlane; Rikki
+318; Herald; 35; 15; Support; Arc warden
+319; Herald; 66; 0; Mid; Axe
+320; Guardian; 68; 26; Semi-support; Invoker
+321; Archon; 45; 12; Carry; Wraith king
+322; Legend; 66; 29; Semi-support; Invoker
+323; Guardian; 64; 23; Hardlane; Axe
+324; Ancient; 16; 11; Mid; Techies
+325; Ancient; 82; 7; Mid; Phantom lancer
+326; Crusader; 34; 16; Mid; Wraith king
+327; Ancient; 42; 25; Carry; Invoker
+328; Archon; 30; 7; Hardlane; Monkey king
+329; Archon; 73; 23; Support; Bristleback
+330; Archon; 29; 26; Mid; Arc warden
+331; Legend; 66; 24; Semi-support; Weaver
+332; Archon; 12; 26; Mid; Witch doctor
+333; Guardian; 54; 15; Mid; Weaver
+334; Legend; 79; 24; Semi-support; Jakiro
+335; Guardian; 59; 16; Carry; Axe
+336; Archon; 83; 24; Hardlane; Monkey king
+337; Ancient; 50; 19; Mid; Pudge
+338; Ancient; 41; 18; Hardlane; Witch doctor
+339; Archon; 45; 10; Hardlane; Witch doctor
+340; Archon; 80; 30; Mid; Monkey king
+341; Guardian; 33; 4; Carry; Axe
+342; Legend; 56; 23; Mid; Phantom lancer
+343; Crusader; 79; 10; Semi-support; Pudge
+344; Guardian; 28; 0; Hardlane; Axe
+345; Ancient; 13; 25; Carry; Axe
+346; Herald; 28; 22; Semi-support; Warlock
+347; Herald; 63; 11; Semi-support; Invoker
+348; Archon; 36; 8; Semi-support; Arc warden
+349; Herald; 20; 29; Carry; Invoker
+350; Legend; 33; 29; Carry; Techies
+351; Ancient; 46; 22; Hardlane; Witch doctor
+352; Ancient; 30; 21; Carry; Techies
+353; Ancient; 29; 23; Support; Wraith king
+354; Crusader; 37; 2; Carry; Wraith king
+355; Ancient; 36; 29; Hardlane; Invoker
+356; Ancient; 49; 1; Mid; Wraith king
+357; Guardian; 62; 26; Carry; Techies
+358; Ancient; 80; 3; Hardlane; Monkey king
+359; Crusader; 83; 3; Support; Crystall maiden
+360; Herald; 40; 15; Mid; Crystall maiden
+361; Archon; 14; 12; Hardlane; Rikki
+362; Crusader; 68; 23; Hardlane; Rikki
+363; Guardian; 69; 17; Carry; Techies
+364; Archon; 86; 28; Semi-support; Invoker
+365; Guardian; 29; 10; Semi-support; Bristleback
+366; Crusader; 49; 9; Semi-support; Pudge
+367; Legend; 38; 12; Semi-support; Bristleback
+368; Legend; 46; 20; Carry; Jakiro
+369; Ancient; 86; 29; Support; Invoker
+370; Ancient; 82; 21; Hardlane; Weaver
+371; Herald; 10; 21; Carry; Phantom lancer
+372; Crusader; 48; 5; Carry; Techies
+373; Legend; 41; 9; Semi-support; Warlock
+374; Herald; 75; 1; Support; Phantom lancer
+375; Ancient; 48; 8; Mid; Arc warden
+376; Herald; 39; 16; Carry; Jakiro
+377; Guardian; 18; 18; Hardlane; Pudge
+378; Herald; 18; 26; Carry; Jakiro
+379; Crusader; 28; 1; Mid; Phantom lancer
+380; Guardian; 44; 8; Hardlane; Phantom lancer
+381; Guardian; 38; 9; Hardlane; Witch doctor
+382; Herald; 71; 10; Carry; Techies
+383; Archon; 45; 3; Support; Techies
+384; Crusader; 58; 0; Carry; Witch doctor
+385; Crusader; 19; 1; Semi-support; Phantom lancer
+386; Guardian; 51; 4; Semi-support; Arc warden
+387; Legend; 50; 6; Hardlane; Bristleback
+388; Guardian; 84; 10; Support; Arc warden
+389; Herald; 87; 5; Semi-support; Monkey king
+390; Archon; 51; 28; Support; Techies
+391; Crusader; 48; 5; Carry; Bristleback
+392; Ancient; 31; 19; Semi-support; Jakiro
+393; Ancient; 16; 16; Hardlane; Bristleback
+394; Crusader; 21; 8; Hardlane; Wraith king
+395; Herald; 33; 6; Semi-support; Rikki
+396; Ancient; 64; 15; Semi-support; Weaver
+397; Archon; 12; 16; Support; Witch doctor
+398; Herald; 88; 3; Carry; Techies
+399; Crusader; 44; 3; Support; Jakiro
+400; Archon; 69; 0; Carry; Warlock
+401; Legend; 14; 0; Hardlane; Techies
+402; Ancient; 67; 13; Mid; Invoker
+403; Crusader; 80; 17; Support; Witch doctor
+404; Ancient; 14; 2; Hardlane; Crystall maiden
+405; Legend; 23; 25; Carry; Wraith king
+406; Guardian; 27; 11; Mid; Techies
+407; Herald; 62; 6; Carry; Invoker
+408; Crusader; 78; 18; Mid; Bristleback
+409; Legend; 41; 22; Semi-support; Rikki
+410; Guardian; 79; 24; Carry; Crystall maiden
+411; Crusader; 63; 10; Hardlane; Axe
+412; Ancient; 64; 8; Carry; Jakiro
+413; Crusader; 83; 20; Hardlane; Phantom lancer
+414; Guardian; 30; 15; Hardlane; Invoker
+415; Legend; 81; 25; Support; Wraith king
+416; Archon; 61; 1; Mid; Monkey king
+417; Crusader; 69; 26; Semi-support; Phantom lancer
+418; Archon; 52; 25; Semi-support; Techies
+419; Herald; 67; 22; Carry; Crystall maiden
+420; Herald; 13; 2; Support; Warlock
+421; Legend; 60; 4; Semi-support; Weaver
+422; Guardian; 23; 27; Mid; Crystall maiden
+423; Herald; 82; 11; Mid; Phantom lancer
+424; Crusader; 37; 2; Mid; Phantom lancer
+425; Ancient; 71; 5; Semi-support; Crystall maiden
+426; Herald; 66; 26; Carry; Invoker
+427; Legend; 81; 12; Semi-support; Pudge
+428; Ancient; 84; 8; Mid; Axe
+429; Guardian; 44; 15; Mid; Axe
+430; Ancient; 86; 2; Semi-support; Crystall maiden
+431; Legend; 21; 8; Support; Arc warden
+432; Ancient; 47; 20; Support; Weaver
+433; Legend; 55; 16; Support; Wraith king
+434; Ancient; 31; 4; Hardlane; Rikki
+435; Ancient; 81; 24; Support; Rikki
+436; Legend; 80; 27; Support; Techies
+437; Archon; 36; 17; Mid; Wraith king
+438; Legend; 39; 10; Support; Techies
+439; Guardian; 68; 21; Support; Invoker
+440; Crusader; 50; 28; Semi-support; Arc warden
+441; Guardian; 90; 19; Mid; Axe
+442; Archon; 85; 26; Semi-support; Crystall maiden
+443; Archon; 35; 21; Mid; Arc warden
+444; Ancient; 20; 4; Support; Techies
+445; Crusader; 14; 8; Semi-support; Monkey king
+446; Crusader; 15; 10; Support; Pudge
+447; Legend; 81; 19; Semi-support; Warlock
+448; Ancient; 49; 22; Support; Rikki
+449; Crusader; 38; 10; Mid; Techies
+450; Crusader; 13; 11; Carry; Bristleback
+451; Herald; 80; 19; Mid; Weaver
+452; Ancient; 43; 30; Carry; Jakiro
+453; Archon; 90; 29; Support; Monkey king
+454; Legend; 61; 17; Carry; Weaver
+455; Archon; 42; 28; Hardlane; Axe
+456; Crusader; 75; 15; Carry; Bristleback
+457; Guardian; 29; 25; Carry; Jakiro
+458; Ancient; 60; 0; Support; Techies
+459; Legend; 81; 6; Hardlane; Wraith king
+460; Archon; 37; 22; Hardlane; Rikki
+461; Guardian; 60; 19; Carry; Pudge
+462; Archon; 38; 29; Hardlane; Arc warden
+463; Herald; 87; 13; Support; Rikki
+464; Crusader; 74; 0; Hardlane; Invoker
+465; Ancient; 43; 25; Carry; Wraith king
+466; Guardian; 64; 13; Support; Techies
+467; Crusader; 74; 6; Carry; Crystall maiden
+468; Legend; 29; 12; Carry; Techies
+469; Guardian; 19; 22; Support; Wraith king
+470; Archon; 70; 8; Hardlane; Pudge
+471; Herald; 38; 25; Hardlane; Arc warden
+472; Ancient; 55; 29; Support; Phantom lancer
+473; Herald; 51; 2; Mid; Crystall maiden
+474; Guardian; 86; 18; Hardlane; Phantom lancer
+475; Archon; 67; 12; Semi-support; Jakiro
+476; Legend; 75; 1; Hardlane; Invoker
+477; Guardian; 62; 28; Semi-support; Jakiro
+478; Legend; 71; 26; Semi-support; Warlock
+479; Legend; 29; 16; Carry; Wraith king
+480; Ancient; 35; 28; Semi-support; Wraith king
+481; Ancient; 32; 8; Semi-support; Phantom lancer
+482; Crusader; 77; 13; Semi-support; Warlock
+483; Ancient; 34; 16; Hardlane; Wraith king
+484; Guardian; 53; 24; Semi-support; Arc warden
+485; Guardian; 73; 9; Semi-support; Wraith king
+486; Ancient; 71; 27; Mid; Bristleback
+487; Herald; 14; 17; Carry; Monkey king
+488; Ancient; 16; 0; Hardlane; Invoker
+489; Archon; 56; 25; Carry; Wraith king
+490; Ancient; 53; 15; Mid; Jakiro
+491; Crusader; 16; 21; Mid; Pudge
+492; Crusader; 51; 13; Hardlane; Witch doctor
+493; Ancient; 18; 24; Hardlane; Techies
+494; Guardian; 40; 26; Hardlane; Monkey king
+495; Archon; 23; 11; Support; Phantom lancer
+496; Herald; 31; 4; Support; Rikki
+497; Legend; 29; 17; Carry; Bristleback
+498; Archon; 75; 26; Semi-support; Bristleback
+499; Legend; 11; 17; Support; Crystall maiden
+500; Legend; 85; 5; Hardlane; Rikki
+501; Archon; 41; 19; Carry; Axe
+502; Archon; 24; 3; Semi-support; Pudge
+503; Herald; 84; 21; Carry; Pudge
+504; Herald; 19; 21; Hardlane; Invoker
+505; Crusader; 22; 23; Mid; Witch doctor
+506; Ancient; 44; 16; Support; Wraith king
+507; Guardian; 54; 9; Support; Weaver
+508; Crusader; 85; 25; Carry; Phantom lancer
+509; Archon; 40; 16; Support; Witch doctor
+510; Legend; 82; 25; Carry; Arc warden
+511; Guardian; 39; 11; Hardlane; Monkey king
+512; Archon; 17; 7; Semi-support; Warlock
+513; Guardian; 33; 0; Mid; Weaver
+514; Legend; 28; 15; Carry; Arc warden
+515; Legend; 28; 22; Mid; Crystall maiden
+516; Archon; 63; 17; Semi-support; Wraith king
+517; Herald; 22; 15; Hardlane; Witch doctor
+518; Herald; 73; 20; Support; Techies
+519; Guardian; 71; 2; Mid; Weaver
+520; Crusader; 22; 28; Semi-support; Techies
+521; Crusader; 45; 26; Hardlane; Witch doctor
+522; Archon; 23; 13; Carry; Wraith king
+523; Guardian; 43; 26; Semi-support; Phantom lancer
+524; Legend; 66; 28; Support; Techies
+525; Ancient; 13; 27; Mid; Phantom lancer
+526; Archon; 31; 4; Mid; Axe
+527; Archon; 29; 1; Carry; Techies
+528; Archon; 57; 29; Carry; Crystall maiden
+529; Legend; 37; 16; Support; Invoker
+530; Crusader; 76; 12; Hardlane; Warlock
+531; Guardian; 61; 3; Carry; Pudge
+532; Herald; 75; 4; Mid; Warlock
+533; Herald; 67; 9; Support; Bristleback
+534; Guardian; 12; 19; Semi-support; Rikki
+535; Ancient; 46; 24; Hardlane; Crystall maiden
+536; Legend; 88; 27; Semi-support; Monkey king
+537; Legend; 73; 1; Support; Monkey king
+538; Herald; 54; 19; Semi-support; Axe
+539; Guardian; 42; 15; Semi-support; Weaver
+540; Ancient; 72; 20; Support; Pudge
+541; Archon; 76; 27; Carry; Wraith king
+542; Crusader; 87; 18; Semi-support; Weaver
+543; Archon; 20; 18; Hardlane; Bristleback
+544; Guardian; 67; 30; Hardlane; Axe
+545; Guardian; 37; 28; Mid; Weaver
+546; Archon; 38; 10; Hardlane; Pudge
+547; Guardian; 84; 16; Semi-support; Bristleback
+548; Herald; 52; 2; Carry; Wraith king
+549; Crusader; 62; 15; Carry; Pudge
+550; Legend; 61; 26; Carry; Techies
+551; Legend; 26; 17; Carry; Jakiro
+552; Archon; 31; 30; Carry; Rikki
+553; Herald; 51; 8; Semi-support; Axe
+554; Herald; 38; 0; Carry; Monkey king
+555; Crusader; 73; 11; Mid; Crystall maiden
+556; Crusader; 63; 9; Semi-support; Jakiro
+557; Crusader; 87; 2; Mid; Pudge
+558; Legend; 63; 17; Carry; Bristleback
+559; Legend; 56; 30; Carry; Axe
+560; Legend; 25; 13; Mid; Warlock
+561; Herald; 74; 27; Carry; Bristleback
+562; Herald; 61; 14; Carry; Warlock
+563; Crusader; 58; 14; Mid; Bristleback
+564; Archon; 89; 26; Semi-support; Pudge
+565; Crusader; 36; 16; Hardlane; Monkey king
+566; Crusader; 76; 11; Hardlane; Pudge
+567; Legend; 23; 0; Support; Weaver
+568; Herald; 24; 12; Hardlane; Axe
+569; Archon; 15; 7; Mid; Axe
+570; Ancient; 83; 6; Semi-support; Monkey king
+571; Guardian; 82; 13; Carry; Weaver
+572; Herald; 17; 1; Mid; Arc warden
+573; Guardian; 28; 17; Semi-support; Invoker
+574; Ancient; 14; 17; Support; Crystall maiden
+575; Crusader; 60; 14; Hardlane; Warlock
+576; Crusader; 23; 26; Hardlane; Monkey king
+577; Herald; 89; 18; Hardlane; Warlock
+578; Crusader; 43; 21; Carry; Monkey king
+579; Guardian; 63; 15; Mid; Techies
+580; Herald; 89; 18; Support; Monkey king
+581; Crusader; 57; 7; Support; Arc warden
+582; Herald; 47; 13; Carry; Monkey king
+583; Ancient; 84; 6; Semi-support; Invoker
+584; Legend; 56; 26; Support; Rikki
+585; Crusader; 65; 19; Hardlane; Jakiro
+586; Guardian; 53; 2; Carry; Invoker
+587; Herald; 27; 9; Mid; Jakiro
+588; Crusader; 43; 3; Support; Weaver
+589; Ancient; 34; 28; Hardlane; Techies
+590; Legend; 44; 13; Support; Rikki
+591; Herald; 19; 15; Mid; Crystall maiden
+592; Ancient; 23; 18; Hardlane; Techies
+593; Herald; 64; 27; Hardlane; Axe
+594; Crusader; 69; 16; Semi-support; Bristleback
+595; Ancient; 18; 9; Mid; Crystall maiden
+596; Ancient; 51; 7; Mid; Invoker
+597; Legend; 59; 5; Carry; Weaver
+598; Herald; 19; 8; Mid; Invoker
+599; Ancient; 49; 11; Carry; Techies
+600; Herald; 74; 26; Semi-support; Warlock
+601; Guardian; 38; 30; Mid; Warlock
+602; Guardian; 54; 30; Support; Bristleback
+603; Archon; 32; 28; Support; Jakiro
+604; Archon; 66; 2; Carry; Crystall maiden
+605; Crusader; 22; 24; Mid; Phantom lancer
+606; Archon; 69; 25; Mid; Crystall maiden
+607; Herald; 27; 5; Semi-support; Crystall maiden
+608; Ancient; 31; 4; Support; Pudge
+609; Archon; 14; 29; Carry; Pudge
+610; Crusader; 85; 21; Mid; Pudge
+611; Ancient; 51; 0; Support; Arc warden
+612; Ancient; 25; 7; Carry; Wraith king
+613; Herald; 84; 18; Semi-support; Wraith king
+614; Guardian; 18; 6; Support; Wraith king
+615; Ancient; 67; 2; Carry; Axe
+616; Archon; 25; 16; Support; Jakiro
+617; Ancient; 10; 18; Carry; Witch doctor
+618; Ancient; 84; 23; Semi-support; Witch doctor
+619; Legend; 17; 20; Support; Witch doctor
+620; Legend; 50; 28; Semi-support; Techies
+621; Archon; 58; 0; Semi-support; Rikki
+622; Guardian; 16; 5; Carry; Pudge
+623; Herald; 66; 24; Mid; Witch doctor
+624; Ancient; 19; 15; Mid; Witch doctor
+625; Guardian; 39; 26; Mid; Wraith king
+626; Guardian; 65; 30; Hardlane; Phantom lancer
+627; Legend; 64; 7; Semi-support; Invoker
+628; Ancient; 72; 22; Hardlane; Phantom lancer
+629; Herald; 77; 17; Semi-support; Witch doctor
+630; Guardian; 41; 19; Carry; Monkey king
+631; Crusader; 76; 25; Carry; Witch doctor
+632; Legend; 33; 30; Mid; Wraith king
+633; Legend; 47; 27; Carry; Weaver
+634; Ancient; 48; 4; Hardlane; Arc warden
+635; Guardian; 15; 8; Support; Phantom lancer
+636; Archon; 37; 27; Mid; Warlock
+637; Archon; 32; 9; Semi-support; Rikki
+638; Archon; 16; 11; Semi-support; Axe
+639; Herald; 85; 29; Mid; Arc warden
+640; Archon; 12; 19; Semi-support; Warlock
+641; Legend; 45; 16; Support; Crystall maiden
+642; Guardian; 59; 8; Support; Rikki
+643; Guardian; 49; 23; Mid; Rikki
+644; Ancient; 90; 3; Support; Axe
+645; Ancient; 43; 20; Mid; Rikki
+646; Ancient; 43; 23; Support; Weaver
+647; Herald; 21; 18; Support; Crystall maiden
+648; Herald; 79; 4; Hardlane; Weaver
+649; Guardian; 72; 30; Support; Weaver
+650; Legend; 89; 2; Support; Wraith king
+651; Archon; 80; 20; Support; Crystall maiden
+652; Herald; 41; 29; Semi-support; Warlock
+653; Herald; 14; 11; Carry; Jakiro
+654; Herald; 29; 11; Mid; Techies
+655; Archon; 48; 24; Semi-support; Crystall maiden
+656; Ancient; 52; 15; Mid; Rikki
+657; Legend; 38; 29; Carry; Arc warden
+658; Herald; 72; 26; Mid; Rikki
+659; Guardian; 63; 6; Hardlane; Phantom lancer
+660; Ancient; 77; 21; Hardlane; Arc warden
+661; Guardian; 27; 20; Carry; Jakiro
+662; Crusader; 41; 6; Hardlane; Wraith king
+663; Crusader; 29; 13; Support; Witch doctor
+664; Crusader; 11; 4; Mid; Wraith king
+665; Ancient; 59; 13; Semi-support; Weaver
+666; Crusader; 70; 14; Support; Crystall maiden
+667; Archon; 43; 19; Carry; Jakiro
+668; Legend; 85; 15; Mid; Axe
+669; Herald; 26; 0; Semi-support; Crystall maiden
+670; Herald; 46; 2; Carry; Rikki
+671; Archon; 63; 22; Carry; Monkey king
+672; Ancient; 72; 25; Semi-support; Techies
+673; Herald; 34; 28; Hardlane; Rikki
+674; Legend; 27; 24; Carry; Bristleback
+675; Guardian; 88; 25; Mid; Monkey king
+676; Archon; 85; 22; Carry; Jakiro
+677; Guardian; 59; 0; Carry; Arc warden
+678; Legend; 33; 20; Hardlane; Jakiro
+679; Guardian; 78; 1; Hardlane; Axe
+680; Herald; 71; 11; Mid; Bristleback
+681; Herald; 68; 3; Carry; Invoker
+682; Legend; 24; 19; Support; Crystall maiden
+683; Legend; 77; 18; Semi-support; Warlock
+684; Herald; 87; 17; Mid; Techies
+685; Ancient; 44; 5; Carry; Techies
+686; Guardian; 71; 6; Hardlane; Monkey king
+687; Guardian; 81; 11; Carry; Crystall maiden
+688; Ancient; 16; 18; Hardlane; Bristleback
+689; Ancient; 31; 4; Mid; Warlock
+690; Legend; 32; 30; Carry; Jakiro
+691; Herald; 15; 23; Semi-support; Warlock
+692; Herald; 43; 21; Hardlane; Techies
+693; Herald; 18; 22; Hardlane; Arc warden
+694; Archon; 27; 11; Semi-support; Arc warden
+695; Guardian; 44; 26; Mid; Axe
+696; Herald; 25; 30; Support; Rikki
+697; Legend; 42; 9; Carry; Techies
+698; Guardian; 27; 16; Mid; Weaver
+699; Herald; 35; 0; Hardlane; Pudge
+700; Herald; 85; 30; Hardlane; Crystall maiden
+701; Herald; 20; 6; Support; Bristleback
+702; Guardian; 84; 19; Mid; Monkey king
+703; Guardian; 14; 2; Carry; Crystall maiden
+704; Legend; 12; 20; Carry; Arc warden
+705; Herald; 22; 5; Semi-support; Wraith king
+706; Crusader; 43; 15; Carry; Wraith king
+707; Legend; 58; 13; Support; Bristleback
+708; Ancient; 14; 21; Mid; Axe
+709; Herald; 10; 14; Carry; Arc warden
+710; Legend; 27; 29; Support; Invoker
+711; Herald; 70; 5; Mid; Wraith king
+712; Guardian; 69; 28; Carry; Wraith king
+713; Crusader; 45; 6; Mid; Warlock
+714; Guardian; 59; 29; Mid; Phantom lancer
+715; Crusader; 44; 6; Hardlane; Rikki
+716; Crusader; 68; 28; Semi-support; Wraith king
+717; Guardian; 16; 11; Mid; Axe
+718; Archon; 16; 7; Support; Warlock
+719; Archon; 22; 21; Semi-support; Invoker
+720; Guardian; 19; 4; Hardlane; Techies
+721; Legend; 65; 5; Carry; Wraith king
+722; Herald; 85; 3; Semi-support; Arc warden
+723; Archon; 89; 12; Carry; Pudge
+724; Guardian; 20; 18; Hardlane; Bristleback
+725; Crusader; 55; 13; Support; Weaver
+726; Legend; 81; 12; Support; Weaver
+727; Crusader; 21; 6; Support; Warlock
+728; Ancient; 42; 7; Support; Phantom lancer
+729; Herald; 90; 27; Support; Jakiro
+730; Legend; 29; 21; Mid; Witch doctor
+731; Herald; 53; 17; Hardlane; Phantom lancer
+732; Guardian; 49; 30; Support; Invoker
+733; Guardian; 35; 7; Carry; Crystall maiden
+734; Herald; 69; 15; Hardlane; Phantom lancer
+735; Legend; 48; 5; Support; Phantom lancer
+736; Herald; 14; 20; Hardlane; Jakiro
+737; Ancient; 35; 25; Hardlane; Invoker
+738; Herald; 90; 5; Hardlane; Techies
+739; Guardian; 90; 26; Carry; Arc warden
+740; Legend; 49; 15; Hardlane; Jakiro
+741; Guardian; 43; 5; Semi-support; Rikki
+742; Ancient; 61; 8; Hardlane; Rikki
+743; Ancient; 17; 28; Support; Jakiro
+744; Archon; 74; 2; Semi-support; Jakiro
+745; Herald; 15; 30; Hardlane; Rikki
+746; Legend; 58; 3; Mid; Phantom lancer
+747; Guardian; 47; 30; Carry; Monkey king
+748; Herald; 84; 4; Hardlane; Wraith king
+749; Crusader; 90; 16; Semi-support; Weaver
+750; Legend; 16; 4; Hardlane; Techies
+751; Crusader; 34; 12; Semi-support; Phantom lancer
+752; Herald; 17; 24; Semi-support; Monkey king
+753; Archon; 15; 10; Semi-support; Phantom lancer
+754; Guardian; 46; 4; Carry; Techies
+755; Crusader; 15; 29; Hardlane; Arc warden
+756; Archon; 76; 21; Support; Arc warden
+757; Herald; 85; 25; Hardlane; Axe
+758; Archon; 43; 6; Hardlane; Monkey king
+759; Ancient; 17; 8; Mid; Techies
+760; Legend; 41; 6; Hardlane; Arc warden
+761; Ancient; 11; 9; Semi-support; Invoker
+762; Herald; 58; 27; Mid; Phantom lancer
+763; Archon; 16; 24; Semi-support; Arc warden
+764; Crusader; 20; 10; Hardlane; Crystall maiden
+765; Legend; 38; 18; Semi-support; Weaver
+766; Ancient; 45; 22; Semi-support; Bristleback
+767; Crusader; 27; 22; Mid; Wraith king
+768; Guardian; 71; 28; Hardlane; Warlock
+769; Guardian; 59; 19; Mid; Wraith king
+770; Ancient; 61; 8; Support; Rikki
+771; Herald; 43; 14; Semi-support; Warlock
+772; Archon; 43; 18; Mid; Weaver
+773; Ancient; 56; 21; Hardlane; Techies
+774; Crusader; 56; 30; Mid; Axe
+775; Archon; 89; 20; Semi-support; Techies
+776; Archon; 36; 19; Semi-support; Witch doctor
+777; Crusader; 73; 19; Support; Phantom lancer
+778; Herald; 33; 21; Carry; Arc warden
+779; Guardian; 26; 9; Mid; Rikki
+780; Ancient; 21; 29; Support; Invoker
+781; Crusader; 90; 18; Hardlane; Bristleback
+782; Archon; 90; 20; Mid; Warlock
+783; Legend; 42; 5; Mid; Pudge
+784; Ancient; 85; 22; Carry; Pudge
+785; Ancient; 61; 10; Semi-support; Wraith king
+786; Herald; 62; 16; Semi-support; Pudge
+787; Herald; 62; 5; Semi-support; Witch doctor
+788; Guardian; 60; 3; Mid; Phantom lancer
+789; Herald; 66; 8; Hardlane; Wraith king
+790; Guardian; 88; 29; Support; Wraith king
+791; Crusader; 27; 7; Support; Pudge
+792; Legend; 49; 19; Mid; Bristleback
+793; Guardian; 74; 18; Hardlane; Arc warden
+794; Ancient; 86; 26; Hardlane; Axe
+795; Guardian; 42; 28; Carry; Rikki
+796; Guardian; 69; 5; Mid; Monkey king
+797; Herald; 16; 2; Carry; Arc warden
+798; Crusader; 15; 18; Support; Pudge
+799; Legend; 27; 14; Support; Phantom lancer
+800; Guardian; 75; 16; Mid; Monkey king
+801; Guardian; 32; 7; Hardlane; Weaver
+802; Herald; 11; 21; Hardlane; Arc warden
+803; Guardian; 65; 15; Support; Warlock
+804; Guardian; 84; 1; Hardlane; Techies
+805; Guardian; 58; 5; Semi-support; Crystall maiden
+806; Herald; 61; 0; Semi-support; Phantom lancer
+807; Legend; 85; 18; Support; Jakiro
+808; Ancient; 80; 0; Carry; Axe
+809; Archon; 17; 1; Support; Phantom lancer
+810; Herald; 26; 16; Carry; Rikki
+811; Ancient; 67; 12; Support; Jakiro
+812; Guardian; 12; 8; Carry; Wraith king
+813; Herald; 41; 6; Hardlane; Rikki
+814; Ancient; 12; 25; Carry; Phantom lancer
+815; Herald; 82; 1; Semi-support; Rikki
+816; Ancient; 23; 13; Semi-support; Arc warden
+817; Guardian; 87; 11; Hardlane; Bristleback
+818; Ancient; 14; 8; Support; Bristleback
+819; Crusader; 42; 23; Support; Warlock
+820; Guardian; 47; 22; Mid; Jakiro
+821; Crusader; 32; 23; Support; Techies
+822; Legend; 70; 25; Hardlane; Wraith king
+823; Legend; 84; 7; Mid; Axe
+824; Guardian; 21; 10; Support; Axe
+825; Herald; 24; 16; Carry; Phantom lancer
+826; Ancient; 89; 20; Mid; Pudge
+827; Crusader; 66; 9; Support; Axe
+828; Crusader; 57; 3; Semi-support; Arc warden
+829; Guardian; 46; 25; Support; Techies
+830; Legend; 70; 21; Support; Monkey king
+831; Ancient; 63; 20; Hardlane; Weaver
+832; Herald; 84; 9; Support; Axe
+833; Crusader; 79; 9; Hardlane; Monkey king
+834; Herald; 64; 14; Support; Techies
+835; Herald; 21; 7; Support; Monkey king
+836; Ancient; 48; 1; Mid; Invoker
+837; Guardian; 36; 27; Carry; Crystall maiden
+838; Ancient; 21; 6; Semi-support; Monkey king
+839; Guardian; 84; 6; Carry; Jakiro
+840; Legend; 22; 7; Hardlane; Monkey king
+841; Archon; 50; 28; Mid; Wraith king
+842; Crusader; 19; 12; Hardlane; Crystall maiden
+843; Legend; 77; 10; Mid; Warlock
+844; Legend; 27; 10; Hardlane; Arc warden
+845; Crusader; 55; 20; Mid; Techies
+846; Legend; 52; 17; Carry; Witch doctor
+847; Guardian; 60; 21; Mid; Phantom lancer
+848; Guardian; 16; 2; Semi-support; Jakiro
+849; Legend; 20; 26; Carry; Bristleback
+850; Archon; 13; 13; Hardlane; Monkey king
+851; Legend; 71; 2; Hardlane; Axe
+852; Archon; 88; 22; Mid; Bristleback
+853; Herald; 27; 15; Support; Bristleback
+854; Archon; 28; 4; Carry; Invoker
+855; Archon; 28; 1; Support; Warlock
+856; Guardian; 25; 18; Mid; Jakiro
+857; Legend; 45; 12; Mid; Jakiro
+858; Crusader; 30; 16; Semi-support; Techies
+859; Herald; 16; 1; Carry; Phantom lancer
+860; Crusader; 34; 13; Carry; Phantom lancer
+861; Crusader; 86; 19; Hardlane; Pudge
+862; Legend; 30; 23; Mid; Monkey king
+863; Archon; 26; 30; Hardlane; Jakiro
+864; Archon; 66; 15; Semi-support; Crystall maiden
+865; Crusader; 65; 30; Semi-support; Crystall maiden
+866; Crusader; 46; 4; Semi-support; Axe
+867; Crusader; 87; 23; Semi-support; Monkey king
+868; Guardian; 15; 20; Carry; Wraith king
+869; Crusader; 50; 18; Semi-support; Weaver
+870; Ancient; 19; 26; Mid; Techies
+871; Guardian; 54; 14; Semi-support; Phantom lancer
+872; Guardian; 21; 12; Semi-support; Wraith king
+873; Guardian; 25; 10; Hardlane; Arc warden
+874; Crusader; 14; 7; Hardlane; Weaver
+875; Crusader; 90; 22; Carry; Techies
+876; Guardian; 74; 30; Hardlane; Pudge
+877; Ancient; 27; 12; Hardlane; Wraith king
+878; Ancient; 41; 8; Support; Axe
+879; Legend; 34; 3; Carry; Warlock
+880; Ancient; 24; 2; Support; Jakiro
+881; Guardian; 28; 16; Hardlane; Warlock
+882; Herald; 28; 14; Hardlane; Techies
+883; Legend; 84; 17; Semi-support; Witch doctor
+884; Archon; 13; 22; Mid; Rikki
+885; Legend; 57; 12; Carry; Arc warden
+886; Archon; 56; 5; Carry; Phantom lancer
+887; Legend; 80; 15; Carry; Weaver
+888; Ancient; 60; 2; Carry; Arc warden
+889; Ancient; 56; 0; Mid; Warlock
+890; Archon; 16; 27; Mid; Axe
+891; Guardian; 65; 29; Hardlane; Jakiro
+892; Herald; 22; 17; Hardlane; Witch doctor
+893; Guardian; 52; 2; Support; Rikki
+894; Archon; 42; 29; Mid; Warlock
+895; Ancient; 18; 19; Semi-support; Crystall maiden
+896; Herald; 30; 7; Support; Bristleback
+897; Herald; 88; 10; Carry; Pudge
+898; Guardian; 74; 12; Support; Pudge
+899; Crusader; 48; 3; Semi-support; Witch doctor
+900; Legend; 70; 0; Mid; Phantom lancer
+901; Guardian; 53; 27; Mid; Crystall maiden
+902; Legend; 85; 8; Carry; Weaver
+903; Legend; 39; 23; Carry; Invoker
+904; Archon; 15; 2; Semi-support; Wraith king
+905; Legend; 26; 6; Support; Warlock
+906; Legend; 22; 13; Support; Bristleback
+907; Herald; 45; 17; Hardlane; Warlock
+908; Guardian; 25; 15; Hardlane; Jakiro
+909; Ancient; 16; 7; Hardlane; Arc warden
+910; Herald; 42; 20; Support; Arc warden
+911; Crusader; 69; 9; Carry; Weaver
+912; Guardian; 75; 2; Mid; Wraith king
+913; Herald; 12; 18; Hardlane; Monkey king
+914; Legend; 82; 6; Carry; Crystall maiden
+915; Legend; 40; 28; Carry; Jakiro
+916; Archon; 24; 5; Support; Crystall maiden
+917; Herald; 21; 8; Carry; Monkey king
+918; Legend; 57; 24; Support; Pudge
+919; Crusader; 61; 0; Carry; Jakiro
+920; Crusader; 12; 24; Carry; Bristleback
+921; Legend; 41; 10; Carry; Rikki
+922; Archon; 15; 26; Support; Phantom lancer
+923; Guardian; 34; 15; Hardlane; Monkey king
+924; Herald; 14; 25; Carry; Invoker
+925; Guardian; 77; 25; Semi-support; Weaver
+926; Ancient; 73; 16; Support; Witch doctor
+927; Legend; 32; 0; Carry; Witch doctor
+928; Legend; 37; 26; Hardlane; Invoker
+929; Archon; 38; 12; Hardlane; Warlock
+930; Legend; 32; 30; Carry; Warlock
+931; Ancient; 78; 24; Carry; Axe
+932; Archon; 32; 10; Hardlane; Warlock
+933; Guardian; 52; 2; Hardlane; Crystall maiden
+934; Archon; 59; 23; Semi-support; Rikki
+935; Archon; 28; 18; Semi-support; Wraith king
+936; Guardian; 73; 5; Support; Crystall maiden
+937; Crusader; 35; 2; Semi-support; Jakiro
+938; Archon; 12; 23; Semi-support; Crystall maiden
+939; Ancient; 24; 14; Support; Arc warden
+940; Crusader; 55; 29; Hardlane; Arc warden
+941; Legend; 43; 10; Carry; Phantom lancer
+942; Ancient; 41; 14; Carry; Wraith king
+943; Legend; 22; 3; Semi-support; Arc warden
+944; Ancient; 25; 19; Mid; Techies
+945; Herald; 84; 17; Mid; Techies
+946; Ancient; 56; 8; Hardlane; Wraith king
+947; Ancient; 33; 24; Semi-support; Invoker
+948; Crusader; 15; 9; Carry; Pudge
+949; Legend; 46; 25; Mid; Weaver
+950; Guardian; 85; 16; Mid; Axe
+951; Legend; 83; 23; Semi-support; Warlock
+952; Ancient; 74; 20; Mid; Pudge
+953; Guardian; 53; 18; Carry; Axe
+954; Ancient; 84; 11; Hardlane; Invoker
+955; Guardian; 33; 14; Semi-support; Wraith king
+956; Crusader; 74; 2; Hardlane; Jakiro
+957; Crusader; 85; 20; Hardlane; Axe
+958; Ancient; 83; 15; Mid; Bristleback
+959; Crusader; 71; 0; Hardlane; Phantom lancer
+960; Guardian; 51; 16; Mid; Invoker
+961; Archon; 49; 29; Semi-support; Axe
+962; Crusader; 71; 8; Semi-support; Invoker
+963; Herald; 50; 12; Semi-support; Phantom lancer
+964; Crusader; 25; 23; Mid; Pudge
+965; Guardian; 52; 12; Mid; Arc warden
+966; Herald; 72; 21; Support; Rikki
+967; Guardian; 89; 8; Carry; Pudge
+968; Guardian; 86; 11; Carry; Phantom lancer
+969; Archon; 54; 5; Semi-support; Weaver
+970; Herald; 30; 5; Support; Witch doctor
+971; Archon; 90; 11; Hardlane; Wraith king
+972; Crusader; 23; 17; Semi-support; Axe
+973; Ancient; 15; 0; Semi-support; Bristleback
+974; Legend; 76; 28; Support; Monkey king
+975; Herald; 50; 3; Mid; Weaver
+976; Crusader; 20; 7; Mid; Warlock
+977; Herald; 25; 8; Support; Crystall maiden
+978; Legend; 34; 14; Support; Jakiro
+979; Ancient; 66; 12; Support; Invoker
+980; Ancient; 75; 15; Semi-support; Techies
+981; Legend; 77; 2; Support; Rikki
+982; Legend; 42; 4; Semi-support; Phantom lancer
+983; Herald; 58; 13; Semi-support; Wraith king
+984; Archon; 16; 2; Support; Phantom lancer
+985; Guardian; 23; 22; Semi-support; Wraith king
+986; Archon; 54; 22; Hardlane; Arc warden
+987; Legend; 37; 17; Hardlane; Axe
+988; Legend; 50; 12; Mid; Arc warden
+989; Crusader; 66; 14; Support; Techies
+990; Crusader; 37; 20; Carry; Wraith king
+991; Ancient; 19; 24; Mid; Monkey king
+992; Herald; 62; 29; Carry; Phantom lancer
+993; Guardian; 89; 7; Mid; Techies
+994; Legend; 32; 29; Hardlane; Weaver
+995; Archon; 84; 2; Mid; Bristleback
+996; Ancient; 58; 4; Support; Rikki
+997; Herald; 63; 19; Support; Weaver
+998; Crusader; 78; 18; Semi-support; Pudge
+999; Crusader; 38; 18; Hardlane; Pudge
+1000; Archon; 80; 3; Mid; Witch doctor

@@ -1,0 +1,1001 @@
+{"cs_id":1,"rang":" Global","winrate":62,"kd":" 0,37","hs":" 17%","hours":2805}
+{"cs_id":2,"rang":" Legendary Eagle","winrate":53,"kd":" 0,03","hs":" 23%","hours":1600}
+{"cs_id":3,"rang":" Master Guardian","winrate":55,"kd":" 0,04","hs":" 59%","hours":2845}
+{"cs_id":4,"rang":" Supreme","winrate":25,"kd":" 1,63","hs":" 97%","hours":1677}
+{"cs_id":5,"rang":" Supreme","winrate":37,"kd":" 1,53","hs":" 15%","hours":2006}
+{"cs_id":6,"rang":" Legendary Eagle","winrate":36,"kd":" 0,19","hs":" 53%","hours":546}
+{"cs_id":7,"rang":" Global","winrate":25,"kd":" 1,60","hs":" 44%","hours":1772}
+{"cs_id":8,"rang":" Silver","winrate":22,"kd":" 1,27","hs":" 77%","hours":2909}
+{"cs_id":9,"rang":" Gold nova","winrate":33,"kd":" 0,00","hs":" 53%","hours":140}
+{"cs_id":10,"rang":" Master Guardian","winrate":17,"kd":" 1,86","hs":" 54%","hours":1524}
+{"cs_id":11,"rang":" Global","winrate":36,"kd":" 1,14","hs":" 96%","hours":2174}
+{"cs_id":12,"rang":" Gold nova","winrate":27,"kd":" 0,64","hs":" 41%","hours":1882}
+{"cs_id":13,"rang":" Global","winrate":60,"kd":" 0,17","hs":" 95%","hours":341}
+{"cs_id":14,"rang":" Gold nova","winrate":86,"kd":" 1,86","hs":" 5%","hours":1013}
+{"cs_id":15,"rang":" Supreme","winrate":61,"kd":" 1,57","hs":" 99%","hours":2734}
+{"cs_id":16,"rang":" Legendary Eagle","winrate":37,"kd":" 0,71","hs":" 55%","hours":930}
+{"cs_id":17,"rang":" Global","winrate":90,"kd":" 1,46","hs":" 66%","hours":2094}
+{"cs_id":18,"rang":" Global","winrate":76,"kd":" 1,83","hs":" 36%","hours":2362}
+{"cs_id":19,"rang":" Global","winrate":29,"kd":" 0,05","hs":" 69%","hours":1299}
+{"cs_id":20,"rang":" Supreme","winrate":72,"kd":" 1,35","hs":" 66%","hours":2940}
+{"cs_id":21,"rang":" Legendary Eagle","winrate":67,"kd":" 0,97","hs":" 56%","hours":1839}
+{"cs_id":22,"rang":" Gold nova","winrate":57,"kd":" 1,21","hs":" 27%","hours":147}
+{"cs_id":23,"rang":" Gold nova","winrate":85,"kd":" 1,31","hs":" 54%","hours":2236}
+{"cs_id":24,"rang":" Silver","winrate":60,"kd":" 0,80","hs":" 37%","hours":1462}
+{"cs_id":25,"rang":" Global","winrate":34,"kd":" 1,55","hs":" 53%","hours":2712}
+{"cs_id":26,"rang":" Silver","winrate":16,"kd":" 1,34","hs":" 91%","hours":2617}
+{"cs_id":27,"rang":" Gold nova","winrate":63,"kd":" 1,60","hs":" 60%","hours":401}
+{"cs_id":28,"rang":" Global","winrate":11,"kd":" 1,18","hs":" 10%","hours":1011}
+{"cs_id":29,"rang":" Gold nova","winrate":12,"kd":" 0,84","hs":" 67%","hours":1977}
+{"cs_id":30,"rang":" Silver","winrate":86,"kd":" 1,18","hs":" 44%","hours":2715}
+{"cs_id":31,"rang":" Global","winrate":42,"kd":" 0,66","hs":" 91%","hours":649}
+{"cs_id":32,"rang":" Silver","winrate":39,"kd":" 0,67","hs":" 81%","hours":219}
+{"cs_id":33,"rang":" Silver","winrate":30,"kd":" 0,88","hs":" 16%","hours":820}
+{"cs_id":34,"rang":" Gold nova","winrate":26,"kd":" 1,84","hs":" 69%","hours":2536}
+{"cs_id":35,"rang":" Supreme","winrate":27,"kd":" 1,36","hs":" 15%","hours":872}
+{"cs_id":36,"rang":" Gold nova","winrate":82,"kd":" 0,39","hs":" 63%","hours":1888}
+{"cs_id":37,"rang":" Gold nova","winrate":65,"kd":" 0,87","hs":" 77%","hours":1089}
+{"cs_id":38,"rang":" Legendary Eagle","winrate":43,"kd":" 0,61","hs":" 64%","hours":998}
+{"cs_id":39,"rang":" Supreme","winrate":54,"kd":" 0,64","hs":" 47%","hours":1128}
+{"cs_id":40,"rang":" Master Guardian","winrate":35,"kd":" 0,16","hs":" 64%","hours":2283}
+{"cs_id":41,"rang":" Legendary Eagle","winrate":73,"kd":" 0,87","hs":" 87%","hours":195}
+{"cs_id":42,"rang":" Master Guardian","winrate":86,"kd":" 0,88","hs":" 75%","hours":2022}
+{"cs_id":43,"rang":" Legendary Eagle","winrate":52,"kd":" 1,29","hs":" 92%","hours":1368}
+{"cs_id":44,"rang":" Gold nova","winrate":27,"kd":" 1,79","hs":" 65%","hours":733}
+{"cs_id":45,"rang":" Global","winrate":27,"kd":" 1,37","hs":" 94%","hours":519}
+{"cs_id":46,"rang":" Global","winrate":31,"kd":" 0,64","hs":" 46%","hours":864}
+{"cs_id":47,"rang":" Global","winrate":11,"kd":" 0,33","hs":" 90%","hours":2959}
+{"cs_id":48,"rang":" Legendary Eagle","winrate":23,"kd":" 1,37","hs":" 69%","hours":1214}
+{"cs_id":49,"rang":" Silver","winrate":77,"kd":" 1,28","hs":" 55%","hours":632}
+{"cs_id":50,"rang":" Gold nova","winrate":80,"kd":" 1,50","hs":" 62%","hours":962}
+{"cs_id":51,"rang":" Legendary Eagle","winrate":44,"kd":" 1,57","hs":" 10%","hours":2263}
+{"cs_id":52,"rang":" Silver","winrate":17,"kd":" 0,22","hs":" 62%","hours":1024}
+{"cs_id":53,"rang":" Silver","winrate":51,"kd":" 1,53","hs":" 39%","hours":2895}
+{"cs_id":54,"rang":" Silver","winrate":70,"kd":" 0,53","hs":" 44%","hours":572}
+{"cs_id":55,"rang":" Legendary Eagle","winrate":83,"kd":" 0,16","hs":" 72%","hours":274}
+{"cs_id":56,"rang":" Gold nova","winrate":60,"kd":" 0,35","hs":" 55%","hours":1807}
+{"cs_id":57,"rang":" Global","winrate":50,"kd":" 0,16","hs":" 47%","hours":278}
+{"cs_id":58,"rang":" Gold nova","winrate":54,"kd":" 0,20","hs":" 30%","hours":2525}
+{"cs_id":59,"rang":" Gold nova","winrate":60,"kd":" 0,24","hs":" 34%","hours":2472}
+{"cs_id":60,"rang":" Master Guardian","winrate":73,"kd":" 1,19","hs":" 14%","hours":649}
+{"cs_id":61,"rang":" Global","winrate":80,"kd":" 1,41","hs":" 8%","hours":2226}
+{"cs_id":62,"rang":" Master Guardian","winrate":27,"kd":" 1,49","hs":" 44%","hours":449}
+{"cs_id":63,"rang":" Global","winrate":87,"kd":" 0,00","hs":" 33%","hours":2805}
+{"cs_id":64,"rang":" Supreme","winrate":30,"kd":" 0,26","hs":" 77%","hours":1620}
+{"cs_id":65,"rang":" Gold nova","winrate":79,"kd":" 1,08","hs":" 77%","hours":803}
+{"cs_id":66,"rang":" Supreme","winrate":84,"kd":" 0,00","hs":" 60%","hours":1362}
+{"cs_id":67,"rang":" Legendary Eagle","winrate":35,"kd":" 0,95","hs":" 79%","hours":1060}
+{"cs_id":68,"rang":" Supreme","winrate":72,"kd":" 0,78","hs":" 9%","hours":1519}
+{"cs_id":69,"rang":" Silver","winrate":15,"kd":" 0,58","hs":" 12%","hours":936}
+{"cs_id":70,"rang":" Silver","winrate":37,"kd":" 1,58","hs":" 31%","hours":1979}
+{"cs_id":71,"rang":" Legendary Eagle","winrate":87,"kd":" 1,74","hs":" 41%","hours":877}
+{"cs_id":72,"rang":" Gold nova","winrate":44,"kd":" 1,26","hs":" 67%","hours":2686}
+{"cs_id":73,"rang":" Legendary Eagle","winrate":20,"kd":" 1,61","hs":" 51%","hours":1925}
+{"cs_id":74,"rang":" Global","winrate":34,"kd":" 0,71","hs":" 95%","hours":710}
+{"cs_id":75,"rang":" Legendary Eagle","winrate":73,"kd":" 0,86","hs":" 24%","hours":266}
+{"cs_id":76,"rang":" Supreme","winrate":52,"kd":" 1,79","hs":" 96%","hours":1990}
+{"cs_id":77,"rang":" Global","winrate":47,"kd":" 1,46","hs":" 100%","hours":849}
+{"cs_id":78,"rang":" Gold nova","winrate":16,"kd":" 1,43","hs":" 25%","hours":2585}
+{"cs_id":79,"rang":" Master Guardian","winrate":48,"kd":" 0,92","hs":" 29%","hours":1916}
+{"cs_id":80,"rang":" Global","winrate":62,"kd":" 1,29","hs":" 9%","hours":1659}
+{"cs_id":81,"rang":" Legendary Eagle","winrate":74,"kd":" 1,75","hs":" 39%","hours":960}
+{"cs_id":82,"rang":" Master Guardian","winrate":10,"kd":" 1,18","hs":" 30%","hours":2801}
+{"cs_id":83,"rang":" Legendary Eagle","winrate":16,"kd":" 0,01","hs":" 8%","hours":2095}
+{"cs_id":84,"rang":" Gold nova","winrate":26,"kd":" 0,00","hs":" 31%","hours":1520}
+{"cs_id":85,"rang":" Supreme","winrate":48,"kd":" 0,09","hs":" 46%","hours":563}
+{"cs_id":86,"rang":" Silver","winrate":61,"kd":" 1,47","hs":" 80%","hours":358}
+{"cs_id":87,"rang":" Silver","winrate":71,"kd":" 0,36","hs":" 22%","hours":448}
+{"cs_id":88,"rang":" Supreme","winrate":51,"kd":" 1,56","hs":" 11%","hours":2881}
+{"cs_id":89,"rang":" Legendary Eagle","winrate":54,"kd":" 0,99","hs":" 75%","hours":762}
+{"cs_id":90,"rang":" Silver","winrate":17,"kd":" 1,07","hs":" 82%","hours":1792}
+{"cs_id":91,"rang":" Global","winrate":86,"kd":" 0,33","hs":" 56%","hours":1255}
+{"cs_id":92,"rang":" Supreme","winrate":90,"kd":" 1,54","hs":" 54%","hours":1220}
+{"cs_id":93,"rang":" Gold nova","winrate":69,"kd":" 0,32","hs":" 19%","hours":992}
+{"cs_id":94,"rang":" Master Guardian","winrate":19,"kd":" 1,57","hs":" 47%","hours":1346}
+{"cs_id":95,"rang":" Silver","winrate":77,"kd":" 0,41","hs":" 55%","hours":1509}
+{"cs_id":96,"rang":" Global","winrate":72,"kd":" 0,89","hs":" 48%","hours":2650}
+{"cs_id":97,"rang":" Supreme","winrate":22,"kd":" 1,21","hs":" 17%","hours":319}
+{"cs_id":98,"rang":" Supreme","winrate":17,"kd":" 0,69","hs":" 77%","hours":2109}
+{"cs_id":99,"rang":" Global","winrate":87,"kd":" 0,71","hs":" 37%","hours":2827}
+{"cs_id":100,"rang":" Supreme","winrate":24,"kd":" 1,73","hs":" 74%","hours":929}
+{"cs_id":101,"rang":" Supreme","winrate":22,"kd":" 1,45","hs":" 16%","hours":1379}
+{"cs_id":102,"rang":" Master Guardian","winrate":22,"kd":" 0,84","hs":" 69%","hours":1384}
+{"cs_id":103,"rang":" Master Guardian","winrate":59,"kd":" 1,89","hs":" 35%","hours":1891}
+{"cs_id":104,"rang":" Silver","winrate":69,"kd":" 1,28","hs":" 99%","hours":269}
+{"cs_id":105,"rang":" Master Guardian","winrate":15,"kd":" 1,80","hs":" 39%","hours":2707}
+{"cs_id":106,"rang":" Silver","winrate":19,"kd":" 1,22","hs":" 18%","hours":2290}
+{"cs_id":107,"rang":" Supreme","winrate":28,"kd":" 0,74","hs":" 33%","hours":683}
+{"cs_id":108,"rang":" Master Guardian","winrate":81,"kd":" 0,31","hs":" 54%","hours":2210}
+{"cs_id":109,"rang":" Supreme","winrate":75,"kd":" 1,14","hs":" 94%","hours":998}
+{"cs_id":110,"rang":" Legendary Eagle","winrate":10,"kd":" 1,85","hs":" 34%","hours":2745}
+{"cs_id":111,"rang":" Master Guardian","winrate":80,"kd":" 0,21","hs":" 87%","hours":1593}
+{"cs_id":112,"rang":" Master Guardian","winrate":18,"kd":" 0,69","hs":" 18%","hours":1038}
+{"cs_id":113,"rang":" Master Guardian","winrate":72,"kd":" 0,82","hs":" 63%","hours":1092}
+{"cs_id":114,"rang":" Silver","winrate":70,"kd":" 0,91","hs":" 91%","hours":2582}
+{"cs_id":115,"rang":" Legendary Eagle","winrate":49,"kd":" 1,17","hs":" 98%","hours":32}
+{"cs_id":116,"rang":" Legendary Eagle","winrate":24,"kd":" 0,98","hs":" 25%","hours":2133}
+{"cs_id":117,"rang":" Silver","winrate":69,"kd":" 1,87","hs":" 96%","hours":52}
+{"cs_id":118,"rang":" Gold nova","winrate":22,"kd":" 1,88","hs":" 25%","hours":620}
+{"cs_id":119,"rang":" Legendary Eagle","winrate":21,"kd":" 1,08","hs":" 63%","hours":1756}
+{"cs_id":120,"rang":" Master Guardian","winrate":43,"kd":" 1,07","hs":" 50%","hours":2044}
+{"cs_id":121,"rang":" Silver","winrate":20,"kd":" 0,45","hs":" 19%","hours":2970}
+{"cs_id":122,"rang":" Silver","winrate":15,"kd":" 0,45","hs":" 27%","hours":1865}
+{"cs_id":123,"rang":" Master Guardian","winrate":80,"kd":" 1,66","hs":" 96%","hours":2108}
+{"cs_id":124,"rang":" Legendary Eagle","winrate":79,"kd":" 1,84","hs":" 14%","hours":908}
+{"cs_id":125,"rang":" Silver","winrate":53,"kd":" 1,13","hs":" 53%","hours":2867}
+{"cs_id":126,"rang":" Master Guardian","winrate":36,"kd":" 1,28","hs":" 97%","hours":2522}
+{"cs_id":127,"rang":" Master Guardian","winrate":59,"kd":" 0,16","hs":" 38%","hours":1531}
+{"cs_id":128,"rang":" Legendary Eagle","winrate":89,"kd":" 1,94","hs":" 40%","hours":770}
+{"cs_id":129,"rang":" Legendary Eagle","winrate":38,"kd":" 0,58","hs":" 46%","hours":2536}
+{"cs_id":130,"rang":" Gold nova","winrate":66,"kd":" 0,41","hs":" 44%","hours":681}
+{"cs_id":131,"rang":" Silver","winrate":28,"kd":" 1,26","hs":" 85%","hours":2803}
+{"cs_id":132,"rang":" Legendary Eagle","winrate":62,"kd":" 1,33","hs":" 34%","hours":2936}
+{"cs_id":133,"rang":" Silver","winrate":22,"kd":" 1,22","hs":" 34%","hours":1619}
+{"cs_id":134,"rang":" Master Guardian","winrate":23,"kd":" 0,55","hs":" 28%","hours":2010}
+{"cs_id":135,"rang":" Supreme","winrate":22,"kd":" 0,85","hs":" 90%","hours":2250}
+{"cs_id":136,"rang":" Global","winrate":53,"kd":" 0,13","hs":" 57%","hours":1342}
+{"cs_id":137,"rang":" Supreme","winrate":31,"kd":" 1,52","hs":" 91%","hours":1182}
+{"cs_id":138,"rang":" Gold nova","winrate":16,"kd":" 0,15","hs":" 40%","hours":1590}
+{"cs_id":139,"rang":" Silver","winrate":68,"kd":" 1,66","hs":" 46%","hours":1904}
+{"cs_id":140,"rang":" Legendary Eagle","winrate":32,"kd":" 0,75","hs":" 42%","hours":1331}
+{"cs_id":141,"rang":" Supreme","winrate":88,"kd":" 1,28","hs":" 49%","hours":2019}
+{"cs_id":142,"rang":" Legendary Eagle","winrate":26,"kd":" 1,03","hs":" 60%","hours":366}
+{"cs_id":143,"rang":" Global","winrate":54,"kd":" 1,30","hs":" 46%","hours":602}
+{"cs_id":144,"rang":" Master Guardian","winrate":15,"kd":" 0,94","hs":" 38%","hours":2605}
+{"cs_id":145,"rang":" Legendary Eagle","winrate":55,"kd":" 0,64","hs":" 97%","hours":2049}
+{"cs_id":146,"rang":" Global","winrate":60,"kd":" 1,43","hs":" 90%","hours":1327}
+{"cs_id":147,"rang":" Silver","winrate":59,"kd":" 0,88","hs":" 49%","hours":1652}
+{"cs_id":148,"rang":" Master Guardian","winrate":77,"kd":" 0,90","hs":" 15%","hours":1442}
+{"cs_id":149,"rang":" Gold nova","winrate":25,"kd":" 1,57","hs":" 95%","hours":2832}
+{"cs_id":150,"rang":" Global","winrate":61,"kd":" 1,41","hs":" 32%","hours":578}
+{"cs_id":151,"rang":" Legendary Eagle","winrate":80,"kd":" 1,55","hs":" 81%","hours":1202}
+{"cs_id":152,"rang":" Silver","winrate":17,"kd":" 0,92","hs":" 86%","hours":1048}
+{"cs_id":153,"rang":" Legendary Eagle","winrate":17,"kd":" 1,31","hs":" 100%","hours":2736}
+{"cs_id":154,"rang":" Supreme","winrate":75,"kd":" 1,87","hs":" 14%","hours":2061}
+{"cs_id":155,"rang":" Global","winrate":39,"kd":" 1,38","hs":" 73%","hours":651}
+{"cs_id":156,"rang":" Silver","winrate":59,"kd":" 1,37","hs":" 75%","hours":173}
+{"cs_id":157,"rang":" Silver","winrate":63,"kd":" 1,62","hs":" 69%","hours":1361}
+{"cs_id":158,"rang":" Supreme","winrate":72,"kd":" 0,35","hs":" 66%","hours":573}
+{"cs_id":159,"rang":" Master Guardian","winrate":12,"kd":" 0,34","hs":" 14%","hours":685}
+{"cs_id":160,"rang":" Legendary Eagle","winrate":48,"kd":" 1,29","hs":" 16%","hours":534}
+{"cs_id":161,"rang":" Supreme","winrate":53,"kd":" 1,98","hs":" 85%","hours":2468}
+{"cs_id":162,"rang":" Silver","winrate":20,"kd":" 1,91","hs":" 8%","hours":1139}
+{"cs_id":163,"rang":" Global","winrate":55,"kd":" 1,88","hs":" 61%","hours":568}
+{"cs_id":164,"rang":" Silver","winrate":35,"kd":" 1,15","hs":" 25%","hours":1835}
+{"cs_id":165,"rang":" Gold nova","winrate":38,"kd":" 1,23","hs":" 65%","hours":1866}
+{"cs_id":166,"rang":" Global","winrate":88,"kd":" 1,51","hs":" 17%","hours":2162}
+{"cs_id":167,"rang":" Supreme","winrate":85,"kd":" 0,30","hs":" 47%","hours":1652}
+{"cs_id":168,"rang":" Global","winrate":21,"kd":" 0,82","hs":" 16%","hours":595}
+{"cs_id":169,"rang":" Legendary Eagle","winrate":56,"kd":" 0,58","hs":" 52%","hours":76}
+{"cs_id":170,"rang":" Gold nova","winrate":25,"kd":" 1,01","hs":" 75%","hours":142}
+{"cs_id":171,"rang":" Global","winrate":79,"kd":" 0,54","hs":" 66%","hours":776}
+{"cs_id":172,"rang":" Master Guardian","winrate":10,"kd":" 1,20","hs":" 34%","hours":2434}
+{"cs_id":173,"rang":" Supreme","winrate":14,"kd":" 0,97","hs":" 60%","hours":2783}
+{"cs_id":174,"rang":" Gold nova","winrate":13,"kd":" 0,80","hs":" 41%","hours":600}
+{"cs_id":175,"rang":" Supreme","winrate":70,"kd":" 0,43","hs":" 57%","hours":1505}
+{"cs_id":176,"rang":" Gold nova","winrate":69,"kd":" 1,99","hs":" 90%","hours":2492}
+{"cs_id":177,"rang":" Global","winrate":68,"kd":" 0,41","hs":" 6%","hours":2074}
+{"cs_id":178,"rang":" Gold nova","winrate":43,"kd":" 0,74","hs":" 87%","hours":156}
+{"cs_id":179,"rang":" Supreme","winrate":63,"kd":" 1,24","hs":" 64%","hours":2898}
+{"cs_id":180,"rang":" Gold nova","winrate":77,"kd":" 0,37","hs":" 83%","hours":1582}
+{"cs_id":181,"rang":" Legendary Eagle","winrate":82,"kd":" 1,18","hs":" 85%","hours":2692}
+{"cs_id":182,"rang":" Supreme","winrate":79,"kd":" 0,38","hs":" 64%","hours":1599}
+{"cs_id":183,"rang":" Global","winrate":54,"kd":" 1,13","hs":" 79%","hours":2807}
+{"cs_id":184,"rang":" Global","winrate":68,"kd":" 1,95","hs":" 6%","hours":2334}
+{"cs_id":185,"rang":" Gold nova","winrate":45,"kd":" 1,54","hs":" 72%","hours":716}
+{"cs_id":186,"rang":" Legendary Eagle","winrate":60,"kd":" 1,17","hs":" 78%","hours":752}
+{"cs_id":187,"rang":" Silver","winrate":30,"kd":" 1,13","hs":" 23%","hours":871}
+{"cs_id":188,"rang":" Gold nova","winrate":29,"kd":" 0,03","hs":" 85%","hours":1114}
+{"cs_id":189,"rang":" Supreme","winrate":88,"kd":" 0,34","hs":" 79%","hours":2259}
+{"cs_id":190,"rang":" Master Guardian","winrate":52,"kd":" 1,69","hs":" 86%","hours":2101}
+{"cs_id":191,"rang":" Global","winrate":19,"kd":" 1,13","hs":" 48%","hours":787}
+{"cs_id":192,"rang":" Legendary Eagle","winrate":31,"kd":" 0,30","hs":" 42%","hours":2545}
+{"cs_id":193,"rang":" Legendary Eagle","winrate":55,"kd":" 1,18","hs":" 24%","hours":2468}
+{"cs_id":194,"rang":" Supreme","winrate":27,"kd":" 1,97","hs":" 67%","hours":576}
+{"cs_id":195,"rang":" Gold nova","winrate":78,"kd":" 0,66","hs":" 87%","hours":2890}
+{"cs_id":196,"rang":" Gold nova","winrate":82,"kd":" 0,96","hs":" 51%","hours":1652}
+{"cs_id":197,"rang":" Silver","winrate":54,"kd":" 0,17","hs":" 52%","hours":2244}
+{"cs_id":198,"rang":" Master Guardian","winrate":80,"kd":" 0,93","hs":" 10%","hours":327}
+{"cs_id":199,"rang":" Silver","winrate":45,"kd":" 1,06","hs":" 80%","hours":1633}
+{"cs_id":200,"rang":" Legendary Eagle","winrate":47,"kd":" 0,61","hs":" 73%","hours":1002}
+{"cs_id":201,"rang":" Supreme","winrate":39,"kd":" 0,50","hs":" 39%","hours":1263}
+{"cs_id":202,"rang":" Gold nova","winrate":88,"kd":" 1,65","hs":" 99%","hours":1746}
+{"cs_id":203,"rang":" Master Guardian","winrate":33,"kd":" 1,43","hs":" 46%","hours":737}
+{"cs_id":204,"rang":" Supreme","winrate":53,"kd":" 0,32","hs":" 64%","hours":1312}
+{"cs_id":205,"rang":" Supreme","winrate":56,"kd":" 1,86","hs":" 43%","hours":1371}
+{"cs_id":206,"rang":" Gold nova","winrate":10,"kd":" 1,42","hs":" 5%","hours":1871}
+{"cs_id":207,"rang":" Global","winrate":20,"kd":" 1,20","hs":" 24%","hours":1303}
+{"cs_id":208,"rang":" Legendary Eagle","winrate":61,"kd":" 1,40","hs":" 92%","hours":1794}
+{"cs_id":209,"rang":" Master Guardian","winrate":73,"kd":" 0,86","hs":" 99%","hours":421}
+{"cs_id":210,"rang":" Global","winrate":42,"kd":" 1,39","hs":" 23%","hours":2049}
+{"cs_id":211,"rang":" Legendary Eagle","winrate":18,"kd":" 0,11","hs":" 33%","hours":551}
+{"cs_id":212,"rang":" Legendary Eagle","winrate":76,"kd":" 1,55","hs":" 25%","hours":1194}
+{"cs_id":213,"rang":" Global","winrate":28,"kd":" 1,48","hs":" 64%","hours":2280}
+{"cs_id":214,"rang":" Silver","winrate":16,"kd":" 1,57","hs":" 77%","hours":570}
+{"cs_id":215,"rang":" Legendary Eagle","winrate":11,"kd":" 0,02","hs":" 69%","hours":1758}
+{"cs_id":216,"rang":" Legendary Eagle","winrate":41,"kd":" 1,82","hs":" 42%","hours":2410}
+{"cs_id":217,"rang":" Global","winrate":63,"kd":" 1,56","hs":" 55%","hours":1437}
+{"cs_id":218,"rang":" Supreme","winrate":28,"kd":" 0,58","hs":" 54%","hours":1564}
+{"cs_id":219,"rang":" Gold nova","winrate":29,"kd":" 0,69","hs":" 25%","hours":1776}
+{"cs_id":220,"rang":" Master Guardian","winrate":13,"kd":" 1,49","hs":" 97%","hours":2127}
+{"cs_id":221,"rang":" Silver","winrate":34,"kd":" 0,64","hs":" 94%","hours":2728}
+{"cs_id":222,"rang":" Supreme","winrate":35,"kd":" 0,52","hs":" 54%","hours":1918}
+{"cs_id":223,"rang":" Master Guardian","winrate":44,"kd":" 0,82","hs":" 22%","hours":533}
+{"cs_id":224,"rang":" Global","winrate":66,"kd":" 1,74","hs":" 75%","hours":529}
+{"cs_id":225,"rang":" Gold nova","winrate":87,"kd":" 0,21","hs":" 7%","hours":2746}
+{"cs_id":226,"rang":" Master Guardian","winrate":20,"kd":" 0,96","hs":" 15%","hours":1119}
+{"cs_id":227,"rang":" Supreme","winrate":42,"kd":" 0,56","hs":" 98%","hours":2196}
+{"cs_id":228,"rang":" Legendary Eagle","winrate":62,"kd":" 0,81","hs":" 34%","hours":2257}
+{"cs_id":229,"rang":" Supreme","winrate":43,"kd":" 1,84","hs":" 6%","hours":1447}
+{"cs_id":230,"rang":" Master Guardian","winrate":65,"kd":" 1,35","hs":" 33%","hours":1022}
+{"cs_id":231,"rang":" Silver","winrate":65,"kd":" 0,38","hs":" 27%","hours":2544}
+{"cs_id":232,"rang":" Global","winrate":62,"kd":" 1,75","hs":" 64%","hours":804}
+{"cs_id":233,"rang":" Legendary Eagle","winrate":20,"kd":" 1,90","hs":" 96%","hours":2509}
+{"cs_id":234,"rang":" Silver","winrate":43,"kd":" 1,62","hs":" 7%","hours":728}
+{"cs_id":235,"rang":" Legendary Eagle","winrate":69,"kd":" 1,51","hs":" 24%","hours":1529}
+{"cs_id":236,"rang":" Supreme","winrate":29,"kd":" 1,75","hs":" 57%","hours":608}
+{"cs_id":237,"rang":" Master Guardian","winrate":77,"kd":" 1,77","hs":" 40%","hours":1680}
+{"cs_id":238,"rang":" Global","winrate":48,"kd":" 1,83","hs":" 24%","hours":1540}
+{"cs_id":239,"rang":" Global","winrate":89,"kd":" 0,55","hs":" 91%","hours":227}
+{"cs_id":240,"rang":" Global","winrate":85,"kd":" 1,35","hs":" 17%","hours":2644}
+{"cs_id":241,"rang":" Gold nova","winrate":62,"kd":" 0,19","hs":" 62%","hours":2366}
+{"cs_id":242,"rang":" Global","winrate":83,"kd":" 0,98","hs":" 27%","hours":2121}
+{"cs_id":243,"rang":" Silver","winrate":37,"kd":" 1,03","hs":" 34%","hours":374}
+{"cs_id":244,"rang":" Global","winrate":86,"kd":" 0,16","hs":" 47%","hours":2486}
+{"cs_id":245,"rang":" Silver","winrate":89,"kd":" 1,56","hs":" 34%","hours":598}
+{"cs_id":246,"rang":" Master Guardian","winrate":75,"kd":" 0,96","hs":" 24%","hours":1758}
+{"cs_id":247,"rang":" Silver","winrate":34,"kd":" 1,89","hs":" 97%","hours":1988}
+{"cs_id":248,"rang":" Silver","winrate":40,"kd":" 1,51","hs":" 94%","hours":2888}
+{"cs_id":249,"rang":" Legendary Eagle","winrate":82,"kd":" 0,11","hs":" 72%","hours":2720}
+{"cs_id":250,"rang":" Silver","winrate":49,"kd":" 0,72","hs":" 83%","hours":1403}
+{"cs_id":251,"rang":" Global","winrate":47,"kd":" 1,33","hs":" 27%","hours":2969}
+{"cs_id":252,"rang":" Global","winrate":73,"kd":" 1,77","hs":" 20%","hours":2696}
+{"cs_id":253,"rang":" Silver","winrate":89,"kd":" 1,37","hs":" 27%","hours":415}
+{"cs_id":254,"rang":" Supreme","winrate":26,"kd":" 1,21","hs":" 60%","hours":2098}
+{"cs_id":255,"rang":" Legendary Eagle","winrate":35,"kd":" 1,90","hs":" 58%","hours":1491}
+{"cs_id":256,"rang":" Silver","winrate":38,"kd":" 1,30","hs":" 63%","hours":1497}
+{"cs_id":257,"rang":" Legendary Eagle","winrate":50,"kd":" 1,19","hs":" 85%","hours":2428}
+{"cs_id":258,"rang":" Silver","winrate":17,"kd":" 1,86","hs":" 73%","hours":187}
+{"cs_id":259,"rang":" Gold nova","winrate":18,"kd":" 0,36","hs":" 27%","hours":276}
+{"cs_id":260,"rang":" Legendary Eagle","winrate":21,"kd":" 1,82","hs":" 31%","hours":197}
+{"cs_id":261,"rang":" Supreme","winrate":24,"kd":" 1,62","hs":" 47%","hours":1453}
+{"cs_id":262,"rang":" Supreme","winrate":38,"kd":" 1,06","hs":" 16%","hours":1580}
+{"cs_id":263,"rang":" Supreme","winrate":57,"kd":" 0,11","hs":" 64%","hours":1785}
+{"cs_id":264,"rang":" Global","winrate":88,"kd":" 0,83","hs":" 35%","hours":2406}
+{"cs_id":265,"rang":" Silver","winrate":52,"kd":" 0,13","hs":" 35%","hours":911}
+{"cs_id":266,"rang":" Global","winrate":70,"kd":" 1,44","hs":" 14%","hours":711}
+{"cs_id":267,"rang":" Silver","winrate":45,"kd":" 0,59","hs":" 23%","hours":1162}
+{"cs_id":268,"rang":" Global","winrate":11,"kd":" 1,12","hs":" 16%","hours":2408}
+{"cs_id":269,"rang":" Legendary Eagle","winrate":88,"kd":" 0,55","hs":" 95%","hours":2983}
+{"cs_id":270,"rang":" Global","winrate":44,"kd":" 0,83","hs":" 11%","hours":591}
+{"cs_id":271,"rang":" Supreme","winrate":47,"kd":" 1,72","hs":" 85%","hours":2738}
+{"cs_id":272,"rang":" Legendary Eagle","winrate":46,"kd":" 1,87","hs":" 88%","hours":2010}
+{"cs_id":273,"rang":" Silver","winrate":45,"kd":" 1,69","hs":" 70%","hours":2713}
+{"cs_id":274,"rang":" Gold nova","winrate":60,"kd":" 0,16","hs":" 97%","hours":218}
+{"cs_id":275,"rang":" Gold nova","winrate":38,"kd":" 0,17","hs":" 96%","hours":2689}
+{"cs_id":276,"rang":" Global","winrate":77,"kd":" 0,57","hs":" 12%","hours":1569}
+{"cs_id":277,"rang":" Silver","winrate":18,"kd":" 0,42","hs":" 57%","hours":1441}
+{"cs_id":278,"rang":" Legendary Eagle","winrate":19,"kd":" 1,05","hs":" 57%","hours":300}
+{"cs_id":279,"rang":" Legendary Eagle","winrate":69,"kd":" 1,53","hs":" 25%","hours":2822}
+{"cs_id":280,"rang":" Master Guardian","winrate":77,"kd":" 1,34","hs":" 31%","hours":71}
+{"cs_id":281,"rang":" Silver","winrate":71,"kd":" 0,13","hs":" 16%","hours":848}
+{"cs_id":282,"rang":" Master Guardian","winrate":24,"kd":" 0,50","hs":" 46%","hours":512}
+{"cs_id":283,"rang":" Silver","winrate":37,"kd":" 1,20","hs":" 13%","hours":928}
+{"cs_id":284,"rang":" Silver","winrate":36,"kd":" 1,20","hs":" 58%","hours":64}
+{"cs_id":285,"rang":" Supreme","winrate":77,"kd":" 0,76","hs":" 63%","hours":1897}
+{"cs_id":286,"rang":" Global","winrate":79,"kd":" 0,31","hs":" 73%","hours":489}
+{"cs_id":287,"rang":" Supreme","winrate":48,"kd":" 1,04","hs":" 93%","hours":2828}
+{"cs_id":288,"rang":" Global","winrate":79,"kd":" 0,64","hs":" 66%","hours":1861}
+{"cs_id":289,"rang":" Supreme","winrate":41,"kd":" 1,73","hs":" 34%","hours":1658}
+{"cs_id":290,"rang":" Legendary Eagle","winrate":43,"kd":" 0,91","hs":" 50%","hours":2087}
+{"cs_id":291,"rang":" Supreme","winrate":62,"kd":" 0,98","hs":" 31%","hours":123}
+{"cs_id":292,"rang":" Supreme","winrate":43,"kd":" 0,09","hs":" 100%","hours":507}
+{"cs_id":293,"rang":" Global","winrate":27,"kd":" 1,98","hs":" 95%","hours":1842}
+{"cs_id":294,"rang":" Silver","winrate":29,"kd":" 1,53","hs":" 69%","hours":1952}
+{"cs_id":295,"rang":" Legendary Eagle","winrate":57,"kd":" 1,73","hs":" 52%","hours":2137}
+{"cs_id":296,"rang":" Legendary Eagle","winrate":40,"kd":" 0,79","hs":" 62%","hours":2284}
+{"cs_id":297,"rang":" Legendary Eagle","winrate":17,"kd":" 1,92","hs":" 87%","hours":2433}
+{"cs_id":298,"rang":" Gold nova","winrate":46,"kd":" 0,62","hs":" 60%","hours":1206}
+{"cs_id":299,"rang":" Silver","winrate":85,"kd":" 1,69","hs":" 58%","hours":298}
+{"cs_id":300,"rang":" Legendary Eagle","winrate":19,"kd":" 0,19","hs":" 45%","hours":736}
+{"cs_id":301,"rang":" Supreme","winrate":55,"kd":" 1,17","hs":" 65%","hours":349}
+{"cs_id":302,"rang":" Legendary Eagle","winrate":59,"kd":" 0,31","hs":" 83%","hours":659}
+{"cs_id":303,"rang":" Silver","winrate":41,"kd":" 0,40","hs":" 5%","hours":2342}
+{"cs_id":304,"rang":" Gold nova","winrate":22,"kd":" 0,13","hs":" 76%","hours":1713}
+{"cs_id":305,"rang":" Silver","winrate":76,"kd":" 1,30","hs":" 5%","hours":1026}
+{"cs_id":306,"rang":" Silver","winrate":88,"kd":" 0,72","hs":" 77%","hours":2321}
+{"cs_id":307,"rang":" Master Guardian","winrate":52,"kd":" 0,55","hs":" 82%","hours":935}
+{"cs_id":308,"rang":" Gold nova","winrate":63,"kd":" 1,23","hs":" 77%","hours":1044}
+{"cs_id":309,"rang":" Gold nova","winrate":43,"kd":" 0,84","hs":" 79%","hours":813}
+{"cs_id":310,"rang":" Master Guardian","winrate":32,"kd":" 1,25","hs":" 70%","hours":1135}
+{"cs_id":311,"rang":" Gold nova","winrate":62,"kd":" 1,39","hs":" 100%","hours":2245}
+{"cs_id":312,"rang":" Supreme","winrate":29,"kd":" 0,06","hs":" 58%","hours":2670}
+{"cs_id":313,"rang":" Supreme","winrate":80,"kd":" 1,33","hs":" 42%","hours":1957}
+{"cs_id":314,"rang":" Supreme","winrate":27,"kd":" 0,22","hs":" 51%","hours":317}
+{"cs_id":315,"rang":" Gold nova","winrate":79,"kd":" 0,74","hs":" 20%","hours":2062}
+{"cs_id":316,"rang":" Silver","winrate":62,"kd":" 0,49","hs":" 10%","hours":2282}
+{"cs_id":317,"rang":" Gold nova","winrate":60,"kd":" 1,85","hs":" 94%","hours":907}
+{"cs_id":318,"rang":" Gold nova","winrate":67,"kd":" 1,81","hs":" 10%","hours":1756}
+{"cs_id":319,"rang":" Supreme","winrate":36,"kd":" 0,84","hs":" 95%","hours":1569}
+{"cs_id":320,"rang":" Master Guardian","winrate":17,"kd":" 1,71","hs":" 93%","hours":163}
+{"cs_id":321,"rang":" Supreme","winrate":23,"kd":" 1,84","hs":" 78%","hours":1283}
+{"cs_id":322,"rang":" Global","winrate":13,"kd":" 1,25","hs":" 82%","hours":2151}
+{"cs_id":323,"rang":" Legendary Eagle","winrate":77,"kd":" 1,07","hs":" 5%","hours":1781}
+{"cs_id":324,"rang":" Master Guardian","winrate":58,"kd":" 1,33","hs":" 57%","hours":2592}
+{"cs_id":325,"rang":" Gold nova","winrate":13,"kd":" 1,74","hs":" 43%","hours":1027}
+{"cs_id":326,"rang":" Gold nova","winrate":73,"kd":" 1,70","hs":" 29%","hours":2555}
+{"cs_id":327,"rang":" Global","winrate":73,"kd":" 1,45","hs":" 35%","hours":2446}
+{"cs_id":328,"rang":" Silver","winrate":45,"kd":" 0,52","hs":" 17%","hours":2878}
+{"cs_id":329,"rang":" Legendary Eagle","winrate":46,"kd":" 1,24","hs":" 96%","hours":2995}
+{"cs_id":330,"rang":" Supreme","winrate":71,"kd":" 1,41","hs":" 10%","hours":387}
+{"cs_id":331,"rang":" Global","winrate":13,"kd":" 1,61","hs":" 39%","hours":269}
+{"cs_id":332,"rang":" Master Guardian","winrate":74,"kd":" 1,98","hs":" 93%","hours":2619}
+{"cs_id":333,"rang":" Silver","winrate":16,"kd":" 0,42","hs":" 88%","hours":588}
+{"cs_id":334,"rang":" Gold nova","winrate":13,"kd":" 1,14","hs":" 7%","hours":1759}
+{"cs_id":335,"rang":" Global","winrate":30,"kd":" 1,07","hs":" 24%","hours":2845}
+{"cs_id":336,"rang":" Silver","winrate":31,"kd":" 0,90","hs":" 54%","hours":2258}
+{"cs_id":337,"rang":" Supreme","winrate":27,"kd":" 1,74","hs":" 72%","hours":2474}
+{"cs_id":338,"rang":" Global","winrate":87,"kd":" 0,71","hs":" 80%","hours":1998}
+{"cs_id":339,"rang":" Legendary Eagle","winrate":24,"kd":" 0,08","hs":" 84%","hours":2522}
+{"cs_id":340,"rang":" Gold nova","winrate":59,"kd":" 1,82","hs":" 12%","hours":908}
+{"cs_id":341,"rang":" Global","winrate":38,"kd":" 0,05","hs":" 75%","hours":1204}
+{"cs_id":342,"rang":" Master Guardian","winrate":47,"kd":" 1,48","hs":" 57%","hours":1177}
+{"cs_id":343,"rang":" Global","winrate":29,"kd":" 0,65","hs":" 17%","hours":2999}
+{"cs_id":344,"rang":" Silver","winrate":16,"kd":" 1,19","hs":" 22%","hours":1919}
+{"cs_id":345,"rang":" Master Guardian","winrate":26,"kd":" 1,03","hs":" 91%","hours":2626}
+{"cs_id":346,"rang":" Master Guardian","winrate":39,"kd":" 1,32","hs":" 60%","hours":270}
+{"cs_id":347,"rang":" Supreme","winrate":48,"kd":" 1,72","hs":" 25%","hours":2900}
+{"cs_id":348,"rang":" Supreme","winrate":73,"kd":" 1,19","hs":" 20%","hours":2744}
+{"cs_id":349,"rang":" Supreme","winrate":38,"kd":" 1,36","hs":" 70%","hours":2033}
+{"cs_id":350,"rang":" Master Guardian","winrate":29,"kd":" 0,16","hs":" 39%","hours":2343}
+{"cs_id":351,"rang":" Gold nova","winrate":49,"kd":" 1,76","hs":" 89%","hours":1292}
+{"cs_id":352,"rang":" Legendary Eagle","winrate":45,"kd":" 1,87","hs":" 82%","hours":77}
+{"cs_id":353,"rang":" Silver","winrate":70,"kd":" 0,56","hs":" 69%","hours":2109}
+{"cs_id":354,"rang":" Silver","winrate":16,"kd":" 1,76","hs":" 59%","hours":1380}
+{"cs_id":355,"rang":" Silver","winrate":60,"kd":" 1,95","hs":" 39%","hours":1266}
+{"cs_id":356,"rang":" Global","winrate":59,"kd":" 0,97","hs":" 50%","hours":775}
+{"cs_id":357,"rang":" Legendary Eagle","winrate":41,"kd":" 0,96","hs":" 30%","hours":2155}
+{"cs_id":358,"rang":" Legendary Eagle","winrate":85,"kd":" 1,54","hs":" 8%","hours":2547}
+{"cs_id":359,"rang":" Gold nova","winrate":32,"kd":" 0,78","hs":" 66%","hours":312}
+{"cs_id":360,"rang":" Master Guardian","winrate":57,"kd":" 1,16","hs":" 7%","hours":2736}
+{"cs_id":361,"rang":" Supreme","winrate":55,"kd":" 0,77","hs":" 88%","hours":2549}
+{"cs_id":362,"rang":" Global","winrate":28,"kd":" 1,42","hs":" 58%","hours":1411}
+{"cs_id":363,"rang":" Gold nova","winrate":37,"kd":" 0,87","hs":" 74%","hours":667}
+{"cs_id":364,"rang":" Silver","winrate":75,"kd":" 1,99","hs":" 12%","hours":1270}
+{"cs_id":365,"rang":" Supreme","winrate":22,"kd":" 0,85","hs":" 65%","hours":2968}
+{"cs_id":366,"rang":" Master Guardian","winrate":87,"kd":" 1,50","hs":" 26%","hours":1858}
+{"cs_id":367,"rang":" Silver","winrate":70,"kd":" 1,19","hs":" 77%","hours":1834}
+{"cs_id":368,"rang":" Master Guardian","winrate":26,"kd":" 1,25","hs":" 37%","hours":2331}
+{"cs_id":369,"rang":" Legendary Eagle","winrate":49,"kd":" 0,47","hs":" 32%","hours":1197}
+{"cs_id":370,"rang":" Supreme","winrate":20,"kd":" 1,06","hs":" 82%","hours":513}
+{"cs_id":371,"rang":" Silver","winrate":90,"kd":" 1,88","hs":" 54%","hours":95}
+{"cs_id":372,"rang":" Gold nova","winrate":25,"kd":" 1,56","hs":" 43%","hours":766}
+{"cs_id":373,"rang":" Master Guardian","winrate":14,"kd":" 1,08","hs":" 35%","hours":937}
+{"cs_id":374,"rang":" Legendary Eagle","winrate":81,"kd":" 0,88","hs":" 80%","hours":1060}
+{"cs_id":375,"rang":" Gold nova","winrate":47,"kd":" 1,14","hs":" 55%","hours":2472}
+{"cs_id":376,"rang":" Global","winrate":39,"kd":" 1,67","hs":" 96%","hours":1647}
+{"cs_id":377,"rang":" Master Guardian","winrate":10,"kd":" 0,26","hs":" 63%","hours":636}
+{"cs_id":378,"rang":" Silver","winrate":33,"kd":" 0,53","hs":" 89%","hours":122}
+{"cs_id":379,"rang":" Gold nova","winrate":30,"kd":" 1,03","hs":" 7%","hours":1124}
+{"cs_id":380,"rang":" Global","winrate":54,"kd":" 0,41","hs":" 60%","hours":464}
+{"cs_id":381,"rang":" Silver","winrate":35,"kd":" 0,37","hs":" 78%","hours":346}
+{"cs_id":382,"rang":" Supreme","winrate":28,"kd":" 1,20","hs":" 63%","hours":1223}
+{"cs_id":383,"rang":" Global","winrate":63,"kd":" 1,79","hs":" 79%","hours":2521}
+{"cs_id":384,"rang":" Global","winrate":55,"kd":" 1,06","hs":" 42%","hours":2470}
+{"cs_id":385,"rang":" Master Guardian","winrate":48,"kd":" 0,68","hs":" 12%","hours":1869}
+{"cs_id":386,"rang":" Gold nova","winrate":47,"kd":" 1,36","hs":" 81%","hours":2018}
+{"cs_id":387,"rang":" Silver","winrate":49,"kd":" 1,00","hs":" 51%","hours":2356}
+{"cs_id":388,"rang":" Legendary Eagle","winrate":59,"kd":" 1,89","hs":" 76%","hours":411}
+{"cs_id":389,"rang":" Global","winrate":78,"kd":" 0,80","hs":" 8%","hours":2339}
+{"cs_id":390,"rang":" Silver","winrate":35,"kd":" 0,96","hs":" 91%","hours":2627}
+{"cs_id":391,"rang":" Gold nova","winrate":43,"kd":" 0,88","hs":" 41%","hours":875}
+{"cs_id":392,"rang":" Silver","winrate":49,"kd":" 1,16","hs":" 97%","hours":2432}
+{"cs_id":393,"rang":" Master Guardian","winrate":25,"kd":" 0,95","hs":" 84%","hours":919}
+{"cs_id":394,"rang":" Supreme","winrate":86,"kd":" 1,06","hs":" 29%","hours":1507}
+{"cs_id":395,"rang":" Global","winrate":90,"kd":" 0,97","hs":" 67%","hours":278}
+{"cs_id":396,"rang":" Gold nova","winrate":82,"kd":" 0,06","hs":" 6%","hours":2017}
+{"cs_id":397,"rang":" Legendary Eagle","winrate":81,"kd":" 1,78","hs":" 16%","hours":1261}
+{"cs_id":398,"rang":" Silver","winrate":20,"kd":" 1,91","hs":" 23%","hours":1700}
+{"cs_id":399,"rang":" Legendary Eagle","winrate":30,"kd":" 1,60","hs":" 83%","hours":1305}
+{"cs_id":400,"rang":" Master Guardian","winrate":61,"kd":" 1,44","hs":" 94%","hours":383}
+{"cs_id":401,"rang":" Legendary Eagle","winrate":55,"kd":" 0,52","hs":" 38%","hours":153}
+{"cs_id":402,"rang":" Gold nova","winrate":12,"kd":" 1,94","hs":" 16%","hours":1770}
+{"cs_id":403,"rang":" Global","winrate":64,"kd":" 0,92","hs":" 82%","hours":1971}
+{"cs_id":404,"rang":" Legendary Eagle","winrate":42,"kd":" 0,47","hs":" 60%","hours":1751}
+{"cs_id":405,"rang":" Master Guardian","winrate":65,"kd":" 0,27","hs":" 34%","hours":1608}
+{"cs_id":406,"rang":" Global","winrate":55,"kd":" 0,28","hs":" 7%","hours":1713}
+{"cs_id":407,"rang":" Legendary Eagle","winrate":32,"kd":" 0,87","hs":" 97%","hours":2465}
+{"cs_id":408,"rang":" Master Guardian","winrate":54,"kd":" 1,81","hs":" 9%","hours":1857}
+{"cs_id":409,"rang":" Supreme","winrate":11,"kd":" 1,50","hs":" 39%","hours":1039}
+{"cs_id":410,"rang":" Gold nova","winrate":25,"kd":" 1,20","hs":" 13%","hours":1669}
+{"cs_id":411,"rang":" Gold nova","winrate":85,"kd":" 1,54","hs":" 71%","hours":1922}
+{"cs_id":412,"rang":" Global","winrate":47,"kd":" 0,85","hs":" 65%","hours":1531}
+{"cs_id":413,"rang":" Supreme","winrate":72,"kd":" 1,42","hs":" 65%","hours":1388}
+{"cs_id":414,"rang":" Silver","winrate":17,"kd":" 0,02","hs":" 22%","hours":1992}
+{"cs_id":415,"rang":" Silver","winrate":30,"kd":" 0,52","hs":" 27%","hours":2504}
+{"cs_id":416,"rang":" Gold nova","winrate":21,"kd":" 0,38","hs":" 22%","hours":1409}
+{"cs_id":417,"rang":" Silver","winrate":32,"kd":" 1,71","hs":" 13%","hours":2138}
+{"cs_id":418,"rang":" Legendary Eagle","winrate":23,"kd":" 1,24","hs":" 94%","hours":133}
+{"cs_id":419,"rang":" Supreme","winrate":65,"kd":" 0,83","hs":" 46%","hours":1466}
+{"cs_id":420,"rang":" Master Guardian","winrate":20,"kd":" 1,04","hs":" 28%","hours":2708}
+{"cs_id":421,"rang":" Supreme","winrate":38,"kd":" 0,03","hs":" 95%","hours":1494}
+{"cs_id":422,"rang":" Global","winrate":44,"kd":" 0,11","hs":" 37%","hours":1468}
+{"cs_id":423,"rang":" Legendary Eagle","winrate":66,"kd":" 0,89","hs":" 13%","hours":1346}
+{"cs_id":424,"rang":" Global","winrate":33,"kd":" 0,30","hs":" 100%","hours":595}
+{"cs_id":425,"rang":" Supreme","winrate":42,"kd":" 0,75","hs":" 74%","hours":2012}
+{"cs_id":426,"rang":" Master Guardian","winrate":21,"kd":" 0,45","hs":" 92%","hours":1972}
+{"cs_id":427,"rang":" Master Guardian","winrate":80,"kd":" 0,20","hs":" 53%","hours":2915}
+{"cs_id":428,"rang":" Global","winrate":24,"kd":" 1,16","hs":" 48%","hours":1108}
+{"cs_id":429,"rang":" Master Guardian","winrate":12,"kd":" 1,83","hs":" 63%","hours":1447}
+{"cs_id":430,"rang":" Supreme","winrate":86,"kd":" 1,67","hs":" 48%","hours":2204}
+{"cs_id":431,"rang":" Master Guardian","winrate":52,"kd":" 1,34","hs":" 72%","hours":2245}
+{"cs_id":432,"rang":" Supreme","winrate":35,"kd":" 0,13","hs":" 81%","hours":489}
+{"cs_id":433,"rang":" Supreme","winrate":78,"kd":" 0,23","hs":" 84%","hours":1640}
+{"cs_id":434,"rang":" Silver","winrate":62,"kd":" 1,88","hs":" 66%","hours":2925}
+{"cs_id":435,"rang":" Master Guardian","winrate":59,"kd":" 0,18","hs":" 39%","hours":1873}
+{"cs_id":436,"rang":" Silver","winrate":49,"kd":" 1,37","hs":" 33%","hours":777}
+{"cs_id":437,"rang":" Silver","winrate":66,"kd":" 1,30","hs":" 72%","hours":1178}
+{"cs_id":438,"rang":" Silver","winrate":75,"kd":" 0,95","hs":" 56%","hours":278}
+{"cs_id":439,"rang":" Supreme","winrate":24,"kd":" 1,82","hs":" 48%","hours":1050}
+{"cs_id":440,"rang":" Gold nova","winrate":35,"kd":" 0,17","hs":" 5%","hours":53}
+{"cs_id":441,"rang":" Gold nova","winrate":36,"kd":" 1,42","hs":" 74%","hours":510}
+{"cs_id":442,"rang":" Legendary Eagle","winrate":79,"kd":" 0,79","hs":" 90%","hours":2995}
+{"cs_id":443,"rang":" Supreme","winrate":75,"kd":" 0,84","hs":" 88%","hours":1019}
+{"cs_id":444,"rang":" Silver","winrate":18,"kd":" 0,43","hs":" 21%","hours":1722}
+{"cs_id":445,"rang":" Supreme","winrate":25,"kd":" 1,30","hs":" 46%","hours":1591}
+{"cs_id":446,"rang":" Supreme","winrate":75,"kd":" 1,88","hs":" 49%","hours":947}
+{"cs_id":447,"rang":" Master Guardian","winrate":34,"kd":" 0,87","hs":" 59%","hours":1628}
+{"cs_id":448,"rang":" Supreme","winrate":24,"kd":" 0,10","hs":" 31%","hours":2002}
+{"cs_id":449,"rang":" Legendary Eagle","winrate":56,"kd":" 0,95","hs":" 13%","hours":2453}
+{"cs_id":450,"rang":" Master Guardian","winrate":29,"kd":" 0,89","hs":" 42%","hours":2674}
+{"cs_id":451,"rang":" Global","winrate":33,"kd":" 1,83","hs":" 21%","hours":1580}
+{"cs_id":452,"rang":" Legendary Eagle","winrate":34,"kd":" 0,86","hs":" 48%","hours":2896}
+{"cs_id":453,"rang":" Silver","winrate":33,"kd":" 1,18","hs":" 9%","hours":1988}
+{"cs_id":454,"rang":" Master Guardian","winrate":23,"kd":" 1,54","hs":" 9%","hours":1959}
+{"cs_id":455,"rang":" Silver","winrate":88,"kd":" 1,05","hs":" 32%","hours":1389}
+{"cs_id":456,"rang":" Gold nova","winrate":86,"kd":" 1,58","hs":" 53%","hours":887}
+{"cs_id":457,"rang":" Legendary Eagle","winrate":39,"kd":" 0,73","hs":" 45%","hours":2536}
+{"cs_id":458,"rang":" Master Guardian","winrate":61,"kd":" 0,65","hs":" 96%","hours":2788}
+{"cs_id":459,"rang":" Master Guardian","winrate":43,"kd":" 1,53","hs":" 13%","hours":2194}
+{"cs_id":460,"rang":" Global","winrate":63,"kd":" 1,83","hs":" 93%","hours":206}
+{"cs_id":461,"rang":" Master Guardian","winrate":53,"kd":" 0,33","hs":" 54%","hours":1597}
+{"cs_id":462,"rang":" Master Guardian","winrate":34,"kd":" 1,67","hs":" 82%","hours":753}
+{"cs_id":463,"rang":" Supreme","winrate":60,"kd":" 0,34","hs":" 54%","hours":2234}
+{"cs_id":464,"rang":" Gold nova","winrate":42,"kd":" 0,22","hs":" 97%","hours":344}
+{"cs_id":465,"rang":" Global","winrate":59,"kd":" 0,56","hs":" 7%","hours":2004}
+{"cs_id":466,"rang":" Master Guardian","winrate":81,"kd":" 1,37","hs":" 94%","hours":1134}
+{"cs_id":467,"rang":" Supreme","winrate":41,"kd":" 1,06","hs":" 62%","hours":2390}
+{"cs_id":468,"rang":" Gold nova","winrate":30,"kd":" 0,59","hs":" 47%","hours":2215}
+{"cs_id":469,"rang":" Global","winrate":38,"kd":" 1,54","hs":" 89%","hours":1874}
+{"cs_id":470,"rang":" Gold nova","winrate":21,"kd":" 0,91","hs":" 58%","hours":1408}
+{"cs_id":471,"rang":" Silver","winrate":12,"kd":" 0,97","hs":" 7%","hours":1107}
+{"cs_id":472,"rang":" Gold nova","winrate":27,"kd":" 1,15","hs":" 95%","hours":2342}
+{"cs_id":473,"rang":" Legendary Eagle","winrate":88,"kd":" 1,51","hs":" 73%","hours":1584}
+{"cs_id":474,"rang":" Global","winrate":84,"kd":" 0,18","hs":" 42%","hours":2549}
+{"cs_id":475,"rang":" Gold nova","winrate":32,"kd":" 0,19","hs":" 43%","hours":973}
+{"cs_id":476,"rang":" Legendary Eagle","winrate":79,"kd":" 1,86","hs":" 73%","hours":588}
+{"cs_id":477,"rang":" Global","winrate":79,"kd":" 1,27","hs":" 18%","hours":227}
+{"cs_id":478,"rang":" Global","winrate":80,"kd":" 0,20","hs":" 41%","hours":843}
+{"cs_id":479,"rang":" Global","winrate":21,"kd":" 1,02","hs":" 76%","hours":977}
+{"cs_id":480,"rang":" Legendary Eagle","winrate":60,"kd":" 1,98","hs":" 60%","hours":794}
+{"cs_id":481,"rang":" Supreme","winrate":63,"kd":" 0,20","hs":" 16%","hours":1300}
+{"cs_id":482,"rang":" Gold nova","winrate":10,"kd":" 0,91","hs":" 19%","hours":151}
+{"cs_id":483,"rang":" Global","winrate":28,"kd":" 1,99","hs":" 50%","hours":172}
+{"cs_id":484,"rang":" Supreme","winrate":49,"kd":" 0,57","hs":" 52%","hours":292}
+{"cs_id":485,"rang":" Legendary Eagle","winrate":13,"kd":" 1,33","hs":" 10%","hours":574}
+{"cs_id":486,"rang":" Global","winrate":89,"kd":" 1,95","hs":" 54%","hours":1956}
+{"cs_id":487,"rang":" Master Guardian","winrate":76,"kd":" 0,94","hs":" 29%","hours":1568}
+{"cs_id":488,"rang":" Global","winrate":68,"kd":" 1,21","hs":" 92%","hours":1046}
+{"cs_id":489,"rang":" Global","winrate":35,"kd":" 1,54","hs":" 99%","hours":1641}
+{"cs_id":490,"rang":" Master Guardian","winrate":33,"kd":" 0,96","hs":" 26%","hours":50}
+{"cs_id":491,"rang":" Supreme","winrate":32,"kd":" 0,69","hs":" 28%","hours":439}
+{"cs_id":492,"rang":" Silver","winrate":82,"kd":" 0,63","hs":" 86%","hours":2359}
+{"cs_id":493,"rang":" Gold nova","winrate":86,"kd":" 1,17","hs":" 52%","hours":205}
+{"cs_id":494,"rang":" Global","winrate":50,"kd":" 0,67","hs":" 67%","hours":1523}
+{"cs_id":495,"rang":" Global","winrate":65,"kd":" 0,92","hs":" 38%","hours":820}
+{"cs_id":496,"rang":" Global","winrate":43,"kd":" 1,73","hs":" 22%","hours":1211}
+{"cs_id":497,"rang":" Master Guardian","winrate":22,"kd":" 1,48","hs":" 79%","hours":2199}
+{"cs_id":498,"rang":" Global","winrate":58,"kd":" 0,15","hs":" 81%","hours":667}
+{"cs_id":499,"rang":" Supreme","winrate":77,"kd":" 1,50","hs":" 57%","hours":1563}
+{"cs_id":500,"rang":" Supreme","winrate":20,"kd":" 1,44","hs":" 78%","hours":1210}
+{"cs_id":501,"rang":" Master Guardian","winrate":18,"kd":" 0,45","hs":" 44%","hours":82}
+{"cs_id":502,"rang":" Supreme","winrate":20,"kd":" 1,82","hs":" 47%","hours":1177}
+{"cs_id":503,"rang":" Master Guardian","winrate":75,"kd":" 0,45","hs":" 30%","hours":1769}
+{"cs_id":504,"rang":" Master Guardian","winrate":45,"kd":" 1,06","hs":" 35%","hours":1452}
+{"cs_id":505,"rang":" Silver","winrate":32,"kd":" 0,28","hs":" 49%","hours":790}
+{"cs_id":506,"rang":" Legendary Eagle","winrate":45,"kd":" 0,27","hs":" 46%","hours":2773}
+{"cs_id":507,"rang":" Gold nova","winrate":47,"kd":" 1,68","hs":" 73%","hours":842}
+{"cs_id":508,"rang":" Master Guardian","winrate":32,"kd":" 1,46","hs":" 38%","hours":1322}
+{"cs_id":509,"rang":" Gold nova","winrate":40,"kd":" 1,27","hs":" 54%","hours":2146}
+{"cs_id":510,"rang":" Global","winrate":30,"kd":" 1,46","hs":" 58%","hours":1844}
+{"cs_id":511,"rang":" Legendary Eagle","winrate":36,"kd":" 1,93","hs":" 29%","hours":2164}
+{"cs_id":512,"rang":" Gold nova","winrate":79,"kd":" 0,07","hs":" 57%","hours":1811}
+{"cs_id":513,"rang":" Supreme","winrate":47,"kd":" 1,28","hs":" 70%","hours":1605}
+{"cs_id":514,"rang":" Master Guardian","winrate":27,"kd":" 1,70","hs":" 59%","hours":1316}
+{"cs_id":515,"rang":" Master Guardian","winrate":23,"kd":" 1,52","hs":" 38%","hours":1176}
+{"cs_id":516,"rang":" Supreme","winrate":58,"kd":" 1,69","hs":" 30%","hours":406}
+{"cs_id":517,"rang":" Global","winrate":68,"kd":" 0,83","hs":" 45%","hours":1500}
+{"cs_id":518,"rang":" Silver","winrate":71,"kd":" 0,85","hs":" 19%","hours":576}
+{"cs_id":519,"rang":" Master Guardian","winrate":14,"kd":" 0,54","hs":" 46%","hours":2769}
+{"cs_id":520,"rang":" Global","winrate":43,"kd":" 1,86","hs":" 69%","hours":2182}
+{"cs_id":521,"rang":" Supreme","winrate":31,"kd":" 0,06","hs":" 67%","hours":2416}
+{"cs_id":522,"rang":" Gold nova","winrate":12,"kd":" 1,78","hs":" 79%","hours":2136}
+{"cs_id":523,"rang":" Master Guardian","winrate":80,"kd":" 1,11","hs":" 99%","hours":2976}
+{"cs_id":524,"rang":" Global","winrate":30,"kd":" 0,22","hs":" 44%","hours":2954}
+{"cs_id":525,"rang":" Silver","winrate":12,"kd":" 0,21","hs":" 91%","hours":1984}
+{"cs_id":526,"rang":" Legendary Eagle","winrate":25,"kd":" 1,31","hs":" 78%","hours":2919}
+{"cs_id":527,"rang":" Silver","winrate":57,"kd":" 0,58","hs":" 43%","hours":1521}
+{"cs_id":528,"rang":" Silver","winrate":14,"kd":" 0,84","hs":" 73%","hours":1920}
+{"cs_id":529,"rang":" Master Guardian","winrate":29,"kd":" 1,47","hs":" 86%","hours":809}
+{"cs_id":530,"rang":" Gold nova","winrate":53,"kd":" 0,57","hs":" 23%","hours":1251}
+{"cs_id":531,"rang":" Silver","winrate":30,"kd":" 0,69","hs":" 90%","hours":1897}
+{"cs_id":532,"rang":" Legendary Eagle","winrate":69,"kd":" 0,15","hs":" 75%","hours":517}
+{"cs_id":533,"rang":" Master Guardian","winrate":16,"kd":" 1,66","hs":" 62%","hours":2521}
+{"cs_id":534,"rang":" Legendary Eagle","winrate":53,"kd":" 0,38","hs":" 6%","hours":1026}
+{"cs_id":535,"rang":" Silver","winrate":77,"kd":" 1,61","hs":" 70%","hours":2611}
+{"cs_id":536,"rang":" Master Guardian","winrate":74,"kd":" 1,02","hs":" 90%","hours":602}
+{"cs_id":537,"rang":" Silver","winrate":72,"kd":" 1,81","hs":" 28%","hours":2421}
+{"cs_id":538,"rang":" Global","winrate":33,"kd":" 1,01","hs":" 95%","hours":2130}
+{"cs_id":539,"rang":" Silver","winrate":83,"kd":" 1,23","hs":" 45%","hours":363}
+{"cs_id":540,"rang":" Silver","winrate":31,"kd":" 1,38","hs":" 29%","hours":184}
+{"cs_id":541,"rang":" Silver","winrate":86,"kd":" 0,34","hs":" 57%","hours":2534}
+{"cs_id":542,"rang":" Supreme","winrate":52,"kd":" 0,25","hs":" 71%","hours":313}
+{"cs_id":543,"rang":" Supreme","winrate":31,"kd":" 0,10","hs":" 49%","hours":944}
+{"cs_id":544,"rang":" Global","winrate":24,"kd":" 0,95","hs":" 78%","hours":2252}
+{"cs_id":545,"rang":" Supreme","winrate":59,"kd":" 1,32","hs":" 18%","hours":1824}
+{"cs_id":546,"rang":" Global","winrate":88,"kd":" 1,92","hs":" 40%","hours":1502}
+{"cs_id":547,"rang":" Legendary Eagle","winrate":60,"kd":" 0,99","hs":" 90%","hours":777}
+{"cs_id":548,"rang":" Gold nova","winrate":83,"kd":" 0,63","hs":" 12%","hours":2679}
+{"cs_id":549,"rang":" Supreme","winrate":61,"kd":" 1,96","hs":" 86%","hours":1042}
+{"cs_id":550,"rang":" Global","winrate":61,"kd":" 1,41","hs":" 22%","hours":2384}
+{"cs_id":551,"rang":" Global","winrate":64,"kd":" 1,86","hs":" 98%","hours":2078}
+{"cs_id":552,"rang":" Legendary Eagle","winrate":47,"kd":" 0,21","hs":" 8%","hours":2136}
+{"cs_id":553,"rang":" Master Guardian","winrate":70,"kd":" 0,38","hs":" 82%","hours":1450}
+{"cs_id":554,"rang":" Supreme","winrate":61,"kd":" 1,55","hs":" 81%","hours":99}
+{"cs_id":555,"rang":" Silver","winrate":12,"kd":" 0,91","hs":" 40%","hours":1781}
+{"cs_id":556,"rang":" Master Guardian","winrate":25,"kd":" 1,80","hs":" 56%","hours":168}
+{"cs_id":557,"rang":" Gold nova","winrate":12,"kd":" 1,99","hs":" 12%","hours":1958}
+{"cs_id":558,"rang":" Silver","winrate":59,"kd":" 1,02","hs":" 12%","hours":2915}
+{"cs_id":559,"rang":" Global","winrate":39,"kd":" 0,77","hs":" 11%","hours":685}
+{"cs_id":560,"rang":" Supreme","winrate":63,"kd":" 1,52","hs":" 13%","hours":2069}
+{"cs_id":561,"rang":" Global","winrate":82,"kd":" 1,99","hs":" 8%","hours":1253}
+{"cs_id":562,"rang":" Legendary Eagle","winrate":35,"kd":" 0,91","hs":" 91%","hours":2748}
+{"cs_id":563,"rang":" Supreme","winrate":32,"kd":" 0,42","hs":" 13%","hours":576}
+{"cs_id":564,"rang":" Silver","winrate":69,"kd":" 1,59","hs":" 26%","hours":2183}
+{"cs_id":565,"rang":" Master Guardian","winrate":71,"kd":" 0,36","hs":" 10%","hours":2663}
+{"cs_id":566,"rang":" Legendary Eagle","winrate":17,"kd":" 1,47","hs":" 47%","hours":1928}
+{"cs_id":567,"rang":" Silver","winrate":57,"kd":" 1,20","hs":" 28%","hours":2034}
+{"cs_id":568,"rang":" Global","winrate":59,"kd":" 1,82","hs":" 100%","hours":2576}
+{"cs_id":569,"rang":" Legendary Eagle","winrate":18,"kd":" 1,82","hs":" 38%","hours":847}
+{"cs_id":570,"rang":" Supreme","winrate":48,"kd":" 0,63","hs":" 96%","hours":830}
+{"cs_id":571,"rang":" Legendary Eagle","winrate":24,"kd":" 0,87","hs":" 47%","hours":502}
+{"cs_id":572,"rang":" Silver","winrate":67,"kd":" 0,61","hs":" 17%","hours":1150}
+{"cs_id":573,"rang":" Legendary Eagle","winrate":36,"kd":" 1,35","hs":" 79%","hours":736}
+{"cs_id":574,"rang":" Supreme","winrate":79,"kd":" 0,84","hs":" 70%","hours":942}
+{"cs_id":575,"rang":" Legendary Eagle","winrate":49,"kd":" 0,75","hs":" 53%","hours":2221}
+{"cs_id":576,"rang":" Master Guardian","winrate":68,"kd":" 0,90","hs":" 5%","hours":451}
+{"cs_id":577,"rang":" Supreme","winrate":13,"kd":" 0,47","hs":" 19%","hours":200}
+{"cs_id":578,"rang":" Supreme","winrate":12,"kd":" 0,01","hs":" 64%","hours":2642}
+{"cs_id":579,"rang":" Gold nova","winrate":81,"kd":" 0,28","hs":" 55%","hours":463}
+{"cs_id":580,"rang":" Gold nova","winrate":13,"kd":" 0,66","hs":" 9%","hours":1946}
+{"cs_id":581,"rang":" Silver","winrate":50,"kd":" 0,31","hs":" 29%","hours":2773}
+{"cs_id":582,"rang":" Supreme","winrate":77,"kd":" 1,32","hs":" 18%","hours":1389}
+{"cs_id":583,"rang":" Legendary Eagle","winrate":50,"kd":" 1,61","hs":" 92%","hours":2452}
+{"cs_id":584,"rang":" Master Guardian","winrate":89,"kd":" 0,99","hs":" 85%","hours":2432}
+{"cs_id":585,"rang":" Gold nova","winrate":54,"kd":" 1,26","hs":" 98%","hours":1481}
+{"cs_id":586,"rang":" Legendary Eagle","winrate":54,"kd":" 0,26","hs":" 81%","hours":54}
+{"cs_id":587,"rang":" Silver","winrate":59,"kd":" 1,91","hs":" 65%","hours":623}
+{"cs_id":588,"rang":" Gold nova","winrate":88,"kd":" 0,19","hs":" 61%","hours":2865}
+{"cs_id":589,"rang":" Gold nova","winrate":34,"kd":" 1,61","hs":" 21%","hours":697}
+{"cs_id":590,"rang":" Gold nova","winrate":34,"kd":" 0,02","hs":" 28%","hours":2684}
+{"cs_id":591,"rang":" Gold nova","winrate":42,"kd":" 0,84","hs":" 46%","hours":506}
+{"cs_id":592,"rang":" Supreme","winrate":32,"kd":" 1,62","hs":" 86%","hours":2295}
+{"cs_id":593,"rang":" Legendary Eagle","winrate":63,"kd":" 1,75","hs":" 23%","hours":1586}
+{"cs_id":594,"rang":" Legendary Eagle","winrate":58,"kd":" 1,37","hs":" 73%","hours":2531}
+{"cs_id":595,"rang":" Supreme","winrate":36,"kd":" 0,12","hs":" 7%","hours":87}
+{"cs_id":596,"rang":" Gold nova","winrate":33,"kd":" 1,32","hs":" 93%","hours":1151}
+{"cs_id":597,"rang":" Supreme","winrate":34,"kd":" 1,42","hs":" 100%","hours":863}
+{"cs_id":598,"rang":" Master Guardian","winrate":60,"kd":" 1,75","hs":" 59%","hours":2445}
+{"cs_id":599,"rang":" Master Guardian","winrate":23,"kd":" 1,34","hs":" 28%","hours":781}
+{"cs_id":600,"rang":" Global","winrate":68,"kd":" 1,90","hs":" 95%","hours":1987}
+{"cs_id":601,"rang":" Master Guardian","winrate":73,"kd":" 1,14","hs":" 39%","hours":81}
+{"cs_id":602,"rang":" Master Guardian","winrate":90,"kd":" 1,13","hs":" 76%","hours":355}
+{"cs_id":603,"rang":" Global","winrate":23,"kd":" 0,63","hs":" 7%","hours":1220}
+{"cs_id":604,"rang":" Master Guardian","winrate":13,"kd":" 1,44","hs":" 92%","hours":1209}
+{"cs_id":605,"rang":" Legendary Eagle","winrate":43,"kd":" 0,17","hs":" 37%","hours":1563}
+{"cs_id":606,"rang":" Gold nova","winrate":57,"kd":" 0,38","hs":" 17%","hours":1811}
+{"cs_id":607,"rang":" Global","winrate":52,"kd":" 0,43","hs":" 20%","hours":2678}
+{"cs_id":608,"rang":" Gold nova","winrate":87,"kd":" 1,14","hs":" 13%","hours":908}
+{"cs_id":609,"rang":" Gold nova","winrate":52,"kd":" 1,14","hs":" 74%","hours":2044}
+{"cs_id":610,"rang":" Silver","winrate":90,"kd":" 0,21","hs":" 98%","hours":2510}
+{"cs_id":611,"rang":" Global","winrate":61,"kd":" 0,19","hs":" 91%","hours":1577}
+{"cs_id":612,"rang":" Legendary Eagle","winrate":54,"kd":" 0,95","hs":" 16%","hours":1929}
+{"cs_id":613,"rang":" Supreme","winrate":75,"kd":" 0,98","hs":" 99%","hours":2324}
+{"cs_id":614,"rang":" Supreme","winrate":67,"kd":" 0,27","hs":" 33%","hours":1755}
+{"cs_id":615,"rang":" Legendary Eagle","winrate":16,"kd":" 1,53","hs":" 68%","hours":2578}
+{"cs_id":616,"rang":" Gold nova","winrate":25,"kd":" 0,82","hs":" 9%","hours":739}
+{"cs_id":617,"rang":" Legendary Eagle","winrate":82,"kd":" 1,35","hs":" 9%","hours":1136}
+{"cs_id":618,"rang":" Legendary Eagle","winrate":41,"kd":" 1,79","hs":" 62%","hours":1471}
+{"cs_id":619,"rang":" Supreme","winrate":61,"kd":" 1,52","hs":" 88%","hours":1960}
+{"cs_id":620,"rang":" Gold nova","winrate":57,"kd":" 1,09","hs":" 80%","hours":536}
+{"cs_id":621,"rang":" Silver","winrate":14,"kd":" 0,79","hs":" 45%","hours":2858}
+{"cs_id":622,"rang":" Supreme","winrate":72,"kd":" 1,43","hs":" 76%","hours":325}
+{"cs_id":623,"rang":" Supreme","winrate":55,"kd":" 0,99","hs":" 70%","hours":1402}
+{"cs_id":624,"rang":" Silver","winrate":74,"kd":" 1,31","hs":" 36%","hours":1835}
+{"cs_id":625,"rang":" Gold nova","winrate":18,"kd":" 0,37","hs":" 84%","hours":2291}
+{"cs_id":626,"rang":" Gold nova","winrate":75,"kd":" 1,73","hs":" 46%","hours":2350}
+{"cs_id":627,"rang":" Gold nova","winrate":72,"kd":" 1,12","hs":" 38%","hours":2198}
+{"cs_id":628,"rang":" Global","winrate":59,"kd":" 0,94","hs":" 33%","hours":1189}
+{"cs_id":629,"rang":" Silver","winrate":66,"kd":" 0,34","hs":" 59%","hours":1264}
+{"cs_id":630,"rang":" Gold nova","winrate":35,"kd":" 0,24","hs":" 95%","hours":2213}
+{"cs_id":631,"rang":" Master Guardian","winrate":80,"kd":" 1,25","hs":" 96%","hours":96}
+{"cs_id":632,"rang":" Silver","winrate":17,"kd":" 1,87","hs":" 69%","hours":133}
+{"cs_id":633,"rang":" Master Guardian","winrate":84,"kd":" 0,12","hs":" 71%","hours":2464}
+{"cs_id":634,"rang":" Global","winrate":24,"kd":" 0,39","hs":" 83%","hours":443}
+{"cs_id":635,"rang":" Silver","winrate":89,"kd":" 0,41","hs":" 12%","hours":2686}
+{"cs_id":636,"rang":" Supreme","winrate":26,"kd":" 0,13","hs":" 38%","hours":767}
+{"cs_id":637,"rang":" Gold nova","winrate":57,"kd":" 0,62","hs":" 73%","hours":2004}
+{"cs_id":638,"rang":" Gold nova","winrate":40,"kd":" 0,27","hs":" 41%","hours":1740}
+{"cs_id":639,"rang":" Global","winrate":54,"kd":" 0,31","hs":" 20%","hours":1305}
+{"cs_id":640,"rang":" Legendary Eagle","winrate":86,"kd":" 0,42","hs":" 86%","hours":483}
+{"cs_id":641,"rang":" Master Guardian","winrate":24,"kd":" 1,19","hs":" 50%","hours":938}
+{"cs_id":642,"rang":" Silver","winrate":79,"kd":" 0,25","hs":" 59%","hours":1212}
+{"cs_id":643,"rang":" Silver","winrate":58,"kd":" 0,01","hs":" 25%","hours":2970}
+{"cs_id":644,"rang":" Global","winrate":49,"kd":" 0,32","hs":" 34%","hours":1080}
+{"cs_id":645,"rang":" Gold nova","winrate":43,"kd":" 1,15","hs":" 70%","hours":161}
+{"cs_id":646,"rang":" Global","winrate":88,"kd":" 0,63","hs":" 41%","hours":575}
+{"cs_id":647,"rang":" Master Guardian","winrate":77,"kd":" 1,04","hs":" 70%","hours":2445}
+{"cs_id":648,"rang":" Legendary Eagle","winrate":50,"kd":" 1,24","hs":" 11%","hours":382}
+{"cs_id":649,"rang":" Global","winrate":17,"kd":" 0,79","hs":" 57%","hours":874}
+{"cs_id":650,"rang":" Supreme","winrate":62,"kd":" 0,20","hs":" 82%","hours":616}
+{"cs_id":651,"rang":" Silver","winrate":28,"kd":" 0,75","hs":" 82%","hours":2091}
+{"cs_id":652,"rang":" Silver","winrate":89,"kd":" 1,90","hs":" 8%","hours":2893}
+{"cs_id":653,"rang":" Legendary Eagle","winrate":50,"kd":" 1,53","hs":" 95%","hours":2816}
+{"cs_id":654,"rang":" Gold nova","winrate":18,"kd":" 1,44","hs":" 56%","hours":1862}
+{"cs_id":655,"rang":" Legendary Eagle","winrate":56,"kd":" 1,82","hs":" 69%","hours":2326}
+{"cs_id":656,"rang":" Gold nova","winrate":52,"kd":" 0,28","hs":" 45%","hours":2083}
+{"cs_id":657,"rang":" Supreme","winrate":43,"kd":" 1,47","hs":" 33%","hours":820}
+{"cs_id":658,"rang":" Global","winrate":19,"kd":" 0,55","hs":" 80%","hours":1324}
+{"cs_id":659,"rang":" Legendary Eagle","winrate":68,"kd":" 0,24","hs":" 68%","hours":1945}
+{"cs_id":660,"rang":" Master Guardian","winrate":74,"kd":" 1,88","hs":" 39%","hours":510}
+{"cs_id":661,"rang":" Silver","winrate":31,"kd":" 1,47","hs":" 59%","hours":218}
+{"cs_id":662,"rang":" Silver","winrate":61,"kd":" 1,11","hs":" 71%","hours":2875}
+{"cs_id":663,"rang":" Global","winrate":80,"kd":" 0,76","hs":" 99%","hours":1202}
+{"cs_id":664,"rang":" Gold nova","winrate":86,"kd":" 0,64","hs":" 51%","hours":2042}
+{"cs_id":665,"rang":" Master Guardian","winrate":72,"kd":" 0,92","hs":" 94%","hours":2823}
+{"cs_id":666,"rang":" Legendary Eagle","winrate":17,"kd":" 0,83","hs":" 95%","hours":1363}
+{"cs_id":667,"rang":" Supreme","winrate":88,"kd":" 1,43","hs":" 53%","hours":2050}
+{"cs_id":668,"rang":" Silver","winrate":77,"kd":" 1,70","hs":" 93%","hours":745}
+{"cs_id":669,"rang":" Legendary Eagle","winrate":64,"kd":" 1,70","hs":" 82%","hours":483}
+{"cs_id":670,"rang":" Global","winrate":11,"kd":" 0,02","hs":" 34%","hours":647}
+{"cs_id":671,"rang":" Supreme","winrate":42,"kd":" 1,34","hs":" 93%","hours":1243}
+{"cs_id":672,"rang":" Master Guardian","winrate":32,"kd":" 0,02","hs":" 94%","hours":61}
+{"cs_id":673,"rang":" Master Guardian","winrate":59,"kd":" 1,46","hs":" 95%","hours":446}
+{"cs_id":674,"rang":" Legendary Eagle","winrate":30,"kd":" 1,83","hs":" 79%","hours":154}
+{"cs_id":675,"rang":" Supreme","winrate":78,"kd":" 0,54","hs":" 70%","hours":2618}
+{"cs_id":676,"rang":" Global","winrate":71,"kd":" 1,14","hs":" 61%","hours":2604}
+{"cs_id":677,"rang":" Global","winrate":82,"kd":" 0,31","hs":" 46%","hours":882}
+{"cs_id":678,"rang":" Gold nova","winrate":43,"kd":" 0,32","hs":" 48%","hours":204}
+{"cs_id":679,"rang":" Supreme","winrate":45,"kd":" 1,24","hs":" 79%","hours":1940}
+{"cs_id":680,"rang":" Global","winrate":84,"kd":" 1,40","hs":" 83%","hours":1424}
+{"cs_id":681,"rang":" Global","winrate":46,"kd":" 0,36","hs":" 50%","hours":2136}
+{"cs_id":682,"rang":" Supreme","winrate":26,"kd":" 1,24","hs":" 98%","hours":2684}
+{"cs_id":683,"rang":" Silver","winrate":39,"kd":" 0,99","hs":" 82%","hours":1615}
+{"cs_id":684,"rang":" Global","winrate":87,"kd":" 0,85","hs":" 93%","hours":721}
+{"cs_id":685,"rang":" Legendary Eagle","winrate":42,"kd":" 1,55","hs":" 72%","hours":1142}
+{"cs_id":686,"rang":" Silver","winrate":26,"kd":" 1,04","hs":" 85%","hours":523}
+{"cs_id":687,"rang":" Gold nova","winrate":33,"kd":" 1,76","hs":" 9%","hours":1212}
+{"cs_id":688,"rang":" Supreme","winrate":77,"kd":" 0,86","hs":" 51%","hours":164}
+{"cs_id":689,"rang":" Global","winrate":57,"kd":" 1,87","hs":" 75%","hours":1559}
+{"cs_id":690,"rang":" Supreme","winrate":14,"kd":" 0,34","hs":" 22%","hours":825}
+{"cs_id":691,"rang":" Silver","winrate":67,"kd":" 0,72","hs":" 33%","hours":192}
+{"cs_id":692,"rang":" Legendary Eagle","winrate":65,"kd":" 1,19","hs":" 54%","hours":69}
+{"cs_id":693,"rang":" Global","winrate":44,"kd":" 1,51","hs":" 16%","hours":2395}
+{"cs_id":694,"rang":" Global","winrate":68,"kd":" 0,83","hs":" 38%","hours":22}
+{"cs_id":695,"rang":" Silver","winrate":82,"kd":" 1,60","hs":" 70%","hours":927}
+{"cs_id":696,"rang":" Supreme","winrate":27,"kd":" 1,04","hs":" 71%","hours":2741}
+{"cs_id":697,"rang":" Supreme","winrate":75,"kd":" 1,54","hs":" 31%","hours":1915}
+{"cs_id":698,"rang":" Global","winrate":21,"kd":" 1,28","hs":" 100%","hours":275}
+{"cs_id":699,"rang":" Supreme","winrate":22,"kd":" 0,41","hs":" 18%","hours":1301}
+{"cs_id":700,"rang":" Master Guardian","winrate":33,"kd":" 1,21","hs":" 94%","hours":2645}
+{"cs_id":701,"rang":" Supreme","winrate":82,"kd":" 1,91","hs":" 41%","hours":800}
+{"cs_id":702,"rang":" Supreme","winrate":12,"kd":" 0,47","hs":" 91%","hours":751}
+{"cs_id":703,"rang":" Master Guardian","winrate":74,"kd":" 1,18","hs":" 54%","hours":1295}
+{"cs_id":704,"rang":" Supreme","winrate":21,"kd":" 1,94","hs":" 9%","hours":930}
+{"cs_id":705,"rang":" Master Guardian","winrate":52,"kd":" 1,81","hs":" 97%","hours":1550}
+{"cs_id":706,"rang":" Gold nova","winrate":16,"kd":" 1,35","hs":" 68%","hours":890}
+{"cs_id":707,"rang":" Legendary Eagle","winrate":66,"kd":" 1,02","hs":" 11%","hours":2804}
+{"cs_id":708,"rang":" Global","winrate":62,"kd":" 0,44","hs":" 95%","hours":1372}
+{"cs_id":709,"rang":" Supreme","winrate":58,"kd":" 0,20","hs":" 42%","hours":1415}
+{"cs_id":710,"rang":" Supreme","winrate":78,"kd":" 1,35","hs":" 9%","hours":1458}
+{"cs_id":711,"rang":" Supreme","winrate":38,"kd":" 0,99","hs":" 11%","hours":26}
+{"cs_id":712,"rang":" Silver","winrate":43,"kd":" 0,93","hs":" 88%","hours":1958}
+{"cs_id":713,"rang":" Gold nova","winrate":57,"kd":" 1,85","hs":" 36%","hours":1169}
+{"cs_id":714,"rang":" Master Guardian","winrate":38,"kd":" 1,90","hs":" 77%","hours":2882}
+{"cs_id":715,"rang":" Silver","winrate":16,"kd":" 0,00","hs":" 22%","hours":622}
+{"cs_id":716,"rang":" Legendary Eagle","winrate":64,"kd":" 0,20","hs":" 63%","hours":140}
+{"cs_id":717,"rang":" Supreme","winrate":86,"kd":" 1,28","hs":" 57%","hours":789}
+{"cs_id":718,"rang":" Legendary Eagle","winrate":11,"kd":" 1,55","hs":" 69%","hours":494}
+{"cs_id":719,"rang":" Legendary Eagle","winrate":19,"kd":" 0,84","hs":" 84%","hours":685}
+{"cs_id":720,"rang":" Supreme","winrate":19,"kd":" 0,13","hs":" 57%","hours":907}
+{"cs_id":721,"rang":" Supreme","winrate":48,"kd":" 1,32","hs":" 65%","hours":1333}
+{"cs_id":722,"rang":" Silver","winrate":11,"kd":" 0,34","hs":" 39%","hours":868}
+{"cs_id":723,"rang":" Silver","winrate":36,"kd":" 1,85","hs":" 58%","hours":112}
+{"cs_id":724,"rang":" Master Guardian","winrate":39,"kd":" 1,01","hs":" 69%","hours":185}
+{"cs_id":725,"rang":" Gold nova","winrate":56,"kd":" 1,96","hs":" 14%","hours":944}
+{"cs_id":726,"rang":" Legendary Eagle","winrate":29,"kd":" 0,38","hs":" 32%","hours":178}
+{"cs_id":727,"rang":" Legendary Eagle","winrate":17,"kd":" 1,27","hs":" 73%","hours":1447}
+{"cs_id":728,"rang":" Supreme","winrate":77,"kd":" 0,96","hs":" 79%","hours":404}
+{"cs_id":729,"rang":" Global","winrate":36,"kd":" 1,53","hs":" 21%","hours":745}
+{"cs_id":730,"rang":" Global","winrate":18,"kd":" 0,70","hs":" 37%","hours":650}
+{"cs_id":731,"rang":" Gold nova","winrate":41,"kd":" 1,80","hs":" 79%","hours":773}
+{"cs_id":732,"rang":" Legendary Eagle","winrate":76,"kd":" 1,99","hs":" 83%","hours":1632}
+{"cs_id":733,"rang":" Global","winrate":84,"kd":" 0,76","hs":" 57%","hours":2466}
+{"cs_id":734,"rang":" Silver","winrate":20,"kd":" 0,84","hs":" 93%","hours":1218}
+{"cs_id":735,"rang":" Master Guardian","winrate":37,"kd":" 1,92","hs":" 57%","hours":1545}
+{"cs_id":736,"rang":" Supreme","winrate":50,"kd":" 0,67","hs":" 20%","hours":452}
+{"cs_id":737,"rang":" Supreme","winrate":52,"kd":" 1,15","hs":" 93%","hours":2854}
+{"cs_id":738,"rang":" Silver","winrate":79,"kd":" 1,86","hs":" 16%","hours":733}
+{"cs_id":739,"rang":" Gold nova","winrate":68,"kd":" 1,22","hs":" 44%","hours":2275}
+{"cs_id":740,"rang":" Global","winrate":85,"kd":" 1,63","hs":" 14%","hours":43}
+{"cs_id":741,"rang":" Gold nova","winrate":65,"kd":" 1,79","hs":" 63%","hours":384}
+{"cs_id":742,"rang":" Master Guardian","winrate":38,"kd":" 0,03","hs":" 35%","hours":1407}
+{"cs_id":743,"rang":" Supreme","winrate":24,"kd":" 1,76","hs":" 29%","hours":1574}
+{"cs_id":744,"rang":" Gold nova","winrate":66,"kd":" 0,28","hs":" 62%","hours":2640}
+{"cs_id":745,"rang":" Silver","winrate":36,"kd":" 1,06","hs":" 80%","hours":2152}
+{"cs_id":746,"rang":" Silver","winrate":87,"kd":" 1,65","hs":" 61%","hours":2948}
+{"cs_id":747,"rang":" Master Guardian","winrate":10,"kd":" 0,23","hs":" 40%","hours":810}
+{"cs_id":748,"rang":" Silver","winrate":59,"kd":" 1,31","hs":" 38%","hours":2504}
+{"cs_id":749,"rang":" Master Guardian","winrate":66,"kd":" 1,14","hs":" 37%","hours":1060}
+{"cs_id":750,"rang":" Gold nova","winrate":77,"kd":" 0,45","hs":" 75%","hours":645}
+{"cs_id":751,"rang":" Gold nova","winrate":16,"kd":" 0,22","hs":" 45%","hours":2757}
+{"cs_id":752,"rang":" Master Guardian","winrate":68,"kd":" 1,93","hs":" 48%","hours":1014}
+{"cs_id":753,"rang":" Gold nova","winrate":39,"kd":" 1,45","hs":" 69%","hours":1955}
+{"cs_id":754,"rang":" Master Guardian","winrate":32,"kd":" 0,41","hs":" 44%","hours":1844}
+{"cs_id":755,"rang":" Silver","winrate":32,"kd":" 0,69","hs":" 40%","hours":1739}
+{"cs_id":756,"rang":" Global","winrate":48,"kd":" 0,29","hs":" 45%","hours":1853}
+{"cs_id":757,"rang":" Legendary Eagle","winrate":75,"kd":" 0,97","hs":" 27%","hours":274}
+{"cs_id":758,"rang":" Master Guardian","winrate":63,"kd":" 1,86","hs":" 58%","hours":1777}
+{"cs_id":759,"rang":" Gold nova","winrate":59,"kd":" 0,98","hs":" 17%","hours":869}
+{"cs_id":760,"rang":" Master Guardian","winrate":88,"kd":" 1,67","hs":" 46%","hours":2993}
+{"cs_id":761,"rang":" Silver","winrate":62,"kd":" 1,45","hs":" 18%","hours":1841}
+{"cs_id":762,"rang":" Global","winrate":52,"kd":" 1,26","hs":" 92%","hours":1224}
+{"cs_id":763,"rang":" Legendary Eagle","winrate":69,"kd":" 1,59","hs":" 10%","hours":2941}
+{"cs_id":764,"rang":" Master Guardian","winrate":22,"kd":" 0,45","hs":" 82%","hours":1507}
+{"cs_id":765,"rang":" Gold nova","winrate":29,"kd":" 0,29","hs":" 8%","hours":1926}
+{"cs_id":766,"rang":" Global","winrate":15,"kd":" 0,79","hs":" 6%","hours":2243}
+{"cs_id":767,"rang":" Master Guardian","winrate":72,"kd":" 1,91","hs":" 74%","hours":341}
+{"cs_id":768,"rang":" Silver","winrate":67,"kd":" 1,12","hs":" 87%","hours":900}
+{"cs_id":769,"rang":" Supreme","winrate":60,"kd":" 0,48","hs":" 33%","hours":1192}
+{"cs_id":770,"rang":" Master Guardian","winrate":30,"kd":" 0,11","hs":" 12%","hours":2701}
+{"cs_id":771,"rang":" Gold nova","winrate":63,"kd":" 0,70","hs":" 26%","hours":2158}
+{"cs_id":772,"rang":" Master Guardian","winrate":28,"kd":" 1,25","hs":" 76%","hours":1272}
+{"cs_id":773,"rang":" Global","winrate":70,"kd":" 1,93","hs":" 84%","hours":1938}
+{"cs_id":774,"rang":" Silver","winrate":24,"kd":" 1,02","hs":" 98%","hours":1291}
+{"cs_id":775,"rang":" Legendary Eagle","winrate":63,"kd":" 1,97","hs":" 91%","hours":509}
+{"cs_id":776,"rang":" Master Guardian","winrate":41,"kd":" 0,86","hs":" 8%","hours":239}
+{"cs_id":777,"rang":" Legendary Eagle","winrate":76,"kd":" 1,87","hs":" 64%","hours":1923}
+{"cs_id":778,"rang":" Global","winrate":14,"kd":" 1,84","hs":" 76%","hours":97}
+{"cs_id":779,"rang":" Legendary Eagle","winrate":58,"kd":" 0,65","hs":" 37%","hours":2028}
+{"cs_id":780,"rang":" Global","winrate":55,"kd":" 1,69","hs":" 95%","hours":612}
+{"cs_id":781,"rang":" Gold nova","winrate":83,"kd":" 0,14","hs":" 91%","hours":146}
+{"cs_id":782,"rang":" Gold nova","winrate":41,"kd":" 1,17","hs":" 41%","hours":772}
+{"cs_id":783,"rang":" Global","winrate":72,"kd":" 1,02","hs":" 18%","hours":2909}
+{"cs_id":784,"rang":" Global","winrate":79,"kd":" 0,79","hs":" 51%","hours":615}
+{"cs_id":785,"rang":" Silver","winrate":57,"kd":" 1,91","hs":" 61%","hours":1681}
+{"cs_id":786,"rang":" Global","winrate":58,"kd":" 1,60","hs":" 85%","hours":282}
+{"cs_id":787,"rang":" Legendary Eagle","winrate":77,"kd":" 1,23","hs":" 65%","hours":1828}
+{"cs_id":788,"rang":" Gold nova","winrate":10,"kd":" 1,11","hs":" 50%","hours":1199}
+{"cs_id":789,"rang":" Master Guardian","winrate":25,"kd":" 1,10","hs":" 65%","hours":2805}
+{"cs_id":790,"rang":" Silver","winrate":32,"kd":" 0,21","hs":" 58%","hours":380}
+{"cs_id":791,"rang":" Supreme","winrate":58,"kd":" 1,25","hs":" 12%","hours":2549}
+{"cs_id":792,"rang":" Supreme","winrate":12,"kd":" 0,45","hs":" 8%","hours":157}
+{"cs_id":793,"rang":" Master Guardian","winrate":31,"kd":" 0,02","hs":" 70%","hours":1048}
+{"cs_id":794,"rang":" Global","winrate":72,"kd":" 0,17","hs":" 94%","hours":2230}
+{"cs_id":795,"rang":" Global","winrate":74,"kd":" 0,47","hs":" 70%","hours":2560}
+{"cs_id":796,"rang":" Gold nova","winrate":35,"kd":" 0,86","hs":" 47%","hours":2645}
+{"cs_id":797,"rang":" Global","winrate":70,"kd":" 0,03","hs":" 88%","hours":186}
+{"cs_id":798,"rang":" Gold nova","winrate":51,"kd":" 1,87","hs":" 79%","hours":2083}
+{"cs_id":799,"rang":" Supreme","winrate":60,"kd":" 1,33","hs":" 21%","hours":1966}
+{"cs_id":800,"rang":" Global","winrate":35,"kd":" 0,97","hs":" 36%","hours":1147}
+{"cs_id":801,"rang":" Legendary Eagle","winrate":89,"kd":" 1,57","hs":" 97%","hours":2641}
+{"cs_id":802,"rang":" Gold nova","winrate":77,"kd":" 0,07","hs":" 33%","hours":2869}
+{"cs_id":803,"rang":" Silver","winrate":84,"kd":" 0,60","hs":" 8%","hours":956}
+{"cs_id":804,"rang":" Gold nova","winrate":66,"kd":" 1,09","hs":" 37%","hours":310}
+{"cs_id":805,"rang":" Supreme","winrate":44,"kd":" 0,52","hs":" 68%","hours":2425}
+{"cs_id":806,"rang":" Supreme","winrate":29,"kd":" 1,20","hs":" 49%","hours":632}
+{"cs_id":807,"rang":" Supreme","winrate":26,"kd":" 1,33","hs":" 82%","hours":2582}
+{"cs_id":808,"rang":" Gold nova","winrate":37,"kd":" 0,51","hs":" 31%","hours":1599}
+{"cs_id":809,"rang":" Gold nova","winrate":70,"kd":" 0,46","hs":" 55%","hours":2767}
+{"cs_id":810,"rang":" Master Guardian","winrate":71,"kd":" 1,83","hs":" 59%","hours":2398}
+{"cs_id":811,"rang":" Legendary Eagle","winrate":12,"kd":" 0,89","hs":" 13%","hours":1270}
+{"cs_id":812,"rang":" Global","winrate":74,"kd":" 1,29","hs":" 73%","hours":2189}
+{"cs_id":813,"rang":" Supreme","winrate":14,"kd":" 1,19","hs":" 93%","hours":1143}
+{"cs_id":814,"rang":" Supreme","winrate":45,"kd":" 0,93","hs":" 57%","hours":2643}
+{"cs_id":815,"rang":" Master Guardian","winrate":34,"kd":" 0,89","hs":" 7%","hours":2582}
+{"cs_id":816,"rang":" Master Guardian","winrate":82,"kd":" 0,51","hs":" 17%","hours":712}
+{"cs_id":817,"rang":" Gold nova","winrate":63,"kd":" 0,73","hs":" 52%","hours":93}
+{"cs_id":818,"rang":" Master Guardian","winrate":21,"kd":" 0,53","hs":" 32%","hours":563}
+{"cs_id":819,"rang":" Legendary Eagle","winrate":23,"kd":" 0,87","hs":" 21%","hours":1536}
+{"cs_id":820,"rang":" Gold nova","winrate":58,"kd":" 0,56","hs":" 8%","hours":11}
+{"cs_id":821,"rang":" Silver","winrate":46,"kd":" 0,13","hs":" 29%","hours":2921}
+{"cs_id":822,"rang":" Global","winrate":27,"kd":" 1,14","hs":" 99%","hours":843}
+{"cs_id":823,"rang":" Gold nova","winrate":70,"kd":" 1,84","hs":" 67%","hours":2927}
+{"cs_id":824,"rang":" Gold nova","winrate":42,"kd":" 0,26","hs":" 50%","hours":1624}
+{"cs_id":825,"rang":" Silver","winrate":23,"kd":" 0,09","hs":" 45%","hours":2142}
+{"cs_id":826,"rang":" Master Guardian","winrate":29,"kd":" 1,35","hs":" 5%","hours":2184}
+{"cs_id":827,"rang":" Gold nova","winrate":44,"kd":" 0,34","hs":" 36%","hours":171}
+{"cs_id":828,"rang":" Legendary Eagle","winrate":61,"kd":" 1,28","hs":" 60%","hours":1264}
+{"cs_id":829,"rang":" Supreme","winrate":84,"kd":" 1,84","hs":" 77%","hours":91}
+{"cs_id":830,"rang":" Silver","winrate":28,"kd":" 0,00","hs":" 96%","hours":918}
+{"cs_id":831,"rang":" Global","winrate":25,"kd":" 0,05","hs":" 34%","hours":781}
+{"cs_id":832,"rang":" Global","winrate":82,"kd":" 0,40","hs":" 71%","hours":1533}
+{"cs_id":833,"rang":" Gold nova","winrate":54,"kd":" 1,45","hs":" 93%","hours":2365}
+{"cs_id":834,"rang":" Global","winrate":12,"kd":" 0,71","hs":" 53%","hours":575}
+{"cs_id":835,"rang":" Master Guardian","winrate":15,"kd":" 0,67","hs":" 20%","hours":2433}
+{"cs_id":836,"rang":" Silver","winrate":54,"kd":" 0,53","hs":" 60%","hours":1331}
+{"cs_id":837,"rang":" Gold nova","winrate":39,"kd":" 0,52","hs":" 11%","hours":2317}
+{"cs_id":838,"rang":" Global","winrate":74,"kd":" 1,19","hs":" 83%","hours":1642}
+{"cs_id":839,"rang":" Legendary Eagle","winrate":88,"kd":" 0,88","hs":" 7%","hours":2747}
+{"cs_id":840,"rang":" Legendary Eagle","winrate":89,"kd":" 0,22","hs":" 32%","hours":2194}
+{"cs_id":841,"rang":" Legendary Eagle","winrate":12,"kd":" 1,79","hs":" 64%","hours":642}
+{"cs_id":842,"rang":" Legendary Eagle","winrate":70,"kd":" 0,54","hs":" 59%","hours":1217}
+{"cs_id":843,"rang":" Supreme","winrate":66,"kd":" 1,01","hs":" 59%","hours":930}
+{"cs_id":844,"rang":" Gold nova","winrate":77,"kd":" 1,66","hs":" 9%","hours":62}
+{"cs_id":845,"rang":" Silver","winrate":75,"kd":" 0,16","hs":" 71%","hours":2818}
+{"cs_id":846,"rang":" Master Guardian","winrate":38,"kd":" 0,08","hs":" 74%","hours":2649}
+{"cs_id":847,"rang":" Supreme","winrate":57,"kd":" 0,13","hs":" 12%","hours":858}
+{"cs_id":848,"rang":" Global","winrate":23,"kd":" 0,57","hs":" 78%","hours":1549}
+{"cs_id":849,"rang":" Supreme","winrate":17,"kd":" 0,52","hs":" 96%","hours":633}
+{"cs_id":850,"rang":" Legendary Eagle","winrate":45,"kd":" 0,88","hs":" 34%","hours":1667}
+{"cs_id":851,"rang":" Global","winrate":28,"kd":" 0,23","hs":" 74%","hours":1001}
+{"cs_id":852,"rang":" Master Guardian","winrate":73,"kd":" 1,61","hs":" 24%","hours":2772}
+{"cs_id":853,"rang":" Silver","winrate":37,"kd":" 0,30","hs":" 94%","hours":1369}
+{"cs_id":854,"rang":" Supreme","winrate":12,"kd":" 0,41","hs":" 19%","hours":250}
+{"cs_id":855,"rang":" Global","winrate":89,"kd":" 0,39","hs":" 72%","hours":1705}
+{"cs_id":856,"rang":" Gold nova","winrate":14,"kd":" 0,26","hs":" 30%","hours":1591}
+{"cs_id":857,"rang":" Supreme","winrate":68,"kd":" 0,59","hs":" 90%","hours":289}
+{"cs_id":858,"rang":" Supreme","winrate":12,"kd":" 0,08","hs":" 51%","hours":1795}
+{"cs_id":859,"rang":" Global","winrate":87,"kd":" 0,46","hs":" 74%","hours":356}
+{"cs_id":860,"rang":" Supreme","winrate":24,"kd":" 1,17","hs":" 95%","hours":797}
+{"cs_id":861,"rang":" Legendary Eagle","winrate":20,"kd":" 1,66","hs":" 72%","hours":1326}
+{"cs_id":862,"rang":" Global","winrate":31,"kd":" 1,28","hs":" 71%","hours":177}
+{"cs_id":863,"rang":" Gold nova","winrate":73,"kd":" 1,74","hs":" 89%","hours":2767}
+{"cs_id":864,"rang":" Supreme","winrate":85,"kd":" 0,69","hs":" 28%","hours":407}
+{"cs_id":865,"rang":" Master Guardian","winrate":43,"kd":" 1,50","hs":" 71%","hours":395}
+{"cs_id":866,"rang":" Supreme","winrate":65,"kd":" 1,52","hs":" 88%","hours":1375}
+{"cs_id":867,"rang":" Master Guardian","winrate":22,"kd":" 1,43","hs":" 35%","hours":2487}
+{"cs_id":868,"rang":" Master Guardian","winrate":62,"kd":" 0,35","hs":" 78%","hours":2023}
+{"cs_id":869,"rang":" Supreme","winrate":60,"kd":" 0,03","hs":" 27%","hours":2223}
+{"cs_id":870,"rang":" Silver","winrate":25,"kd":" 1,83","hs":" 95%","hours":832}
+{"cs_id":871,"rang":" Legendary Eagle","winrate":28,"kd":" 0,68","hs":" 100%","hours":2621}
+{"cs_id":872,"rang":" Supreme","winrate":90,"kd":" 1,59","hs":" 92%","hours":295}
+{"cs_id":873,"rang":" Silver","winrate":49,"kd":" 0,18","hs":" 40%","hours":1845}
+{"cs_id":874,"rang":" Silver","winrate":37,"kd":" 1,25","hs":" 34%","hours":2903}
+{"cs_id":875,"rang":" Master Guardian","winrate":84,"kd":" 1,20","hs":" 28%","hours":1720}
+{"cs_id":876,"rang":" Silver","winrate":27,"kd":" 1,56","hs":" 80%","hours":371}
+{"cs_id":877,"rang":" Supreme","winrate":81,"kd":" 1,21","hs":" 31%","hours":1901}
+{"cs_id":878,"rang":" Legendary Eagle","winrate":16,"kd":" 1,60","hs":" 29%","hours":1198}
+{"cs_id":879,"rang":" Global","winrate":85,"kd":" 1,94","hs":" 46%","hours":2544}
+{"cs_id":880,"rang":" Global","winrate":15,"kd":" 0,29","hs":" 7%","hours":1720}
+{"cs_id":881,"rang":" Silver","winrate":62,"kd":" 0,79","hs":" 22%","hours":2111}
+{"cs_id":882,"rang":" Master Guardian","winrate":66,"kd":" 1,10","hs":" 50%","hours":1097}
+{"cs_id":883,"rang":" Master Guardian","winrate":26,"kd":" 0,23","hs":" 14%","hours":1447}
+{"cs_id":884,"rang":" Global","winrate":60,"kd":" 0,64","hs":" 74%","hours":1758}
+{"cs_id":885,"rang":" Global","winrate":77,"kd":" 0,50","hs":" 70%","hours":1195}
+{"cs_id":886,"rang":" Gold nova","winrate":32,"kd":" 1,85","hs":" 85%","hours":484}
+{"cs_id":887,"rang":" Supreme","winrate":60,"kd":" 1,28","hs":" 83%","hours":1020}
+{"cs_id":888,"rang":" Global","winrate":37,"kd":" 0,01","hs":" 74%","hours":852}
+{"cs_id":889,"rang":" Master Guardian","winrate":34,"kd":" 1,80","hs":" 94%","hours":1189}
+{"cs_id":890,"rang":" Global","winrate":12,"kd":" 1,02","hs":" 16%","hours":966}
+{"cs_id":891,"rang":" Master Guardian","winrate":64,"kd":" 0,97","hs":" 90%","hours":1129}
+{"cs_id":892,"rang":" Gold nova","winrate":47,"kd":" 1,31","hs":" 68%","hours":542}
+{"cs_id":893,"rang":" Silver","winrate":20,"kd":" 1,96","hs":" 92%","hours":2244}
+{"cs_id":894,"rang":" Gold nova","winrate":40,"kd":" 0,73","hs":" 61%","hours":1241}
+{"cs_id":895,"rang":" Gold nova","winrate":90,"kd":" 1,81","hs":" 18%","hours":2000}
+{"cs_id":896,"rang":" Legendary Eagle","winrate":58,"kd":" 0,48","hs":" 63%","hours":2673}
+{"cs_id":897,"rang":" Silver","winrate":69,"kd":" 1,03","hs":" 76%","hours":2797}
+{"cs_id":898,"rang":" Gold nova","winrate":24,"kd":" 0,25","hs":" 90%","hours":137}
+{"cs_id":899,"rang":" Master Guardian","winrate":74,"kd":" 1,29","hs":" 26%","hours":215}
+{"cs_id":900,"rang":" Gold nova","winrate":42,"kd":" 0,35","hs":" 5%","hours":2203}
+{"cs_id":901,"rang":" Supreme","winrate":75,"kd":" 0,76","hs":" 38%","hours":275}
+{"cs_id":902,"rang":" Silver","winrate":55,"kd":" 0,03","hs":" 66%","hours":2674}
+{"cs_id":903,"rang":" Gold nova","winrate":76,"kd":" 1,56","hs":" 58%","hours":2518}
+{"cs_id":904,"rang":" Master Guardian","winrate":24,"kd":" 1,93","hs":" 13%","hours":892}
+{"cs_id":905,"rang":" Global","winrate":54,"kd":" 0,39","hs":" 39%","hours":177}
+{"cs_id":906,"rang":" Master Guardian","winrate":24,"kd":" 1,41","hs":" 24%","hours":580}
+{"cs_id":907,"rang":" Gold nova","winrate":21,"kd":" 1,74","hs":" 19%","hours":2564}
+{"cs_id":908,"rang":" Legendary Eagle","winrate":28,"kd":" 0,55","hs":" 88%","hours":1485}
+{"cs_id":909,"rang":" Supreme","winrate":56,"kd":" 1,98","hs":" 30%","hours":928}
+{"cs_id":910,"rang":" Legendary Eagle","winrate":37,"kd":" 1,88","hs":" 20%","hours":1646}
+{"cs_id":911,"rang":" Silver","winrate":75,"kd":" 0,05","hs":" 75%","hours":1815}
+{"cs_id":912,"rang":" Master Guardian","winrate":71,"kd":" 0,13","hs":" 60%","hours":2995}
+{"cs_id":913,"rang":" Legendary Eagle","winrate":89,"kd":" 0,72","hs":" 84%","hours":589}
+{"cs_id":914,"rang":" Legendary Eagle","winrate":67,"kd":" 0,40","hs":" 23%","hours":2792}
+{"cs_id":915,"rang":" Silver","winrate":18,"kd":" 0,10","hs":" 24%","hours":1010}
+{"cs_id":916,"rang":" Silver","winrate":77,"kd":" 1,76","hs":" 80%","hours":198}
+{"cs_id":917,"rang":" Gold nova","winrate":32,"kd":" 0,95","hs":" 77%","hours":1724}
+{"cs_id":918,"rang":" Gold nova","winrate":16,"kd":" 0,80","hs":" 9%","hours":558}
+{"cs_id":919,"rang":" Legendary Eagle","winrate":60,"kd":" 0,22","hs":" 14%","hours":786}
+{"cs_id":920,"rang":" Silver","winrate":71,"kd":" 0,39","hs":" 61%","hours":1235}
+{"cs_id":921,"rang":" Gold nova","winrate":27,"kd":" 0,08","hs":" 49%","hours":2781}
+{"cs_id":922,"rang":" Supreme","winrate":71,"kd":" 0,72","hs":" 86%","hours":2268}
+{"cs_id":923,"rang":" Global","winrate":48,"kd":" 1,76","hs":" 30%","hours":1394}
+{"cs_id":924,"rang":" Master Guardian","winrate":40,"kd":" 0,11","hs":" 16%","hours":1049}
+{"cs_id":925,"rang":" Global","winrate":45,"kd":" 0,03","hs":" 48%","hours":1426}
+{"cs_id":926,"rang":" Global","winrate":85,"kd":" 0,24","hs":" 31%","hours":1349}
+{"cs_id":927,"rang":" Master Guardian","winrate":71,"kd":" 1,71","hs":" 35%","hours":151}
+{"cs_id":928,"rang":" Silver","winrate":56,"kd":" 0,39","hs":" 81%","hours":2713}
+{"cs_id":929,"rang":" Global","winrate":26,"kd":" 0,78","hs":" 22%","hours":1526}
+{"cs_id":930,"rang":" Gold nova","winrate":31,"kd":" 0,62","hs":" 24%","hours":1610}
+{"cs_id":931,"rang":" Gold nova","winrate":21,"kd":" 0,15","hs":" 41%","hours":62}
+{"cs_id":932,"rang":" Master Guardian","winrate":73,"kd":" 1,14","hs":" 24%","hours":2046}
+{"cs_id":933,"rang":" Gold nova","winrate":72,"kd":" 0,00","hs":" 60%","hours":2895}
+{"cs_id":934,"rang":" Gold nova","winrate":41,"kd":" 1,41","hs":" 98%","hours":2209}
+{"cs_id":935,"rang":" Master Guardian","winrate":88,"kd":" 0,03","hs":" 20%","hours":1783}
+{"cs_id":936,"rang":" Gold nova","winrate":26,"kd":" 1,47","hs":" 38%","hours":334}
+{"cs_id":937,"rang":" Gold nova","winrate":55,"kd":" 0,13","hs":" 11%","hours":1637}
+{"cs_id":938,"rang":" Global","winrate":44,"kd":" 1,00","hs":" 100%","hours":323}
+{"cs_id":939,"rang":" Supreme","winrate":86,"kd":" 0,16","hs":" 92%","hours":1482}
+{"cs_id":940,"rang":" Silver","winrate":34,"kd":" 0,31","hs":" 69%","hours":2067}
+{"cs_id":941,"rang":" Gold nova","winrate":29,"kd":" 1,98","hs":" 90%","hours":1258}
+{"cs_id":942,"rang":" Global","winrate":11,"kd":" 1,56","hs":" 27%","hours":1540}
+{"cs_id":943,"rang":" Master Guardian","winrate":61,"kd":" 1,50","hs":" 62%","hours":594}
+{"cs_id":944,"rang":" Silver","winrate":41,"kd":" 0,64","hs":" 37%","hours":439}
+{"cs_id":945,"rang":" Silver","winrate":48,"kd":" 0,22","hs":" 83%","hours":1933}
+{"cs_id":946,"rang":" Global","winrate":86,"kd":" 1,51","hs":" 90%","hours":802}
+{"cs_id":947,"rang":" Master Guardian","winrate":63,"kd":" 1,54","hs":" 74%","hours":2518}
+{"cs_id":948,"rang":" Silver","winrate":88,"kd":" 1,24","hs":" 34%","hours":1970}
+{"cs_id":949,"rang":" Legendary Eagle","winrate":90,"kd":" 0,40","hs":" 78%","hours":1482}
+{"cs_id":950,"rang":" Global","winrate":67,"kd":" 0,91","hs":" 28%","hours":2980}
+{"cs_id":951,"rang":" Gold nova","winrate":19,"kd":" 1,38","hs":" 86%","hours":2895}
+{"cs_id":952,"rang":" Silver","winrate":28,"kd":" 1,04","hs":" 5%","hours":1324}
+{"cs_id":953,"rang":" Global","winrate":75,"kd":" 1,89","hs":" 22%","hours":180}
+{"cs_id":954,"rang":" Legendary Eagle","winrate":75,"kd":" 1,95","hs":" 22%","hours":1647}
+{"cs_id":955,"rang":" Supreme","winrate":83,"kd":" 0,32","hs":" 70%","hours":486}
+{"cs_id":956,"rang":" Master Guardian","winrate":13,"kd":" 1,30","hs":" 18%","hours":1126}
+{"cs_id":957,"rang":" Master Guardian","winrate":86,"kd":" 0,77","hs":" 70%","hours":447}
+{"cs_id":958,"rang":" Supreme","winrate":49,"kd":" 1,31","hs":" 95%","hours":325}
+{"cs_id":959,"rang":" Gold nova","winrate":56,"kd":" 1,15","hs":" 75%","hours":775}
+{"cs_id":960,"rang":" Supreme","winrate":21,"kd":" 0,99","hs":" 37%","hours":1129}
+{"cs_id":961,"rang":" Silver","winrate":52,"kd":" 1,24","hs":" 22%","hours":2124}
+{"cs_id":962,"rang":" Master Guardian","winrate":80,"kd":" 0,53","hs":" 92%","hours":585}
+{"cs_id":963,"rang":" Global","winrate":90,"kd":" 0,27","hs":" 98%","hours":1918}
+{"cs_id":964,"rang":" Global","winrate":21,"kd":" 0,10","hs":" 71%","hours":25}
+{"cs_id":965,"rang":" Legendary Eagle","winrate":78,"kd":" 1,47","hs":" 93%","hours":2404}
+{"cs_id":966,"rang":" Supreme","winrate":47,"kd":" 0,86","hs":" 27%","hours":1325}
+{"cs_id":967,"rang":" Master Guardian","winrate":23,"kd":" 1,05","hs":" 32%","hours":1370}
+{"cs_id":968,"rang":" Gold nova","winrate":52,"kd":" 0,17","hs":" 64%","hours":1078}
+{"cs_id":969,"rang":" Legendary Eagle","winrate":61,"kd":" 1,30","hs":" 36%","hours":1740}
+{"cs_id":970,"rang":" Master Guardian","winrate":82,"kd":" 0,54","hs":" 65%","hours":823}
+{"cs_id":971,"rang":" Global","winrate":52,"kd":" 1,90","hs":" 67%","hours":1803}
+{"cs_id":972,"rang":" Gold nova","winrate":43,"kd":" 0,76","hs":" 51%","hours":1579}
+{"cs_id":973,"rang":" Global","winrate":57,"kd":" 1,90","hs":" 77%","hours":71}
+{"cs_id":974,"rang":" Legendary Eagle","winrate":54,"kd":" 0,61","hs":" 98%","hours":1875}
+{"cs_id":975,"rang":" Legendary Eagle","winrate":57,"kd":" 1,69","hs":" 54%","hours":2158}
+{"cs_id":976,"rang":" Silver","winrate":58,"kd":" 0,16","hs":" 97%","hours":955}
+{"cs_id":977,"rang":" Master Guardian","winrate":45,"kd":" 0,03","hs":" 19%","hours":1934}
+{"cs_id":978,"rang":" Master Guardian","winrate":25,"kd":" 0,94","hs":" 79%","hours":2203}
+{"cs_id":979,"rang":" Legendary Eagle","winrate":68,"kd":" 1,73","hs":" 62%","hours":1224}
+{"cs_id":980,"rang":" Supreme","winrate":45,"kd":" 1,65","hs":" 47%","hours":1340}
+{"cs_id":981,"rang":" Legendary Eagle","winrate":65,"kd":" 1,35","hs":" 75%","hours":2861}
+{"cs_id":982,"rang":" Supreme","winrate":10,"kd":" 1,10","hs":" 91%","hours":1628}
+{"cs_id":983,"rang":" Global","winrate":28,"kd":" 1,11","hs":" 88%","hours":1885}
+{"cs_id":984,"rang":" Global","winrate":89,"kd":" 1,18","hs":" 32%","hours":2240}
+{"cs_id":985,"rang":" Master Guardian","winrate":78,"kd":" 1,17","hs":" 25%","hours":187}
+{"cs_id":986,"rang":" Supreme","winrate":32,"kd":" 0,73","hs":" 40%","hours":868}
+{"cs_id":987,"rang":" Global","winrate":11,"kd":" 0,49","hs":" 47%","hours":1983}
+{"cs_id":988,"rang":" Global","winrate":47,"kd":" 0,38","hs":" 78%","hours":1868}
+{"cs_id":989,"rang":" Legendary Eagle","winrate":24,"kd":" 1,52","hs":" 84%","hours":2033}
+{"cs_id":990,"rang":" Supreme","winrate":82,"kd":" 0,56","hs":" 90%","hours":2611}
+{"cs_id":991,"rang":" Global","winrate":18,"kd":" 1,81","hs":" 80%","hours":52}
+{"cs_id":992,"rang":" Master Guardian","winrate":32,"kd":" 0,69","hs":" 21%","hours":993}
+{"cs_id":993,"rang":" Silver","winrate":43,"kd":" 1,98","hs":" 68%","hours":967}
+{"cs_id":994,"rang":" Legendary Eagle","winrate":59,"kd":" 1,77","hs":" 17%","hours":143}
+{"cs_id":995,"rang":" Legendary Eagle","winrate":30,"kd":" 0,60","hs":" 72%","hours":663}
+{"cs_id":996,"rang":" Global","winrate":54,"kd":" 0,87","hs":" 73%","hours":1743}
+{"cs_id":997,"rang":" Supreme","winrate":56,"kd":" 1,19","hs":" 64%","hours":2589}
+{"cs_id":998,"rang":" Gold nova","winrate":26,"kd":" 0,58","hs":" 91%","hours":415}
+{"cs_id":999,"rang":" Gold nova","winrate":24,"kd":" 1,57","hs":" 31%","hours":2592}
+{"cs_id":1000,"rang":" Master Guardian","winrate":78,"kd":" 0,22","hs":" 40%","hours":2009}
+{"cs_id":1001,"rang":"Silver","winrate":30,"kd":"0.35","hs":"30%","hours":2350}
